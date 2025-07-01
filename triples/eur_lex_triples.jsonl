@@ -1,0 +1,714 @@
+{"node1": "DDT (Dichlorodiphenyltrichloroethane)", "relation": "is_restricted_for", "node2": "disease vector control"}
+{"node1": "Diuron", "relation": "is_classified_as", "node2": "May cause damage to organs (blood system) through prolonged or repeated exposure (H373)"}
+{"node1": "Directive 2008/98/EC", "relation": "prohibits mixing of", "node2": "lead compounds"}
+{"node1": "Atrazine", "relation": "is_classified_as", "node2": "Priority Hazardous Substance (Water Framework Directive)"}
+{"node1": "Sulphur Hexafluoride ($SF_6$)", "relation": "is_an", "node2": "F-gas"}
+{"node1": "2015 EU Circular Economy Action Plan", "relation": "targets", "node2": "plastics"}
+{"node1": "Farm_to_Fork_Strategy", "relation": "aims_to_reduce_use_of", "node2": "Pesticides_by_50%_by_2030"}
+{"node1": "municipal waste", "relation": "recycling target (by 2035)", "node2": "65%"}
+{"node1": "Greenhouse Gases (GHGs) (general category)", "relation": "include", "node2": "Methane (CH4)"}
+{"node1": "Hexachlorobenzene (HCB)", "relation": "is_targeted_for_elimination_under", "node2": "EU POPs Regulation (Stockholm Convention Annex A & C)"}
+{"node1": "Polychlorinated Biphenyls (PCBs) in WEEE", "relation": "are_managed_as_hazardous_under", "node2": "WEEE Directive (2012/19/EU)"}
+{"node1": "Greenhouse Gases (GHGs) (general category)", "relation": "include", "node2": "Sulfur Hexafluoride (SF6)"}
+{"node1": "Chlorpyrifos", "relation": "is", "node2": "banned (EU)"}
+{"node1": "Water Framework Directive (WFD)", "relation": "regulates_water_pollutant", "node2": "Cadmium"}
+{"node1": "Chlorofluorocarbons (CFCs)", "relation": "are", "node2": "Greenhouse Gases"}
+{"node1": "Zero_Pollution_Action_Plan", "relation": "aims_to_reduce", "node2": "Air_pollution"}
+{"node1": "European Commission", "relation": "to_propose", "node2": "climate target for 2040"}
+{"node1": "Circular Economy Directive 2018", "relation": "reduces", "node2": "food waste"}
+{"node1": "Endrin", "relation": "is_regulated_under", "node2": "POPs Regulation (banned/restricted)"}
+{"node1": "Landfill_operators", "relation": "must_apply_for", "node2": "permit"}
+{"node1": "EU Emissions Trading System (EU\u00a0ETS)", "relation": "caps emissions of", "node2": "carbon dioxide"}
+{"node1": "Methane (CH4)", "relation": "is_regulated_for_emissions_in", "node2": "energy sector (oil, gas, coal)"}
+{"node1": "hazardous substances", "relation": "includes", "node2": "cadmium and cadmium compounds"}
+{"node1": "Zero Pollution Action Plan", "relation": "has_2050_vision", "node2": "reduce soil pollution to non-harmful levels"}
+{"node1": "waste hierarchy", "relation": "includes", "node2": "recycling"}
+{"node1": "Toxaphene", "relation": "is_listed_for_elimination_in", "node2": "Annex A of Stockholm Convention"}
+{"node1": "REACH Annex XVII Entry 5", "relation": "restricts_concentration_of", "node2": "Benzene in substances/mixtures to less than 0.1% by weight (with exceptions)"}
+{"node1": "Lead compounds (e.g., Orange lead, Lead chromates)", "relation": "are_on", "node2": "REACH SVHC Candidate List or Authorisation List"}
+{"node1": "Water Framework Directive (WFD)", "relation": "regulates_water_pollutant", "node2": "Nickel"}
+{"node1": "EU Circular Economy Plan 2020", "relation": "aims to reduce", "node2": "methane"}
+{"node1": "EU Biodiversity Strategy for 2030", "relation": "protect", "node2": "30% of EU land area"}
+{"node1": "Regulation (EU) 2019/1021 (POPs Regulation)", "relation": "implements", "node2": "UNECE Protocol on POPs"}
+{"node1": "Ecosystem services", "relation": "mitigate", "node2": "floods"}
+{"node1": "Landfill_facilities", "relation": "may_not_accept", "node2": "used_tyres"}
+{"node1": "Jewellery articles containing >0.05% lead", "relation": "are_banned_from_market_by", "node2": "REACH Annex XVII"}
+{"node1": "Nonylphenol_ethoxylates_NPEOs", "relation": "is_restricted_under", "node2": "REACH_Annex_XVII"}
+{"node1": "Substances_of_Very_High_Concern", "relation": "are_placed_on", "node2": "REACH_Candidate_List"}
+{"node1": "Greenhouse Gases (GHGs) (general category)", "relation": "include", "node2": "Nitrous Oxide (N2O)"}
+{"node1": "Farm to Fork strategy", "relation": "reduces nutrient losses by", "node2": "50%"}
+{"node1": "Industrial Emissions Directive (2010/75/EU)", "relation": "reduces", "node2": "carbon dioxide"}
+{"node1": "Directive 2012/19/EU (WEEE Directive)", "relation": "requires removal of", "node2": "chlorofluorocarbons (CFCs)"}
+{"node1": "municipal waste", "relation": "recycling target (by 2030)", "node2": "60%"}
+{"node1": "EU Circular Economy Plan 2020", "relation": "aims to reduce", "node2": "nitrous oxide"}
+{"node1": "European Green Deal", "relation": "aims_for", "node2": "no net emissions of greenhouse gases by 2050"}
+{"node1": "European Climate Law", "relation": "mandates", "node2": "55% emissions reduction by 2030"}
+{"node1": "Ambient Air Quality Directive (AAQD)", "relation": "regulates_air_pollutant", "node2": "Carbon Monoxide (CO)"}
+{"node1": "Ambient Air Quality Directive (AAQD)", "relation": "regulates_air_pollutant", "node2": "Particulate Matter (PM2.5)"}
+{"node1": "Directive 2010/75/EU", "relation": "targets", "node2": "nitrogen oxide"}
+{"node1": "Sulfur_Oxides_SOx", "relation": "are_air_pollutants_reduced_by", "node2": "Industrial_Emissions_Directive"}
+{"node1": "European Climate Law (Regulation (EU) 2021/1119)", "relation": "aims to achieve", "node2": "negative net GHG emissions after 2050"}
+{"node1": "EU Circular Economy Plan 2020", "relation": "targets", "node2": "construction sector"}
+{"node1": "Cyanide compounds", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "EU Biodiversity Strategy 2030", "relation": "restores", "node2": "contaminated soil"}
+{"node1": "Lead", "relation": "is_classified_as", "node2": "toxic for reproduction (REACH)"}
+{"node1": "Ammonia", "relation": "is_air_pollutant_and_contributes_to", "node2": "particulate matter formation (general knowledge)"}
+{"node1": "Directive 2012/19/EU (WEEE Directive)", "relation": "requires removal of", "node2": "plastic containing brominated flame retardants (BFRs)"}
+{"node1": "Zero Pollution Action Plan", "relation": "has_2050_vision", "node2": "reduce water pollution to non-harmful levels"}
+{"node1": "Water Framework Directive (WFD)", "relation": "regulates_water_pollutant", "node2": "Benzene"}
+{"node1": "Zero Pollution Action Plan", "relation": "reduces microplastics by", "node2": "30%"}
+{"node1": "Water Framework Directive (WFD)", "relation": "regulates_emerging_water_pollutant", "node2": "PFAS (per- and polyfluoroalkyl substances)"}
+{"node1": "Water Framework Directive (WFD)", "relation": "regulates_emerging_water_pollutant", "node2": "Bisphenol A"}
+{"node1": "REACH Annex XVII", "relation": "restricts_manufacture", "node2": "Arsenic compounds"}
+{"node1": "REACH Annex XVII", "relation": "restricts_use", "node2": "Mercury and its compounds"}
+{"node1": "Regulation (EU) 2023/465", "relation": "lowered_MRL_for_inorganic_arsenic_in", "node2": "polished (white) rice"}
+{"node1": "Habitats Directive", "relation": "mitigates eutrophication by", "node2": "ammonia"}
+{"node1": "Paris Agreement", "relation": "promotes reduction of", "node2": "sulfur hexafluoride"}
+{"node1": "Industrial Emissions Directive", "relation": "limits", "node2": "heavy metal emissions"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "achieve", "node2": "toxic-free water"}
+{"node1": "Mercury (Hg) and compounds", "relation": "is_restricted_under", "node2": "RoHS Directive (2011/65/EU & (EU) 2015/863)"}
+{"node1": "Commission Regulation (EU) 2023/163", "relation": "amended_MRL_for_DDT_in_wild_boar_to", "node2": "1 mg/kg"}
+{"node1": "Dichloromethane (DCM)", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "Perfluorocarbons (PFCs)", "relation": "are", "node2": "F-gases"}
+{"node1": "Toy Safety Directive", "relation": "sets_limit_values_for", "node2": "lead in toy materials"}
+{"node1": "REACH Annex XVII", "relation": "restricts_use", "node2": "Lead and its compounds"}
+{"node1": "Paris Agreement (climate finance)", "relation": "supports reduction of", "node2": "carbon dioxide"}
+{"node1": "Hydrochlorofluorocarbons (HCFCs)", "relation": "are_regulated_for", "node2": "ozone depletion (Montreal Protocol)"}
+{"node1": "European Green Deal", "relation": "reduces", "node2": "cadmium"}
+{"node1": "Substances_of_Concern", "relation": "can_harm", "node2": "Environment"}
+{"node1": "Dieldrin", "relation": "is_regulated_under", "node2": "POPs Regulation (banned/restricted)"}
+{"node1": "Habitats Directive", "relation": "protects", "node2": "natural habitats"}
+{"node1": "Carbon_Dioxide", "relation": "is_type_of", "node2": "Greenhouse_Gas"}
+{"node1": "Heptachlor", "relation": "is_regulated_under", "node2": "POPs Regulation (banned/restricted)"}
+{"node1": "EU Climate Law", "relation": "makes_binding", "node2": "climate neutrality by 2050"}
+{"node1": "Zinc compounds", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "SOx emissions", "relation": "are_air_pollutants_from", "node2": "fossil fuel combustion (general knowledge, implied by context of NOx)"}
+{"node1": "Non-methane volatile organic compounds (NMVOCs)", "relation": "are", "node2": "indirect GHG precursors"}
+{"node1": "Paris Agreement", "relation": "requires", "node2": "regular progress reports"}
+{"node1": "8th_Environment_Action_Programme", "relation": "aims_for_zero_pollution", "node2": "Water"}
+{"node1": "Polycyclic Aromatic Hydrocarbons (PAHs)", "relation": "are_restricted_in", "node2": "clay targets (REACH Annex XVII Entry 50, sum of 18 PAHs < 0.005%)"}
+{"node1": "Drinking Water Directive", "relation": "sets_limit_for_lead_in_drinking_water", "node2": "10 \u00b5g/l (reducing to 5 \u00b5g/l by 2036)"}
+{"node1": "Chlorofluorocarbons (CFCs)", "relation": "are_banned_under", "node2": "EU ODS Regulation (EU) 2024/590"}
+{"node1": "Use of triorganotin compounds in antifouling paints on EU ships", "relation": "is_banned_since", "node2": "July 2003"}
+{"node1": "REACH Annex XVII", "relation": "restricts_manufacture", "node2": "Asbestos fibers"}
+{"node1": "European Climate Law (Regulation (EU) 2021/1119)", "relation": "applies to emissions of", "node2": "sulphur hexafluoride (SF6)"}
+{"node1": "Hexachlorobenzene (HCB)", "relation": "has_limit_as_UTC_of", "node2": "10 mg/kg in certain products (EU POPs Regulation)"}
+{"node1": "EU Farm to Fork Strategy", "relation": "reduce", "node2": "use of hazardous pesticides (50%)"}
+{"node1": "hazardous waste", "relation": "includes", "node2": "hexachlorobenzene (hcb)"}
+{"node1": "Permit conditions (under Directive 2010/75/EU)", "relation": "derived_from", "node2": "BAT conclusions"}
+{"node1": "REACH_Regulation", "relation": "protects_from_chemical_risks", "node2": "Environment"}
+{"node1": "Lead_compounds", "relation": "is_restricted_under", "node2": "REACH_Annex_XVII"}
+{"node1": "waste hierarchy", "relation": "prioritizes", "node2": "prevention"}
+{"node1": "Metallic Compounds (general category)", "relation": "include", "node2": "Zinc compounds"}
+{"node1": "European Climate Law (Regulation (EU) 2021/1119)", "relation": "applies to emissions of", "node2": "perfluorocarbons (PFCs)"}
+{"node1": "Use of lead gunshot in wetlands", "relation": "is_prohibited_in", "node2": "EU/EEA (since Feb 2023)"}
+{"node1": "Atrazine ban reason", "relation": "was", "node2": "ubiquitous and unpreventable water contamination"}
+{"node1": "Regulation (EC) No 1907/2006 (REACH)", "relation": "aims_to_improve_protection_of", "node2": "environment from chemical substances"}
+{"node1": "Paris Agreement", "relation": "requires", "node2": "climate change adaptation measures"}
+{"node1": "8th_Environment_Action_Programme", "relation": "aims_for_zero_pollution", "node2": "Air"}
+{"node1": "European Green Deal", "relation": "has_objective", "node2": "no net emissions of greenhouse gases by 2050"}
+{"node1": "Revised AAQD (2024)", "relation": "sets_stricter_limit_for", "node2": "NO2 by 2030"}
+{"node1": "POPs Regulation", "relation": "ensures", "node2": "environmentally sound disposal of waste containing POPs"}
+{"node1": "Habitats Directive", "relation": "addresses heavy metal pollution", "node2": "lead"}
+{"node1": "Polycyclic_Aromatic_Hydrocarbons_PAHs", "relation": "are_formed_by", "node2": "Incomplete_organic_burning"}
+{"node1": "Directive 2008/98/EC", "relation": "confirms", "node2": "polluter-pays principle"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "improve", "node2": "air quality"}
+{"node1": "EU Mercury Regulation (EU) 2017/852", "relation": "regulates", "node2": "mercury-added products"}
+{"node1": "EU Climate Law", "relation": "sets_target", "node2": "reduce net greenhouse gas emissions by at least 55% by 2030 (vs 1990)"}
+{"node1": "Xylene", "relation": "is_subject_to", "node2": "occupational exposure limits"}
+{"node1": "Mercury", "relation": "is_regulated_by", "node2": "EU Mercury Regulation (2017/852) (implements Minamata Convention)"}
+{"node1": "Landfill Directive", "relation": "requires barrier", "node2": "soil"}
+{"node1": "hazardous waste", "relation": "includes", "node2": "arsenic compounds"}
+{"node1": "EU Emissions Trading System (EU\u00a0ETS)", "relation": "covers", "node2": "nitrous oxide (N\u2082O)"}
+{"node1": "European Climate Law (Regulation (EU) 2021/1119)", "relation": "applies to emissions of", "node2": "hydrofluorocarbons (HFCs)"}
+{"node1": "Hydrochlorofluorocarbons (HCFCs)", "relation": "are", "node2": "Greenhouse Gases"}
+{"node1": "Effort Sharing Regulation (EU)\u00a02018/842", "relation": "covers", "node2": "nitrous oxide (N\u2082O)"}
+{"node1": "Effort Sharing Regulation (EU)\u00a02018/842", "relation": "covers", "node2": "carbon dioxide (CO\u2082)"}
+{"node1": "Nitrogen Oxides (NOx)", "relation": "emissions_regulated_for_ships_by", "node2": "MARPOL Annex VI (Tier I, II, III limits)"}
+{"node1": "Dichloromethane", "relation": "use_in_consumer_paint_strippers_restricted_by", "node2": "REACH Annex XVII"}
+{"node1": "European Climate Law (Regulation (EU) 2021/1119)", "relation": "requires", "node2": "net domestic GHG emissions reduction \u226555% by 2030 (vs 1990)"}
+{"node1": "Phenols", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "EU Mercury Regulation (EU) 2017/852", "relation": "regulates", "node2": "safe storage of mercury waste"}
+{"node1": "REACH_Regulation", "relation": "identifies", "node2": "Substances_of_Very_High_Concern"}
+{"node1": "Zero Pollution Action Plan", "relation": "reduces pesticide use by", "node2": "50%"}
+{"node1": "Paris Agreement (Article 5 - forests)", "relation": "promotes reduction of", "node2": "carbon dioxide"}
+{"node1": "European_Green_Deal", "relation": "targets_GHG_reduction", "node2": "55%_by_2030_compared_to_1990"}
+{"node1": "Directive 2002/32/EC", "relation": "sets_maximum_levels_for", "node2": "total arsenic in animal feed"}
+{"node1": "Perfluorooctanoic acid (PFOA) and its salts and PFOA-related compounds", "relation": "are_targeted_for_elimination_under", "node2": "EU POPs Regulation (Stockholm Convention Annex A)"}
+{"node1": "REACH Regulation", "relation": "bans", "node2": "asbestos fibres"}
+{"node1": "Natura 2000 network", "relation": "impacted by", "node2": "ammonia"}
+{"node1": "MRLs for inorganic arsenic", "relation": "apply_to", "node2": "fruit juices"}
+{"node1": "Chlorofluorocarbons (CFCs)", "relation": "are_banned_under", "node2": "EU ODS Regulation (e.g., (EU) 2024/590)"}
+{"node1": "Zero_Pollution_Action_Plan", "relation": "aims_to_reduce", "node2": "Soil_pollution"}
+{"node1": "REACH Regulation", "relation": "establishes", "node2": "European Chemicals Agency (ECHA)"}
+{"node1": "EU Circular Economy Plan 2020", "relation": "regulates", "node2": "electronics"}
+{"node1": "Polycyclic Aromatic Hydrocarbons (PAHs)", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "Carbon Monoxide", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "Landfill_sites", "relation": "are_divided_into_categories", "node2": "landfills_for_inert_waste"}
+{"node1": "Directive 2011/65/EU (RoHS Directive)", "relation": "restricts use of", "node2": "polybrominated biphenyls (PBB)"}
+{"node1": "REACH Annex XVII", "relation": "restricts_manufacture", "node2": "Formaldehyde"}
+{"node1": "Farm to Fork strategy", "relation": "reduces fertiliser use by", "node2": "20%"}
+{"node1": "EU Mercury Regulation (EU) 2017/852", "relation": "regulates", "node2": "use of dental amalgam"}
+{"node1": "Lead", "relation": "has_labelling_requirements_under", "node2": "Batteries Regulation"}
+{"node1": "European Climate Law (Regulation (EU) 2021/1119)", "relation": "applies to emissions of", "node2": "nitrous oxide (N2O)"}
+{"node1": "Zero_Pollution_Action_Plan", "relation": "aims_to_reduce", "node2": "Water_pollution"}
+{"node1": "Chlorofluorocarbons (CFCs)", "relation": "are_also", "node2": "Ozone-Depleting Substances"}
+{"node1": "POPs Regulation", "relation": "aims_to_minimize_release_of", "node2": "UPOPs (e.g. dioxins, furans)"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "reduce", "node2": "acidification"}
+{"node1": "European Climate Law", "relation": "limits_contribution_of_net_removals_to_2030_target", "node2": "225 million tonnes $CO_2$ equivalent"}
+{"node1": "Directive 2008/98/EC", "relation": "establishes", "node2": "legal framework for treating waste"}
+{"node1": "EU National Emissions Ceilings Directive (NECD)", "relation": "sets_emission_reduction_commitment_for", "node2": "Ammonia (NH3) by 2030"}
+{"node1": "Ecosystem services", "relation": "support", "node2": "nutrient cycling"}
+{"node1": "Tri-substituted organotin compounds (e.g. TBT, TPT)", "relation": "are_restricted_in_articles_by", "node2": "REACH Annex XVII (>0.1% tin)"}
+{"node1": "Directive 2010/75/EU", "relation": "promotes", "node2": "decarbonisation"}
+{"node1": "Landfill_disposal_price", "relation": "must_cover", "node2": "all_costs_opening_to_closure"}
+{"node1": "Landfill leachate", "relation": "contains heavy metals", "node2": "groundwater"}
+{"node1": "Paris Agreement (Article 6 mechanism)", "relation": "promotes mitigation of", "node2": "carbon dioxide"}
+{"node1": "Landfill leachate", "relation": "contains heavy metals", "node2": "soil"}
+{"node1": "Waste_Framework_Directive (2008/98/EC)", "relation": "introduced", "node2": "waste_hierarchy"}
+{"node1": "Regulation (EU) 2021/1119 (European Climate Law)", "relation": "sets_target", "node2": "net domestic reduction in greenhouse gas emissions by at least 55% by 2030 (vs 1990)"}
+{"node1": "hazardous waste", "relation": "includes", "node2": "lead compounds"}
+{"node1": "Directive 1999/31/EC", "relation": "aims_to_reduce_negative_impact_on", "node2": "groundwater"}
+{"node1": "Directive 2011/65/EU (RoHS Directive)", "relation": "restricts use of", "node2": "BBP (butyl benzyl phthalate)"}
+{"node1": "Directive (EU) 2018/850", "relation": "restricts_landfilling_from_2030_of", "node2": "waste_suitable_for_material_recovery"}
+{"node1": "Directive 2011/65/EU (RoHS Directive)", "relation": "restricts use of", "node2": "DIBP (diisobutyl phthalate)"}
+{"node1": "8th_Environment_Action_Programme", "relation": "promotes_alternatives_for", "node2": "Substances_of_Concern"}
+{"node1": "Regulation (EU) 2019/1021", "relation": "mandates_removal_from_use_of_PCB_equipment_by", "node2": "31st December 2025 (>0.005% PCBs, >0.05L)"}
+{"node1": "Landfill_sites", "relation": "are_divided_into_categories", "node2": "landfills_for_non-hazardous_waste"}
+{"node1": "Endrin", "relation": "is_listed_for_elimination_in", "node2": "Annex A of Stockholm Convention"}
+{"node1": "EU Circular Economy Plan 2020", "relation": "targets", "node2": "textiles"}
+{"node1": "REACH Annex XVII Entry 5", "relation": "restricts_concentration_of", "node2": "Benzene in toys to less than 5 mg/kg"}
+{"node1": "POPs Regulation", "relation": "prohibits_or_restricts", "node2": "placing on the market of intentionally produced POPs"}
+{"node1": "Greenhouse gases (GHGs) (clarified term: gaseous constituents of the atmosphere, natural or anthropogenic, that absorb and re-emit infrared radiation)", "relation": "are_targeted_for_reduction_by", "node2": "various EU policies (e.g., EU ETS, F-Gas Reg., Methane Reg.)"}
+{"node1": "Waste management", "relation": "must be carried out without risk to", "node2": "water"}
+{"node1": "EU Zero Pollution Action Plan", "relation": "reduce", "node2": "ecosystems threatened by air pollution (25%)"}
+{"node1": "Directive 2004/35/EC", "relation": "implements", "node2": "polluter-pays principle"}
+{"node1": "Effort Sharing Regulation (EU)\u00a02018/842", "relation": "covers", "node2": "methane (CH\u2084)"}
+{"node1": "Diisobutyl phthalate (DIBP)", "relation": "is_restricted_under", "node2": "RoHS Directive (EU) 2015/863 (amending 2011/65/EU)"}
+{"node1": "Cadmium", "relation": "is_prohibited_above_thresholds_in", "node2": "batteries and accumulators (Batteries Regulation)"}
+{"node1": "Ambient Air Quality Directive (AAQD)", "relation": "purpose", "node2": "protect human health and environment from air pollution"}
+{"node1": "Hexabromobiphenyl", "relation": "is_regulated_under", "node2": "POPs Regulation (banned/restricted)"}
+{"node1": "Industrial Emissions Directive (2010/75/EU)", "relation": "reduces", "node2": "nitrogen pollution"}
+{"node1": "EU Emissions Trading System (EU\u00a0ETS)", "relation": "covers", "node2": "perfluorocarbons (PFCs)"}
+{"node1": "Industrial Emissions Directive (2010/75/EU)", "relation": "reduces", "node2": "mercury"}
+{"node1": "Water Framework Directive (WFD)", "relation": "regulates_water_pollutant", "node2": "Lead"}
+{"node1": "REACH Annex XVII", "relation": "restricts_manufacture", "node2": "Cadmium and its compounds"}
+{"node1": "hazardous substances", "relation": "includes", "node2": "lead compounds"}
+{"node1": "Nitrogen Oxides (NOx)", "relation": "are", "node2": "indirect GHG precursors"}
+{"node1": "Directive 2008/98/EC", "relation": "protects", "node2": "air"}
+{"node1": "Nitrous_Oxide", "relation": "is_type_of", "node2": "Greenhouse_Gas"}
+{"node1": "Slaughterhouses and animal-by-products industry", "relation": "emit", "node2": "ammonia"}
+{"node1": "Birds Directive", "relation": "addresses pesticide pollution", "node2": "pesticides"}
+{"node1": "Methane", "relation": "is_type_of", "node2": "Greenhouse_Gas"}
+{"node1": "Directive (EU) 2018/850", "relation": "restricts_landfilling_from_2030_of", "node2": "waste_suitable_for_energy_recovery"}
+{"node1": "Polychlorinated Biphenyls (PCBs)", "relation": "production_banned_in", "node2": "EU"}
+{"node1": "Landfill Directive", "relation": "prevents pollution of", "node2": "groundwater"}
+{"node1": "EU National Emissions Ceilings Directive (NECD)", "relation": "sets_emission_reduction_commitment_for", "node2": "Nitrogen Oxides (NOx) by 2030"}
+{"node1": "EU Zero Pollution Action Plan", "relation": "reduce", "node2": "plastic litter at sea (50%)"}
+{"node1": "Xylene", "relation": "is_restricted_for_general_public_by", "node2": "REACH (in certain products)"}
+{"node1": "Directive (EU) 2018/851", "relation": "stops", "node2": "marine litter"}
+{"node1": "Ambient Air Quality Directive (AAQD)", "relation": "regulates_air_pollutant", "node2": "Benzene"}
+{"node1": "Directive 2011/65/EU (RoHS Directive)", "relation": "restricts use of", "node2": "lead"}
+{"node1": "Butyl benzyl phthalate (BBP)", "relation": "is_restricted_under", "node2": "RoHS Directive (EU) 2015/863 (amending 2011/65/EU)"}
+{"node1": "Trichloroethylene", "relation": "classified_as (ECHA)", "node2": "Carc. 1B"}
+{"node1": "European_Green_Deal", "relation": "has_ambition", "node2": "Zero_pollution_for_toxic-free_environment"}
+{"node1": "Substances_of_Concern", "relation": "can_harm", "node2": "Human_health"}
+{"node1": "Regulation (EU) 2024/573 (F-gases)", "relation": "purpose", "node2": "reduce emissions of fluorinated greenhouse gases"}
+{"node1": "Habitats Directive", "relation": "addresses mercury contamination", "node2": "mercury"}
+{"node1": "Paris Agreement (Article 6 mechanism)", "relation": "ensures reduction of", "node2": "carbon dioxide"}
+{"node1": "EU_countries", "relation": "must_implement_national_strategies_for", "node2": "reduction_of_biodegradable_waste_to_landfills"}
+{"node1": "European Climate Law", "relation": "enshrines", "node2": "climate neutrality by 2050"}
+{"node1": "Ecosystem services", "relation": "enable", "node2": "pollination"}
+{"node1": "European Green Deal", "relation": "aims_for", "node2": "economic growth decoupled from resource use"}
+{"node1": "Benzene", "relation": "has_toy_limit_under_REACH", "node2": "5mg_per_kg"}
+{"node1": "Ecosystem services", "relation": "provide", "node2": "food"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "nonylphenol and its ethoxylates"}
+{"node1": "EU Biodiversity Strategy 2030", "relation": "aims to halve", "node2": "chemical pesticide use"}
+{"node1": "Pentachlorophenol", "relation": "is_restricted_under", "node2": "REACH_Annex_XVII"}
+{"node1": "Paris Agreement", "relation": "aims to reduce", "node2": "N\u2082O (nitrous oxide) emissions"}
+{"node1": "Atrazine", "relation": "is_recognized_as", "node2": "endocrine disruptor"}
+{"node1": "hazardous waste", "relation": "includes", "node2": "cadmium and cadmium compounds"}
+{"node1": "Landfill_facilities", "relation": "may_not_accept", "node2": "flammable_waste"}
+{"node1": "Slaughterhouses and animal-by-products industry", "relation": "emit", "node2": "volatile organic compounds (TVOC)"}
+{"node1": "EU Farm to Fork Strategy", "relation": "reduce", "node2": "chemical pesticide use (50%)"}
+{"node1": "Directive 2004/35/EC", "relation": "covers contamination of", "node2": "land"}
+{"node1": "Ambient Air Quality Directive (AAQD)", "relation": "regulates_air_pollutant", "node2": "Lead (Pb)"}
+{"node1": "Greenhouse Gases (GHGs) (general category)", "relation": "include", "node2": "Hydrochlorofluorocarbons (HCFCs)"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "Bisphenol A"}
+{"node1": "EU Biodiversity Strategy for 2030", "relation": "protect", "node2": "30% of EU sea area"}
+{"node1": "Directive 2012/19/EU (WEEE Directive)", "relation": "requires removal of", "node2": "cathode ray tubes (lead glass)"}
+{"node1": "EU Biodiversity Strategy 2030", "relation": "targets reduction of", "node2": "total phosphorus"}
+{"node1": "Revised AAQD (2024)", "relation": "sets_stricter_limit_for", "node2": "PM2.5 by 2030"}
+{"node1": "Polychlorinated Biphenyls (PCBs)", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "Di(2-ethylhexyl) phthalate (DEHP)", "relation": "is_restricted_under", "node2": "REACH Annex XVII (e.g., in toys, childcare articles)"}
+{"node1": "Regulation (EU) 2024/590 (ODS)", "relation": "mandates_recovery_of", "node2": "ODS in equipment"}
+{"node1": "National Emission Ceilings Directive", "relation": "cuts", "node2": "nitrogen oxide emissions"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "mercury and its compounds"}
+{"node1": "MRLs for Ethylene oxides on food", "relation": "are_set_at", "node2": "LOD"}
+{"node1": "EU Member States", "relation": "must establish separate collection by 1 Jan 2025 for", "node2": "hazardous waste generated by households"}
+{"node1": "EU Biodiversity Strategy for 2030", "relation": "strictly protect", "node2": "10% of EU land and sea area"}
+{"node1": "POPs Regulation", "relation": "prohibits_or_restricts", "node2": "production of intentionally produced POPs"}
+{"node1": "Directive 2011/65/EU (RoHS Directive)", "relation": "restricts use of", "node2": "polybrominated diphenyl ethers (PBDE)"}
+{"node1": "Cadmium", "relation": "is_suspected", "node2": "carcinogen"}
+{"node1": "Landfill Directive", "relation": "treats leachate", "node2": "water"}
+{"node1": "Naphthalene", "relation": "is_type_of", "node2": "Polycyclic_Aromatic_Hydrocarbon"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "achieve", "node2": "toxic-free air"}
+{"node1": "Directive 2004/35/EC", "relation": "includes discharge into", "node2": "air"}
+{"node1": "Halogenated Compounds (general category)", "relation": "include", "node2": "Trichloroethane"}
+{"node1": "Lead sulphates", "relation": "are_banned_in_paints_by", "node2": "REACH Annex XVII (with exceptions)"}
+{"node1": "European Scientific Advisory Board on Climate Change", "relation": "provides", "node2": "scientific advice on EU climate measures"}
+{"node1": "EU Farm to Fork Strategy", "relation": "aims to halve", "node2": "nutrient losses"}
+{"node1": "Nitrogen Trifluoride ($NF_3$)", "relation": "is_an", "node2": "F-gas"}
+{"node1": "Cadmium", "relation": "banned_in", "node2": "jewellery (EU)"}
+{"node1": "Industrial Emissions Directive (2010/75/EU)", "relation": "reduces", "node2": "ammonia"}
+{"node1": "Landfill_facilities", "relation": "may_not_accept", "node2": "corrosive_waste"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "improve", "node2": "soil quality"}
+{"node1": "Installations (under Directive 2010/75/EU)", "relation": "require_use_of", "node2": "Best Available Techniques (BATs)"}
+{"node1": "Particulate Matter 10 (PM10)", "relation": "has_limit_values_under", "node2": "Ambient Air Quality Directive (2008/50/EC)"}
+{"node1": "Fluorinated Gases (F-gases)", "relation": "are_targeted_by", "node2": "EU climate policy"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "reduce", "node2": "eutrophication"}
+{"node1": "MRLs for inorganic arsenic", "relation": "apply_to", "node2": "food for infants and young children"}
+{"node1": "Circular Economy Directive 2018", "relation": "sets recycling targets", "node2": "municipal waste"}
+{"node1": "Slaughterhouses and animal-by-products industry", "relation": "emit", "node2": "dust"}
+{"node1": "Dioxins and Furans", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "European Green Deal", "relation": "aims to cut", "node2": "carbon dioxide emissions"}
+{"node1": "European Green Deal", "relation": "aims for", "node2": "zero pollution"}
+{"node1": "Zero Pollution Action Plan", "relation": "has_2030_target", "node2": "reduce nutrient losses by 50%"}
+{"node1": "Regulation (EU) 2024/573 (F-gases)", "relation": "targets_pollutant", "node2": "Hydrofluorocarbons (HFCs)"}
+{"node1": "EU Circular Economy Plan 2020", "relation": "recycles", "node2": "nutrients"}
+{"node1": "Regulation (EU) 2024/573 (F-gases)", "relation": "targets_pollutant", "node2": "Perfluorocarbons (PFCs)"}
+{"node1": "Hexachlorobenzene (HCB)", "relation": "is_prohibited_under", "node2": "EU POPs Regulation (Annex I)"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "nickel and its compounds"}
+{"node1": "Paris Agreement", "relation": "aims for", "node2": "climate neutrality by 2100"}
+{"node1": "hazardous substances", "relation": "includes", "node2": "mercury compounds"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "benzene"}
+{"node1": "Nitrogen Oxides (NOx)", "relation": "emissions_regulated_for_vehicles_by", "node2": "EU Euro 5/6 Regulation (e.g., 80 mg/km for diesel cars)"}
+{"node1": "European Green Deal", "relation": "has_objective", "node2": "transition to a clean and circular economy"}
+{"node1": "Sulphur dioxide ($SO_2$)", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "Hexachlorobenzene (HCB)", "relation": "is_regulated_under", "node2": "POPs Regulation (banned/restricted)"}
+{"node1": "Directive 2010/75/EU", "relation": "targets", "node2": "mercury"}
+{"node1": "European Green Deal", "relation": "aims_for", "node2": "EU to be first climate-neutral bloc by 2050"}
+{"node1": "waste hierarchy", "relation": "includes", "node2": "disposal"}
+{"node1": "Habitats Directive", "relation": "addresses heavy metal pollution", "node2": "cadmium"}
+{"node1": "Ecosystem services", "relation": "regulate", "node2": "carbon dioxide"}
+{"node1": "Regulation (EU) 2024/573 (F-gases)", "relation": "targets_pollutant", "node2": "Sulfur Hexafluoride (SF6)"}
+{"node1": "Directive 2008/98/EC", "relation": "establishes framework for", "node2": "treating waste in the European Union"}
+{"node1": "Greenhouse Gases (EU context)", "relation": "defined_as", "node2": "gases capable of absorbing infrared radiation and reradiating it to Earth"}
+{"node1": "Zero Pollution Action Plan", "relation": "has_2030_target", "node2": "reduce plastic litter at sea by 50%"}
+{"node1": "Sustainable mobility", "relation": "reduces", "node2": "nitrogen oxide emissions"}
+{"node1": "Paris Agreement", "relation": "provides", "node2": "adaptation finance to developing countries"}
+{"node1": "Cadmium", "relation": "is_restricted_under", "node2": "RoHS Directive in EEE (max 0.01% by weight)"}
+{"node1": "Landfill Directive", "relation": "collects leachate", "node2": "leachate"}
+{"node1": "Halogenated Compounds (general category)", "relation": "include", "node2": "Tetrachloromethane"}
+{"node1": "Lead", "relation": "is_restricted_under", "node2": "Toy Safety Directive"}
+{"node1": "municipal waste", "relation": "recycling target (by 2025)", "node2": "55%"}
+{"node1": "Mercury compounds", "relation": "are_banned_or_restricted_under", "node2": "EU Mercury Regulation (EU) 2017/852 (revised 2024)"}
+{"node1": "Polychlorinated Biphenyls (PCBs)", "relation": "are_banned_under", "node2": "EU POPs Regulation (EU) 2019/1021 (Stockholm Convention Annex A & C)"}
+{"node1": "Directive 2004/35/EC", "relation": "covers contamination by", "node2": "polychlorinated biphenyls (PCBs)"}
+{"node1": "Mercury", "relation": "is (ECHA)", "node2": "priority hazardous substance (Water Framework Directive)"}
+{"node1": "Atrazine", "relation": "is_banned_in", "node2": "EU (since Oct 2003)"}
+{"node1": "European Green Deal", "relation": "reduces", "node2": "total nitrogen"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "protect", "node2": "marine biodiversity"}
+{"node1": "Substances of Very High Concern (SVHCs)", "relation": "can_be_added_to", "node2": "Authorisation List (REACH Annex XIV)"}
+{"node1": "MRL for diuron (most products)", "relation": "is_lowered_to", "node2": "0.01 mg/kg"}
+{"node1": "EU Biodiversity Strategy 2030", "relation": "protects", "node2": "pollinators"}
+{"node1": "Directive 2004/35/EC", "relation": "covers damage to", "node2": "protected species and natural habitats"}
+{"node1": "Zero Pollution Action Plan", "relation": "has_2030_target", "node2": "reduce chemical pesticides use by 50%"}
+{"node1": "Zero Pollution Action Plan", "relation": "has_2030_target", "node2": "reduce premature deaths from air pollution by 55%"}
+{"node1": "Naphthalene", "relation": "is_on", "node2": "REACH Restriction List (Annex XVII)"}
+{"node1": "Directive 2010/75/EU", "relation": "regulates_sector", "node2": "metal production and processing"}
+{"node1": "Directive 2008/98/EC", "relation": "prohibits mixing of", "node2": "mercury compounds"}
+{"node1": "Lead carbonates", "relation": "are_banned_in_paints_by", "node2": "REACH Annex XVII (with exceptions)"}
+{"node1": "Directive 2010/75/EU", "relation": "objective", "node2": "resource efficiency improvement"}
+{"node1": "Copper compounds", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "Directive 1999/31/EC", "relation": "aims_to_reduce_negative_impact_on", "node2": "human_health"}
+{"node1": "Benzene", "relation": "indirectly_regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "European Green Deal", "relation": "reduces", "node2": "nitrogen oxide (NOx)"}
+{"node1": "EU CO\u2082 car standards (2035)", "relation": "require", "node2": "zero carbon dioxide emissions from new cars by 2035"}
+{"node1": "EU Biodiversity Strategy for 2030", "relation": "halts", "node2": "biodiversity loss"}
+{"node1": "Directive (EU) 2018/851", "relation": "reduces", "node2": "di(2-ethylhexyl)phthalate"}
+{"node1": "Regulation (EC) No 1272/2008 (CLP)", "relation": "aligns_EU_system_with", "node2": "Globally Harmonised System (GHS)"}
+{"node1": "Habitats Directive", "relation": "addresses acidification by", "node2": "sulphur dioxide"}
+{"node1": "Landfill leachate", "relation": "contains heavy metals", "node2": "surface water"}
+{"node1": "Directive 2008/98/EC", "relation": "protects", "node2": "water"}
+{"node1": "Directive 2008/98/EC", "relation": "protects", "node2": "soil"}
+{"node1": "Greenhouse Gases (GHGs) (general category)", "relation": "include", "node2": "Chlorofluorocarbons (CFCs)"}
+{"node1": "Mercury_compounds", "relation": "is_restricted_under", "node2": "REACH_Annex_XVII"}
+{"node1": "Toxaphene", "relation": "is_regulated_under", "node2": "POPs Regulation (banned/restricted)"}
+{"node1": "Landfill Directive", "relation": "requires barrier", "node2": "groundwater"}
+{"node1": "Atrazine", "relation": "is", "node2": "banned (EU)"}
+{"node1": "Paris Agreement", "relation": "aims to reduce", "node2": "HFC (hydrofluorocarbon) emissions"}
+{"node1": "National Emission Ceilings Directive", "relation": "cuts", "node2": "ammonia emissions"}
+{"node1": "Directive 2008/98/EC", "relation": "introduces", "node2": "extended producer responsibility"}
+{"node1": "Paris Agreement", "relation": "fosters low-carbon development", "node2": "carbon dioxide"}
+{"node1": "Paris Agreement (2015)", "relation": "aims to limit", "node2": "global temperature rise to 1.5\u202f\u00b0C"}
+{"node1": "Paris Agreement", "relation": "aims to reduce", "node2": "CH\u2084 (methane) emissions"}
+{"node1": "EU Circular Economy Plan 2020", "relation": "aims to reduce", "node2": "carbon dioxide"}
+{"node1": "Directive 2008/98/EC", "relation": "prohibits mixing of", "node2": "cadmium compounds"}
+{"node1": "Regulation (EU) 2021/1119 (European Climate Law)", "relation": "establishes_framework_for", "node2": "irreversible and gradual reduction of anthropogenic greenhouse gas emissions"}
+{"node1": "Naphthalene", "relation": "is_restricted_in", "node2": "certain consumer articles (e.g. mothballs)"}
+{"node1": "Regulation (EU) 2024/573", "relation": "identifies_GHG", "node2": "Nitrogen Trifluoride"}
+{"node1": "Naphthalene", "relation": "is_part_of", "node2": "REACH CoRAP (Community Rolling Action Plan) for evaluation"}
+{"node1": "EU Member States", "relation": "must separately collect by 1 Jan 2025", "node2": "hazardous waste generated by households"}
+{"node1": "Mercury", "relation": "is_restricted_under", "node2": "RoHS Directive in EEE (max 0.1% by weight)"}
+{"node1": "REACH Regulation (EC) No 1907/2006", "relation": "aims_to_promote", "node2": "alternative methods to animal testing"}
+{"node1": "Directive 2010/75/EU", "relation": "targets", "node2": "ammonia"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "combat", "node2": "desertification"}
+{"node1": "Urban Waste Water Treatment Directive", "relation": "reduces", "node2": "phosphorus pollution"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "achieve", "node2": "toxic-free soil"}
+{"node1": "Water Framework Directive (WFD)", "relation": "regulates_water_pollutant", "node2": "Polyaromatic Hydrocarbons (PAHs)"}
+{"node1": "hazardous substances", "relation": "includes", "node2": "polychlorinated biphenyls (pcbs)"}
+{"node1": "EU Emissions Trading System (ETS)", "relation": "operates_on", "node2": "cap and trade principle"}
+{"node1": "Organotin compounds (e.g., Tributyltin - TBT)", "relation": "are_banned_as", "node2": "biocides in anti-fouling paints on ships"}
+{"node1": "EU Member States", "relation": "must establish separate collection by 1 Jan 2025 for", "node2": "textiles"}
+{"node1": "Metallic Compounds (general category)", "relation": "include", "node2": "Copper compounds"}
+{"node1": "Landfill Directive", "relation": "prevents pollution of", "node2": "surface water"}
+{"node1": "Benzene", "relation": "is_restricted_under", "node2": "REACH_Annex_XVII"}
+{"node1": "Diuron", "relation": "use_as_plant_protection_product_not_permitted_in", "node2": "EU"}
+{"node1": "Farm to Fork strategy", "relation": "reduces use of", "node2": "antimicrobials by 50%"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "octamethylcyclotetrasiloxane (D4)"}
+{"node1": "Regulation (EU) 2024/590 (ODS)", "relation": "targets_pollutant", "node2": "Hydrochlorofluorocarbons (HCFCs)"}
+{"node1": "Farm to Fork Strategy", "relation": "halves", "node2": "nitrogen pollution"}
+{"node1": "Lindane", "relation": "use_prohibited_by", "node2": "POPs Regulation (Annex I)"}
+{"node1": "Cadmium compounds", "relation": "are_restricted_in", "node2": "paints (HS codes 3208, 3209)"}
+{"node1": "Nitrogen oxides ($NO_x$)", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "EU Climate Adaptation Strategy", "relation": "aims for", "node2": "climate-resilient society by 2050"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "protect", "node2": "biodiversity of inland waters"}
+{"node1": "Regulation (EU) 2019/1021 (POPs Regulation)", "relation": "implements", "node2": "Stockholm Convention on POPs"}
+{"node1": "Paris Agreement", "relation": "requires", "node2": "Nationally Determined Contributions (NDCs)"}
+{"node1": "Directive 2011/65/EU (RoHS Directive)", "relation": "restricts use of", "node2": "mercury"}
+{"node1": "Chlordecone", "relation": "is_listed_for_elimination_in", "node2": "Annex A of Stockholm Convention"}
+{"node1": "Lindane (gamma-HCH)", "relation": "has_pharmaceutical_exemption_under", "node2": "Stockholm Convention on POPs"}
+{"node1": "EU Mercury Regulation (EU) 2017/852", "relation": "regulates", "node2": "safe disposal of mercury waste"}
+{"node1": "Landfill_facilities", "relation": "may_not_accept", "node2": "liquid_waste"}
+{"node1": "Directive 2004/35/EC", "relation": "covers damage to", "node2": "Natura 2000 protected sites"}
+{"node1": "Directive 2011/65/EU (RoHS Directive)", "relation": "restricts use of", "node2": "cadmium"}
+{"node1": "Polycyclic Aromatic Hydrocarbons (PAHs)", "relation": "are_restricted_in_consumer_articles_by", "node2": "REACH Annex XVII (if above limits)"}
+{"node1": "Ecosystem services", "relation": "maintain", "node2": "water quality"}
+{"node1": "Lead", "relation": "is_restricted_under", "node2": "RoHS Directive in EEE (max 0.1% by weight)"}
+{"node1": "Ecosystem services", "relation": "control", "node2": "disease"}
+{"node1": "Toluene", "relation": "is_subject_to", "node2": "occupational exposure limits"}
+{"node1": "Directive 2011/65/EU (RoHS Directive)", "relation": "restricts use of", "node2": "DEHP (bis(2-ethylhexyl) phthalate)"}
+{"node1": "Xylene", "relation": "is_on", "node2": "REACH Restriction List (Annex XVII)"}
+{"node1": "Ambient Air Quality Directive (AAQD)", "relation": "regulates_air_pollutant", "node2": "Sulphur Dioxide (SO2)"}
+{"node1": "Ambient Air Quality Directive (AAQD)", "relation": "regulates_air_pollutant", "node2": "Particulate Matter (PM10)"}
+{"node1": "Nitrates Directive", "relation": "prevents", "node2": "water eutrophication"}
+{"node1": "Paris Agreement (Article 6 mechanism)", "relation": "facilitates mitigation of", "node2": "carbon dioxide"}
+{"node1": "Water Framework Directive (WFD)", "relation": "regulates_water_pollutant", "node2": "Mercury"}
+{"node1": "Directive 2010/75/EU", "relation": "objective", "node2": "waste generation prevention"}
+{"node1": "Directive 2010/75/EU", "relation": "reduces", "node2": "livestock-rearing emissions"}
+{"node1": "Regulation (EU) 2023/915", "relation": "sets_MRLs_for", "node2": "inorganic arsenic in foodstuffs"}
+{"node1": "Farm to Fork strategy", "relation": "reduces use of", "node2": "more hazardous pesticides by 50%"}
+{"node1": "Perfluorocarbons", "relation": "is_type_of", "node2": "Fluorinated_Gas"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "cadmium and its compounds"}
+{"node1": "Food Contaminants Regulation", "relation": "sets_maximum_levels_for", "node2": "lead in foodstuffs"}
+{"node1": "Regulation (EU) 2021/1119 (European Climate Law)", "relation": "aims_for", "node2": "negative emissions after 2050"}
+{"node1": "EU Mercury Regulation (EU) 2017/852", "relation": "regulates", "node2": "use of mercury in industrial activities"}
+{"node1": "EU Circular Economy Plan 2020", "relation": "regulates", "node2": "batteries"}
+{"node1": "Zero Pollution Action Plan", "relation": "reduces nutrient losses by", "node2": "50%"}
+{"node1": "Installations (under Directive 2010/75/EU)", "relation": "require", "node2": "official permits"}
+{"node1": "POPs Regulation", "relation": "prohibits_or_restricts", "node2": "use of intentionally produced POPs"}
+{"node1": "Cadmium", "relation": "restricted_by", "node2": "RoHS Directive"}
+{"node1": "Landfill_facilities", "relation": "may_not_accept", "node2": "explosive_waste"}
+{"node1": "Directive 2008/98/EC", "relation": "establishes", "node2": "waste hierarchy"}
+{"node1": "Directive 2012/19/EU (WEEE Directive)", "relation": "requires removal of", "node2": "asbestos"}
+{"node1": "Cadmium", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "Developed country Parties", "relation": "support reduction of", "node2": "carbon dioxide"}
+{"node1": "Di(2-ethylhexyl) phthalate (DEHP)", "relation": "is_on", "node2": "REACH Authorisation List (Annex XIV)"}
+{"node1": "EU National Emissions Ceilings Directive (NECD)", "relation": "sets_emission_reduction_commitment_for", "node2": "Sulphur Dioxide (SO2) by 2030"}
+{"node1": "DDT", "relation": "use_in_plant_protection_products_prohibited_by", "node2": "Commission Directive 83/131/EEC"}
+{"node1": "Directive (EU) 2018/850", "relation": "restricts_landfilling_from_2030_of", "node2": "waste_suitable_for_recycling"}
+{"node1": "Ecosystem services", "relation": "provide", "node2": "water"}
+{"node1": "EU Emissions Trading System (ETS)", "relation": "sets_cap_on", "node2": "GHG emissions from covered installations"}
+{"node1": "Priority Substances (WFD)", "relation": "targeted_for_action", "node2": "cessation/phasing-out of discharges into water"}
+{"node1": "Ambient Air Quality Directive (AAQD)", "relation": "regulates_air_pollutant", "node2": "Ozone (O3)"}
+{"node1": "CLP Regulation", "relation": "requires", "node2": "classification of hazardous chemicals"}
+{"node1": "REACH Regulation", "relation": "requires registration of", "node2": "chemicals manufactured or imported in quantities of 1 tonne or more per year"}
+{"node1": "Industrial Emissions Directive (2010/75/EU)", "relation": "reduces", "node2": "methane"}
+{"node1": "Landfill Directive", "relation": "minimises dust emissions", "node2": "air"}
+{"node1": "European Green Deal", "relation": "has_objective", "node2": "restore biodiversity"}
+{"node1": "Paris Agreement", "relation": "pursues efforts to", "node2": "limit warming to 1.5\u00b0C"}
+{"node1": "Lead compounds", "relation": "are_candidate_for", "node2": "REACH Annex XIV (Authorisation List)"}
+{"node1": "Hydrofluorocarbons (HFCs)", "relation": "are", "node2": "F-gases"}
+{"node1": "EU F-gas Regulation\u00a02024/573", "relation": "restricts use of", "node2": "sulphur hexafluoride (SF\u2086)"}
+{"node1": "Fluorine and its compounds", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "Habitats Directive", "relation": "limits ozone pollution impact", "node2": "ozone"}
+{"node1": "Zero Pollution Action Plan", "relation": "reduces plastic litter by", "node2": "50%"}
+{"node1": "Atrazine", "relation": "is_registered_for", "node2": "intermediate use only (REACH)"}
+{"node1": "Industrial Emissions Directive (2010/75/EU)", "relation": "sets", "node2": "emission limit values (ELVs)"}
+{"node1": "Pentachlorobenzene", "relation": "is_regulated_under", "node2": "POPs Regulation (banned/restricted)"}
+{"node1": "Total Organic Carbon (TOC)", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "EU", "relation": "proposes_limit_for_PCBs_as_UTCs", "node2": "0.2 mg/kg"}
+{"node1": "Nitrous Oxide ($N_2O$)", "relation": "is_targeted_by", "node2": "EU climate policy"}
+{"node1": "Directive (EU) 2018/851", "relation": "sets municipal waste recycling target of", "node2": "55% by 2025"}
+{"node1": "Greenhouse Gases (GHGs) (general category)", "relation": "include", "node2": "Carbon Dioxide (CO2)"}
+{"node1": "Polychlorinated Biphenyls (PCBs)", "relation": "are_banned_by", "node2": "Stockholm Convention on POPs"}
+{"node1": "Fit_for_55_Package", "relation": "regulates", "node2": "Greenhouse_Gases"}
+{"node1": "Directive 2010/75/EU", "relation": "mandates", "node2": "public information access"}
+{"node1": "Circular Economy Directive 2018", "relation": "limits", "node2": "landfill waste"}
+{"node1": "REACH Annex XVII", "relation": "restricts_manufacture", "node2": "Mercury and its compounds"}
+{"node1": "REACH Authorisation process", "relation": "aims_to_replace", "node2": "SVHCs with safer alternatives"}
+{"node1": "Zero Pollution Action Plan", "relation": "has_2050_vision", "node2": "reduce air pollution to non-harmful levels"}
+{"node1": "Industrial Emissions Directive (2010/75/EU)", "relation": "reduces", "node2": "nitrogen oxide (NOx)"}
+{"node1": "Waste_for_landfill", "relation": "must_be", "node2": "treated_waste"}
+{"node1": "Directive (EU) 2018/851", "relation": "aims to stop", "node2": "generation of marine litter"}
+{"node1": "Polycyclic Aromatic Hydrocarbons (PAHs)", "relation": "proposed_restriction_in", "node2": "granules and mulches (sum of 8 PAHs < 0.002%)"}
+{"node1": "Chlorofluorocarbons (CFCs)", "relation": "are_regulated_for", "node2": "ozone depletion (Montreal Protocol)"}
+{"node1": "Sulfur_Hexafluoride", "relation": "is_type_of", "node2": "Fluorinated_Gas"}
+{"node1": "REACH Annex XVII", "relation": "restricts_manufacture", "node2": "Lead and its compounds"}
+{"node1": "Metallic Compounds (general category)", "relation": "include", "node2": "Organotin compounds"}
+{"node1": "Directive 2008/98/EC", "relation": "aims to protect", "node2": "environment and human health"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "methanol"}
+{"node1": "Lindane (gamma-HCH)", "relation": "agricultural_use_banned_by", "node2": "Stockholm Convention on POPs"}
+{"node1": "REACH Annex XVII", "relation": "restricts_use", "node2": "Benzene"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "decamethylcyclopentasiloxane (D5)"}
+{"node1": "Landfill leachate", "relation": "contains NH3", "node2": "groundwater"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "combat", "node2": "soil degradation"}
+{"node1": "Landfill leachate", "relation": "contains NH3", "node2": "soil"}
+{"node1": "Land Use, Land-Use Change and Forestry (LULUCF) Regulation", "relation": "requires", "node2": "compensation of land use GHG emissions by equivalent removals"}
+{"node1": "Landfill_sites", "relation": "are_divided_into_categories", "node2": "landfills_for_hazardous_waste"}
+{"node1": "Dibutyl phthalate (DBP)", "relation": "is_restricted_under", "node2": "RoHS Directive (EU) 2015/863 (amending 2011/65/EU)"}
+{"node1": "Hexachlorobutadiene", "relation": "is_regulated_under", "node2": "POPs Regulation (banned/restricted)"}
+{"node1": "Directive 2004/35/EC", "relation": "covers contamination by", "node2": "lead"}
+{"node1": "Nationally determined contributions (NDCs)", "relation": "aim to reduce", "node2": "carbon dioxide"}
+{"node1": "REACH Annex XVII", "relation": "restricts_use", "node2": "Formaldehyde"}
+{"node1": "Decision 2003/33/EC", "relation": "lays_down_criteria_for", "node2": "waste_acceptance_at_landfills"}
+{"node1": "Regulation (EU) 2024/590 (ODS)", "relation": "prohibits_production_of", "node2": "ODS (generally)"}
+{"node1": "EU Zero Pollution Action Plan", "relation": "reduce", "node2": "transport noise disturbance (30%)"}
+{"node1": "Toluene", "relation": "is_restricted_for_general_public_by", "node2": "REACH (in certain products)"}
+{"node1": "Water Framework Directive (WFD)", "relation": "regulates_water_pollutant", "node2": "Pesticides (various)"}
+{"node1": "Directive 2004/35/EC", "relation": "covers", "node2": "water resources (water quality)"}
+{"node1": "Polychlorinated Biphenyls (PCBs)", "relation": "new_use_banned_in", "node2": "EU"}
+{"node1": "REACH Regulation", "relation": "bans", "node2": "polychlorinated terphenyls (PCTs)"}
+{"node1": "Landfill Directive", "relation": "requires gas flaring", "node2": "CH4"}
+{"node1": "Organotin compounds", "relation": "use_restricted_by", "node2": "REACH Annex XVII"}
+{"node1": "hazardous waste", "relation": "includes", "node2": "mercury compounds"}
+{"node1": "REACH Regulation", "relation": "requires", "node2": "registration of safety data for chemicals"}
+{"node1": "Untreated collected WEEE", "relation": "has_disposal_banned_by", "node2": "WEEE Directive (2012/19/EU)"}
+{"node1": "Developed country Parties", "relation": "undertake reduction of", "node2": "carbon dioxide"}
+{"node1": "EU Climate Law", "relation": "regulates", "node2": "net greenhouse gas emissions"}
+{"node1": "Ethylene oxides", "relation": "use_as_pesticide_on_food_not_permitted_in", "node2": "EU"}
+{"node1": "Regulation (EC) No 396/2005", "relation": "sets_MRLs_for", "node2": "DDT in food and feed"}
+{"node1": "Paris Agreement", "relation": "aims to reduce", "node2": "PFC (perfluorocarbon) emissions"}
+{"node1": "legal framework for treating waste", "relation": "aims to protect", "node2": "human health"}
+{"node1": "Water Framework Directive", "relation": "targets", "node2": "nitrate pollution"}
+{"node1": "Landfill_facilities", "relation": "may_not_accept", "node2": "hospital_and_medical_veterinary_waste"}
+{"node1": "EU Zero Pollution Action Plan", "relation": "reduce", "node2": "microplastics (30%)"}
+{"node1": "EU Zero Pollution Action Plan", "relation": "reduce", "node2": "chemical pesticide use (50%)"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "restore", "node2": "marine ecosystems"}
+{"node1": "Hydrochlorofluorocarbons (HCFCs)", "relation": "are_also", "node2": "Ozone-Depleting Substances"}
+{"node1": "DEHP (Di(2-ethylhexyl)phthalate)", "relation": "classified_as (ECHA)", "node2": "Repr. 1B"}
+{"node1": "Directive (EU) 2018/850", "relation": "promotes_transition_to", "node2": "circular_economy"}
+{"node1": "Directive 2010/75/EU", "relation": "regulates_sector", "node2": "chemical industry"}
+{"node1": "Chemicals on Authorisation List (REACH Annex XIV)", "relation": "use_prohibited_without", "node2": "authorisation after sunset date"}
+{"node1": "CLP Regulation", "relation": "requires", "node2": "packaging of hazardous chemicals"}
+{"node1": "Carbon Dioxide ($CO_2$)", "relation": "is_targeted_by", "node2": "EU climate policy"}
+{"node1": "Directive 2004/35/EC", "relation": "covers contamination by", "node2": "ammonia"}
+{"node1": "Hydrofluorocarbons", "relation": "is_type_of", "node2": "Fluorinated_Gas"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "improve", "node2": "water quality"}
+{"node1": "European Climate Law (Regulation (EU) 2021/1119)", "relation": "applies to emissions of", "node2": "carbon dioxide (CO2)"}
+{"node1": "Mercury compounds", "relation": "is_restricted_under", "node2": "REACH Annex XVII Entry 18 (wood preservation, antifouling)"}
+{"node1": "European Climate Law (Regulation (EU) 2021/1119)", "relation": "applies to emissions of", "node2": "nitrogen trifluoride (NF3)"}
+{"node1": "Landfill Directive", "relation": "requires landfill gas collection", "node2": "CH4"}
+{"node1": "European Green Deal", "relation": "has_objective", "node2": "cut pollution"}
+{"node1": "Directive 1999/31/EC", "relation": "aims_to_reduce_negative_impact_on", "node2": "air"}
+{"node1": "REACH Annex XVII", "relation": "restricts_use", "node2": "Cadmium and its compounds"}
+{"node1": "Water Framework Directive (WFD)", "relation": "purpose", "node2": "achieve good chemical and ecological status for all EU waters"}
+{"node1": "Natura 2000 network", "relation": "protects", "node2": "natural habitats and species"}
+{"node1": "Hexavalent Chromium ($Cr^{VI}$)", "relation": "is_restricted_under", "node2": "RoHS Directive (2011/65/EU & (EU) 2015/863)"}
+{"node1": "EU Member States", "relation": "must separately collect or recycle by 31 Dec 2023", "node2": "bio-waste"}
+{"node1": "Waste management", "relation": "must be carried out without risk to", "node2": "air"}
+{"node1": "Nationally determined contributions (NDCs)", "relation": "aim to achieve peak of", "node2": "carbon dioxide"}
+{"node1": "Directive (EU) 2018/851", "relation": "promotes reduction of", "node2": "hazardous substances"}
+{"node1": "Halogenated Compounds (general category)", "relation": "include", "node2": "Vinyl chloride"}
+{"node1": "Chlorpyrifos", "relation": "EU_approval_withdrawn_due_to", "node2": "human health concerns"}
+{"node1": "Polychlorinated Biphenyls (PCBs)", "relation": "are_banned_under", "node2": "EU POPs Regulation (Stockholm Convention Annex A & C)"}
+{"node1": "Nitrogen_Oxides_NOx", "relation": "are_air_pollutants_reduced_by", "node2": "Industrial_Emissions_Directive"}
+{"node1": "Landfill Directive", "relation": "prevents pollution of", "node2": "air"}
+{"node1": "Carbon Monoxide", "relation": "is_toxic_gas_from", "node2": "incomplete combustion (general knowledge, vehicle emissions context)"}
+{"node1": "REACH Regulation", "relation": "bans", "node2": "pentachlorophenol and its salts/esters"}
+{"node1": "European Climate Law (Regulation (EU) 2021/1119)", "relation": "sets target", "node2": "climate neutrality (net-zero GHG emissions) by 2050"}
+{"node1": "Directive 2008/98/EC", "relation": "applies special conditions to", "node2": "hazardous waste"}
+{"node1": "legal framework for treating waste", "relation": "aims to protect", "node2": "environment"}
+{"node1": "Chemicals posing unacceptable risk", "relation": "can_be_restricted_under", "node2": "REACH Annex XVII"}
+{"node1": "Farm to Fork strategy", "relation": "reduces use of", "node2": "chemical pesticides by 50%"}
+{"node1": "Bis(2-ethylhexyl) phthalate (DEHP)", "relation": "is_restricted_under", "node2": "RoHS Directive (EU) 2015/863 (amending 2011/65/EU)"}
+{"node1": "Diuron", "relation": "is_classified_as", "node2": "Very toxic to aquatic life with long lasting effects (H410)"}
+{"node1": "Metallic Compounds (general category)", "relation": "include", "node2": "Arsenic compounds"}
+{"node1": "Cadmium_and_cadmium_compounds", "relation": "is_restricted_under", "node2": "REACH_Annex_XVII"}
+{"node1": "International AFS Convention", "relation": "prohibits_use_of", "node2": "organotin compounds as biocides in anti-fouling systems on ships"}
+{"node1": "European Green Deal", "relation": "ensures net-zero emissions", "node2": "greenhouse gases by 2050}"}
+{"node1": "MRLs for inorganic arsenic", "relation": "apply_to", "node2": "rice"}
+{"node1": "Cadmium", "relation": "classified_as (ECHA)", "node2": "Carc. 1B"}
+{"node1": "Habitats Directive", "relation": "mitigates eutrophication by", "node2": "phosphorus"}
+{"node1": "Hazardous E-waste (transboundary movement)", "relation": "has_movement_regulated_by", "node2": "Basel Convention (new code A1181 from Jan 2025)"}
+{"node1": "Lead", "relation": "classified_as (ECHA)", "node2": "Repr. 1A"}
+{"node1": "REACH Regulation", "relation": "applies to", "node2": "all chemical substances manufactured, imported, sold or used in the EU"}
+{"node1": "Directive (EU) 2018/851", "relation": "sets recycling target for", "node2": "municipal waste"}
+{"node1": "EU 2030 emissions target (2014)", "relation": "requires", "node2": "shift to clean energy"}
+{"node1": "Circular Economy Directive 2018", "relation": "sets recycling targets", "node2": "packaging waste"}
+{"node1": "REACH Authorisation process", "relation": "applies_to", "node2": "Substances of Very High Concern (SVHCs)"}
+{"node1": "hazardous waste", "relation": "includes", "node2": "polychlorinated biphenyls (pcbs)"}
+{"node1": "Cadmium (Cd) and compounds", "relation": "is_restricted_under", "node2": "RoHS Directive (2011/65/EU & (EU) 2015/863)"}
+{"node1": "Sulphur Dioxide (SO2)", "relation": "has_emission_limits_under", "node2": "Industrial Emissions Directive (IED) and Gothenburg Protocol"}
+{"node1": "Trichloroethylene (TCE)", "relation": "is_on", "node2": "REACH Authorisation List (Annex XIV) (carcinogenic)"}
+{"node1": "Water Framework Directive", "relation": "ensures", "node2": "good water quality"}
+{"node1": "EU Zero Pollution Action Plan", "relation": "reduce", "node2": "nutrient losses (50%)"}
+{"node1": "Hexachlorobenzene (HCB)", "relation": "is_banned_by", "node2": "Stockholm Convention on POPs"}
+{"node1": "Paris Agreement", "relation": "promotes reduction of", "node2": "methane"}
+{"node1": "Aldrin", "relation": "is_listed_for_elimination_in", "node2": "Annex A of Stockholm Convention"}
+{"node1": "Halogenated VOCs (H341 or H351 classified)", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "European Climate Law (Regulation (EU) 2021/1119)", "relation": "applies to emissions of", "node2": "methane (CH4)"}
+{"node1": "Ambient Air Quality Directive (AAQD)", "relation": "regulates_air_pollutant", "node2": "Nitrogen Dioxide (NO2)"}
+{"node1": "Chlorofluorocarbons (CFCs)", "relation": "production_banned_since_EU", "node2": "1995"}
+{"node1": "Lead", "relation": "is_restricted_by", "node2": "RoHS Directive (in EEE to 0.1%)"}
+{"node1": "Directive (EU) 2018/851", "relation": "sets municipal waste recycling target of", "node2": "65% by 2035"}
+{"node1": "Paris Agreement", "relation": "promotes reduction of", "node2": "nitrous oxide"}
+{"node1": "EU Mercury Regulation (EU) 2017/852", "relation": "bans", "node2": "export of mercury from EU"}
+{"node1": "Fit_for_55_Package", "relation": "targets_GHG_reduction", "node2": "55%_by_2030"}
+{"node1": "European Climate Law (Regulation (EU) 2021/1119)", "relation": "limits", "node2": "net GHG removals to 225 million tonnes CO2-equivalent by 2030"}
+{"node1": "Total Nitrogen", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "Regulation (EU) 2024/590 (ODS)", "relation": "targets_pollutant", "node2": "Halons"}
+{"node1": "Directive 2012/19/EU (WEEE Directive)", "relation": "requires removal of", "node2": "polychlorinated biphenyls (PCBs)"}
+{"node1": "EU Zero Pollution Action Plan", "relation": "reduce", "node2": "residual municipal waste (50%)"}
+{"node1": "Sulphur Dioxide (SO2)", "relation": "has_emission_limits_under", "node2": "IED & Gothenburg Protocol"}
+{"node1": "EU 2030 emissions target (2014)", "relation": "cuts emissions by", "node2": "40% by 2030 vs 1990"}
+{"node1": "Regulation (EC) No 1907/2006 (REACH)", "relation": "aims_to_improve_protection_of", "node2": "human health from chemical substances"}
+{"node1": "Methane ($CH_4$)", "relation": "is_targeted_by", "node2": "EU climate policy"}
+{"node1": "Directive 2010/75/EU", "relation": "promotes", "node2": "circular economy"}
+{"node1": "REACH Regulation (EC) No 1907/2006", "relation": "establishes", "node2": "European Chemicals Agency (ECHA)"}
+{"node1": "Toluene", "relation": "is_restricted_under", "node2": "REACH Annex XVII Entry 48 (adhesives/spray paints for general public < 0.1%)"}
+{"node1": "hazardous substances", "relation": "includes", "node2": "hexachlorobenzene (hcb)"}
+{"node1": "EU F-gas Regulation\u00a02024/573", "relation": "restricts use of", "node2": "perfluorocarbons (PFCs)"}
+{"node1": "Aldrin", "relation": "is_regulated_under", "node2": "POPs Regulation (banned/restricted)"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "organostannic (organotin) compounds"}
+{"node1": "Paris Agreement", "relation": "aims to reduce", "node2": "SF\u2086 (sulfur hexafluoride) emissions"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "protect", "node2": "terrestrial biodiversity"}
+{"node1": "EU Circular Economy Plan 2020", "relation": "optimizes reuse", "node2": "urban water"}
+{"node1": "REACH Annex XVII", "relation": "restricts_use", "node2": "Arsenic compounds"}
+{"node1": "Regulation (EC) No 396/2005 (amended by Reg (EU) 2023/1783)", "relation": "sets_MRLs_for_diuron_at", "node2": "Limit of Determination (LOD)"}
+{"node1": "EU 8-hour TWA IOELV for benzene", "relation": "is_set_at", "node2": "1 ppm (3.25 mg/m\u00b3)"}
+{"node1": "MRLs for Chlorpyrifos", "relation": "are_lowered_to", "node2": "LOD"}
+{"node1": "Trichloroethylene", "relation": "industrial_use_requires_substitution (EU)", "node2": "by April 21, 2016"}
+{"node1": "Lead and its compounds", "relation": "is_restricted_under", "node2": "REACH Annex XVII"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "protect", "node2": "seagrass meadows"}
+{"node1": "Natura 2000 network", "relation": "exposed to eutrophication from", "node2": "nitrogen deposition"}
+{"node1": "Fluorinated_Gases", "relation": "are_type_of", "node2": "Greenhouse_Gas"}
+{"node1": "Water Framework Directive (WFD)", "relation": "identifies_risk_pollutant_for", "node2": "aquatic environment"}
+{"node1": "Regulation (EU) 2024/590 (ODS)", "relation": "purpose", "node2": "reduce and eliminate emissions of Ozone-Depleting Substances (ODS)"}
+{"node1": "Emission Limit Values (ELVs) (under Directive 2010/75/EU)", "relation": "limits_emissions_to", "node2": "BAT-associated levels"}
+{"node1": "Paris Agreement (Article 5 - forests)", "relation": "promotes conservation of", "node2": "carbon dioxide"}
+{"node1": "Paris Agreement", "relation": "aims to limit", "node2": "global warming below 2\u00b0C"}
+{"node1": "DEHP (Di(2-ethylhexyl)phthalate)", "relation": "is (REACH)", "node2": "SVHC"}
+{"node1": "Directive 2004/35/EC", "relation": "includes discharge into", "node2": "groundwater"}
+{"node1": "Paris Agreement", "relation": "aims to reduce", "node2": "CO\u2082 (carbon dioxide) emissions"}
+{"node1": "ECHA", "relation": "recommended_inclusion_of_Lead_in", "node2": "Authorisation List (REACH Annex XIV)"}
+{"node1": "Directive 2010/75/EU", "relation": "regulates_sector", "node2": "energy sector"}
+{"node1": "REACH Annex XVII", "relation": "restricts_manufacture", "node2": "Benzene"}
+{"node1": "Lead", "relation": "is_on", "node2": "Candidate List of SVHCs (REACH)"}
+{"node1": "Polycyclic Aromatic Hydrocarbons (PAHs)", "relation": "are_restricted_in", "node2": "articles with skin contact (REACH Annex XVII Entry 50)"}
+{"node1": "hazardous substances", "relation": "includes", "node2": "arsenic compounds"}
+{"node1": "Halogenated Compounds (general category)", "relation": "include", "node2": "Dichloromethane"}
+{"node1": "Polybrominated Diphenyl Ethers (PBDE)", "relation": "is_restricted_under", "node2": "RoHS Directive (2011/65/EU & (EU) 2015/863)"}
+{"node1": "Farm to Fork Strategy", "relation": "halves", "node2": "phosphorus pollution"}
+{"node1": "Diuron", "relation": "is_classified_as", "node2": "May cause cancer (H350)"}
+{"node1": "Landfill leachate", "relation": "contains NH3", "node2": "surface water"}
+{"node1": "European Green Deal", "relation": "has_objective", "node2": "boost efficient use of resources"}
+{"node1": "REACH Regulation (EC) No 1907/2006", "relation": "aims_to_ensure", "node2": "safe use of chemicals"}
+{"node1": "EU Mercury Regulation (EU) 2017/852", "relation": "restricts", "node2": "import of mercury into EU"}
+{"node1": "Naphthalene", "relation": "classified_as (ECHA)", "node2": "Carc. 2"}
+{"node1": "Directive 2004/35/EC", "relation": "covers release of", "node2": "genetically modified organisms (GMOs)"}
+{"node1": "REACH Annex XVII", "relation": "restricts_use", "node2": "Asbestos fibers"}
+{"node1": "Arsenic_compounds", "relation": "is_restricted_under", "node2": "REACH_Annex_XVII"}
+{"node1": "MRLs for inorganic arsenic", "relation": "apply_to", "node2": "rice-based products"}
+{"node1": "Lindane", "relation": "production_prohibited_by", "node2": "POPs Regulation (Annex I)"}
+{"node1": "REACH Annex XVII", "relation": "restricts_concentration_of", "node2": "Lead in jewellery articles to less than 0.05% by weight"}
+{"node1": "Circular Economy Directive 2018", "relation": "targets", "node2": "marine litter"}
+{"node1": "EU F-gas Regulation\u00a02024/573", "relation": "phases out", "node2": "hydrofluorocarbons (HFCs) by 2050"}
+{"node1": "Mercury Regulation", "relation": "bans", "node2": "mercury"}
+{"node1": "Habitats Directive", "relation": "addresses nitrogen deposition", "node2": "nitrogen dioxide"}
+{"node1": "8th_Environment_Action_Programme", "relation": "aims_for_zero_pollution", "node2": "Soil"}
+{"node1": "Directive 2004/35/EC", "relation": "covers contamination by", "node2": "mercury"}
+{"node1": "Municipal_waste_landfilled", "relation": "target_limit_is", "node2": "10%_by_2035"}
+{"node1": "Directive 2004/35/EC", "relation": "includes discharge into", "node2": "inland surface water"}
+{"node1": "Nonylphenol Ethoxylates (NPEOs)", "relation": "is (REACH)", "node2": "SVHC"}
+{"node1": "Dibutyltin (DBT) compounds", "relation": "are_restricted_for_general_public_by", "node2": "REACH Annex XVII (>0.1% tin)"}
+{"node1": "Diuron", "relation": "is (ECHA)", "node2": "SVHC"}
+{"node1": "Polychlorinated Biphenyls (PCBs)", "relation": "are_regulated_for_disposal_by", "node2": "EU Council Directive 96/59/EC"}
+{"node1": "Directive 1999/31/EC", "relation": "aims_to_reduce_negative_impact_on", "node2": "soil"}
+{"node1": "Directive 2004/35/EC", "relation": "covers contamination by", "node2": "cadmium"}
+{"node1": "Mercury", "relation": "is_restricted_under", "node2": "REACH Annex XVII Entry 18a (fever thermometers, general public measuring devices)"}
+{"node1": "Carbon Monoxide (CO)", "relation": "is_an", "node2": "indirect GHG precursor"}
+{"node1": "Developing country Parties", "relation": "pursue reduction of", "node2": "carbon dioxide"}
+{"node1": "Regulation (EU) 2024/573 (F-gases)", "relation": "prohibits", "node2": "intentional release of F-gases"}
+{"node1": "Benzene", "relation": "is_restricted_under", "node2": "REACH Annex XVII Entry 5"}
+{"node1": "Directive 2011/65/EU (RoHS Directive)", "relation": "restricts use of", "node2": "DBP (dibutyl phthalate)"}
+{"node1": "1,2-Dichloroethane", "relation": "is_classified_as", "node2": "carcinogen"}
+{"node1": "Regulation (EU) 2024/590 (ODS)", "relation": "targets_pollutant", "node2": "Methyl Bromide"}
+{"node1": "Industrial Emissions Directive (2010/75/EU)", "relation": "reduces", "node2": "nitrogen oxide"}
+{"node1": "Chlorofluorocarbons (CFCs) in WEEE", "relation": "are_managed_as_hazardous_under", "node2": "WEEE Directive (2012/19/EU)"}
+{"node1": "Directive (EU) 2018/851", "relation": "sets municipal waste recycling target of", "node2": "60% by 2030"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "protect", "node2": "ocean floor"}
+{"node1": "EU Farm to Fork Strategy", "relation": "protects", "node2": "soil fertility"}
+{"node1": "Waste management", "relation": "must be carried out without risk to", "node2": "soil"}
+{"node1": "Regulation (EU) 2024/590 (ODS)", "relation": "prohibits_use_of", "node2": "ODS (generally)"}
+{"node1": "Dieldrin", "relation": "is_listed_for_elimination_in", "node2": "Annex A of Stockholm Convention"}
+{"node1": "Naphthalene", "relation": "is_restricted_as_PAH_in", "node2": "clay targets (REACH Annex XVII, sum of 18 PAHs < 0.005%)"}
+{"node1": "Greenhouse Gases (Key Anthropogenic)", "relation": "are_targeted_for_reduction_under", "node2": "Paris Agreement & EU Climate Law/Fit for 55"}
+{"node1": "Di(2-ethylhexyl) phthalate (DEHP)", "relation": "is_restricted_under", "node2": "RoHS Directive in EEE (max 0.1% by weight)"}
+{"node1": "Industrial_Emissions_Directive", "relation": "reduces_emissions_of", "node2": "Air_pollutants_from_industry"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "PFOA and its salts"}
+{"node1": "EU Biodiversity Strategy 2030", "relation": "targets reduction of", "node2": "total nitrogen"}
+{"node1": "Regulation (EU) 2024/573", "relation": "identifies_GHG", "node2": "Hydrofluorocarbons (HFCs)"}
+{"node1": "Regulation (EU) 2024/573", "relation": "identifies_GHG", "node2": "Perfluorocarbons (PFCs)"}
+{"node1": "Benzene", "relation": "exposure_risk_managed_by", "node2": "Directive 2004/37/EC (CMD)"}
+{"node1": "Directive (EU) 2018/851", "relation": "reduces", "node2": "polychlorinated biphenyls (PCBs)"}
+{"node1": "EU Environment Action Programme to 2030", "relation": "protect", "node2": "coral reefs"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "phthalates (e.g., di(2-ethylhexyl) phthalate)"}
+{"node1": "Ecosystem services", "relation": "support", "node2": "soil formation"}
+{"node1": "CLP Regulation", "relation": "requires", "node2": "labelling of hazardous chemicals"}
+{"node1": "Landfill Directive", "relation": "reduces methane emissions", "node2": "CH4"}
+{"node1": "Paris Agreement", "relation": "seeks peak of", "node2": "carbon dioxide"}
+{"node1": "Nitrogen Oxides (NOx)", "relation": "have_emission_limits_under", "node2": "Industrial Emissions Directive (IED) and Euro 5/6 vehicle standards"}
+{"node1": "Lead", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "POPs Regulation", "relation": "ensures", "node2": "safe management of POPs stockpiles"}
+{"node1": "Landfill Directive", "relation": "prevents pollution of", "node2": "soil"}
+{"node1": "Polybrominated Biphenyls (PBB)", "relation": "is_restricted_under", "node2": "RoHS Directive (2011/65/EU & (EU) 2015/863)"}
+{"node1": "ECHA", "relation": "checks information in", "node2": "REACH registration dossiers"}
+{"node1": "Directive (EU) 2018/851", "relation": "promotes reduction of", "node2": "hazardous substances in materials and products"}
+{"node1": "Sustainable mobility", "relation": "reduces", "node2": "particulate matter emissions"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "Chromium(VI) compounds"}
+{"node1": "Effort Sharing Regulation (ESR)", "relation": "sets_targets_for", "node2": "GHG emissions in non-ETS sectors for Member States"}
+{"node1": "PCDD/Fs (Dioxins and Furans)", "relation": "release_targeted_for_minimization_by", "node2": "POPs Regulation"}
+{"node1": "Nitrogen Oxides (NOx)", "relation": "have_emission_limits_under", "node2": "IED & Euro 5/6 vehicle standards"}
+{"node1": "Chlordecone", "relation": "is_regulated_under", "node2": "POPs Regulation (banned/restricted)"}
+{"node1": "Mercury", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "EU strategy on plastics", "relation": "restricts", "node2": "single-use plastics"}
+{"node1": "Cadmium", "relation": "is_restricted_in_plastics_by", "node2": "REACH Annex XVII (to 0.01%)"}
+{"node1": "REACH Regulation", "relation": "purpose", "node2": "protect human health and environment from chemical risks"}
+{"node1": "Natura 2000 network", "relation": "threatened by", "node2": "nitrogen oxide (NOx)"}
+{"node1": "Particulate Matter 10 ($PM_{10}$)", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "arsenic compounds"}
+{"node1": "Regulation (EU) 2024/573 (F-gases)", "relation": "targets_for_phase_out", "node2": "HFCs by 2050"}
+{"node1": "DDT", "relation": "is_listed_in", "node2": "Annex B of Stockholm Convention (restriction for disease vector control)"}
+{"node1": "Regulation (EU) 2021/1119 (European Climate Law)", "relation": "establishes_framework_for", "node2": "enhancement of removals by natural or other sinks"}
+{"node1": "EU Member States", "relation": "must separately collect by 1 Jan 2025", "node2": "textiles"}
+{"node1": "Water Framework Directive (WFD)", "relation": "regulates_emerging_water_pollutant", "node2": "Pharmaceuticals (various)"}
+{"node1": "Greenhouse Gases (GHGs) (general category)", "relation": "include", "node2": "Perfluorocarbons (PFCs)"}
+{"node1": "EU Member States", "relation": "must ensure separate collection or recycling by 31 Dec 2023 for", "node2": "bio-waste"}
+{"node1": "REACH Regulation", "relation": "restricts", "node2": "lead and its compounds"}
+{"node1": "Directive 2011/65/EU (RoHS Directive)", "relation": "restricts use of", "node2": "hexavalent chromium"}
+{"node1": "Paris Agreement", "relation": "establishes", "node2": "5-year global stocktake"}
+{"node1": "Directive 2012/19/EU (WEEE Directive)", "relation": "requires removal of", "node2": "mercury"}
+{"node1": "Cadmium compounds", "relation": "are_restricted_in", "node2": "paints (HS codes , )"}
+{"node1": "Zero Pollution Action Plan", "relation": "has_2030_target", "node2": "reduce microplastics released by 30%"}
+{"node1": "1,2-Dichloroethane", "relation": "is_controlled_under", "node2": "REACH"}
+{"node1": "Paris Agreement (Technology Mechanism)", "relation": "encourages reduction of", "node2": "carbon dioxide"}
+{"node1": "Regulation (EU) 2021/1119 (European Climate Law)", "relation": "mandates", "node2": "climate neutrality for EU by 2050"}
+{"node1": "Ecosystem services", "relation": "provide", "node2": "recreation"}
+{"node1": "Arsenic compounds", "relation": "regulated_by", "node2": "Directive 2010/75/EU"}
+{"node1": "Habitats Directive", "relation": "mitigates eutrophication by", "node2": "nitrate"}
+{"node1": "Air Quality Directive (2008/50/EC)", "relation": "sets_annual_mean_limit_for_benzene_in_ambient_air_at", "node2": "5 \u00b5g/m\u00b3"}
+{"node1": "Polycyclic_Aromatic_Hydrocarbons_PAHs", "relation": "is_restricted_under", "node2": "REACH_Annex_XVII"}
+{"node1": "REACH_Regulation", "relation": "protects_from_chemical_risks", "node2": "Human_health"}
+{"node1": "Heptachlor", "relation": "is_listed_for_elimination_in", "node2": "Annex A of Stockholm Convention"}

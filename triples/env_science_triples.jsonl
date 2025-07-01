@@ -1,0 +1,1862 @@
+{"node1": "Environment", "node2": "Earth", "relation": "encompasses"}
+{"node1": "Biotic components", "node2": "Environment", "relation": "consists of"}
+{"node1": "Abiotic components", "node2": "Environment", "relation": "consists of"}
+{"node1": "Atmosphere", "node2": "Abiotic components", "relation": "is a part of"}
+{"node1": "Lithosphere", "node2": "Abiotic components", "relation": "is a part of"}
+{"node1": "Hydrosphere", "node2": "Abiotic components", "relation": "is a part of"}
+{"node1": "Biosphere", "node2": "Biotic components", "relation": "is a part of"}
+{"node1": "Life", "node2": "Biosphere", "relation": "is present in"}
+{"node1": "Carbon cycle", "node2": "Environment", "relation": "occurs in"}
+{"node1": "Nitrogen cycle", "node2": "Environment", "relation": "occurs in"}
+{"node1": "Water cycle", "node2": "Environment", "relation": "occurs in"}
+{"node1": "Elements", "node2": "Life", "relation": "constitutes"}
+{"node1": "Carbon", "node2": "Elements", "relation": "is prevalent in"}
+{"node1": "Hydrogen", "node2": "Elements", "relation": "is prevalent in"}
+{"node1": "Nitrogen", "node2": "Elements", "relation": "is prevalent in"}
+{"node1": "Oxygen", "node2": "Elements", "relation": "is prevalent in"}
+{"node1": "Sulfur", "node2": "Elements", "relation": "is prevalent in"}
+{"node1": "Phosphorus", "node2": "Elements", "relation": "is prevalent in"}
+{"node1": "Macromolecules", "node2": "Life", "relation": "are formed from"}
+{"node1": "Nucleic acids", "node2": "Macromolecules", "relation": "are"}
+{"node1": "Proteins", "node2": "Macromolecules", "relation": "are"}
+{"node1": "Carbohydrates", "node2": "Macromolecules", "relation": "are"}
+{"node1": "Lipids", "node2": "Macromolecules", "relation": "are"}
+{"node1": "Atmosphere", "node2": "Rich in", "relation": "nitrogen and oxygen"}
+{"node1": "Earth's crust", "node2": "Abundant in", "relation": "oxygen and hydrogen"}
+{"node1": "Atom", "node2": "Structure of matter", "relation": "has"}
+{"node1": "Protons", "node2": "Atom", "relation": "have"}
+{"node1": "Neutrons", "node2": "Atom", "relation": "have"}
+{"node1": "Electrons", "node2": "Atom", "relation": "have"}
+{"node1": "Fundamental constituents of atoms", "node2": "Atom", "relation": "consist of"}
+{"node1": "Charge", "node2": "Determines chemical behavior", "relation": "due to"}
+{"node1": "atom", "node2": "proton", "relation": "carries a positive charge"}
+{"node1": "atom", "node2": "neutron", "relation": "has no charge"}
+{"node1": "atom", "node2": "electron", "relation": "possesses a negative charge"}
+{"node1": "neutral atom", "node2": "electron", "relation": "has the same number of"}
+{"node1": "neutral atom", "node2": "proton", "relation": "has the same number of"}
+{"node1": "ion", "node2": "electron", "relation": "gains a negative charge"}
+{"node1": "ion", "node2": "electron", "relation": "loses a negative charge"}
+{"node1": "molecule", "node2": "atom", "relation": "consists of"}
+{"node1": "isotope", "node2": "proton", "relation": "has the same number of"}
+{"node1": "isotope", "node2": "neutron", "relation": "has a different number of"}
+{"node1": "carbon", "node2": "life", "relation": "is a crucial element for"}
+{"node1": "organic molecule", "node2": "carbon", "relation": "consists of"}
+{"node1": "hydrocarbon", "node2": "carbon", "relation": "contains"}
+{"node1": "biological system", "node2": "carbohydrate", "relation": "includes"}
+{"node1": "biological system", "node2": "lipid", "relation": "includes"}
+{"node1": "biological system", "node2": "protein", "relation": "includes"}
+{"node1": "biological system", "node2": "nucleic acid", "relation": "includes"}
+{"node1": "carbohydrate", "node2": "energy source", "relation": "provides"}
+{"node1": "carbohydrate", "node2": "dietary component", "relation": "is"}
+{"node1": "atoms", "node2": "protons", "relation": "contain"}
+{"node1": "atoms", "node2": "neutrons", "relation": "contain"}
+{"node1": "atoms", "node2": "electrons", "relation": "contain"}
+{"node1": "ions", "node2": "atoms", "relation": "form"}
+{"node1": "positive ions", "node2": "atoms", "relation": "form"}
+{"node1": "negative ions", "node2": "atoms", "relation": "form"}
+{"node1": "molecules", "node2": "atoms", "relation": "consist_of"}
+{"node1": "nitrate", "node2": "ions", "relation": "is"}
+{"node1": "carbon-12", "node2": "isotopes", "relation": "are"}
+{"node1": "carbon-14", "node2": "isotopes", "relation": "are"}
+{"node1": "hydrocarbons", "node2": "organic_compounds", "relation": "are"}
+{"node1": "biological_systems", "node2": "carbohydrates", "relation": "consist_of"}
+{"node1": "biological_systems", "node2": "lipids", "relation": "consist_of"}
+{"node1": "biological_systems", "node2": "proteins", "relation": "consist_of"}
+{"node1": "biological_systems", "node2": "nucleic_acids", "relation": "consist_of"}
+{"node1": "carbohydrates", "node2": "energy_source", "relation": "are"}
+{"node1": "starches", "node2": "carbohydrates", "relation": "include"}
+{"node1": "glucose", "node2": "simple_sugars", "relation": "are"}
+{"node1": "lipids", "node2": "biological_systems", "relation": "are_part_of"}
+{"node1": "proteins", "node2": "biological_systems", "relation": "are_part_of"}
+{"node1": "nucleic_acids", "node2": "biological_systems", "relation": "are_part_of"}
+{"node1": "radioactive_decay", "node2": "isotopes", "relation": "undergoes"}
+{"node1": "radiation", "node2": "radioactive_decay", "relation": "releases"}
+{"node1": "carbon hydrates", "node2": "consists_of", "relation": "consists_of"}
+{"node1": "glucose", "node2": "is", "relation": "is"}
+{"node1": "glucose", "node2": "has", "relation": "has"}
+{"node1": "glucose", "node2": "is", "relation": "is"}
+{"node1": "glucose", "node2": "generates", "relation": "generates"}
+{"node1": "plants", "node2": "synthesizes", "relation": "synthesizes"}
+{"node1": "excess glucose", "node2": "is stored as", "relation": "is stored as"}
+{"node1": "lipids", "node2": "mainly consists of", "relation": "mainly consists of"}
+{"node1": "lipids", "node2": "play essential roles in", "relation": "play essential roles in"}
+{"node1": "lipids", "node2": "play essential roles in", "relation": "play essential roles in"}
+{"node1": "proteins", "node2": "is composed of", "relation": "is composed of"}
+{"node1": "proteins", "node2": "require", "relation": "require"}
+{"node1": "proteins", "node2": "depend on", "relation": "depend on"}
+{"node1": "nucleic acids", "node2": "carry", "relation": "carry"}
+{"node1": "dna", "node2": "acts as", "relation": "acts as"}
+{"node1": "rna", "node2": "plays a key role in", "relation": "plays a key role in"}
+{"node1": "cells", "node2": "are composed of", "relation": "are composed of"}
+{"node1": "organelles", "node2": "contain", "relation": "contain"}
+{"node1": "living organisms", "node2": "share", "relation": "share"}
+{"node1": "growth", "node2": "includes", "relation": "includes"}
+{"node1": "adaptation", "node2": "includes", "relation": "includes"}
+{"node1": "reproduction", "node2": "includes", "relation": "includes"}
+{"node1": "unicellular", "node2": "can be", "relation": "can be"}
+{"node1": "multicellular", "node2": "can be", "relation": "can be"}
+{"node1": "interacting communities", "node2": "consist of", "relation": "consist of"}
+{"node1": "Natural systems", "node2": "Human survival", "relation": "provide"}
+{"node1": "Ecosystems", "node2": "Benefits", "relation": "offer"}
+{"node1": "Human activities", "node2": "Negative impact", "relation": "on"}
+{"node1": "Ecosystems", "node2": "Structures", "relation": "Understanding"}
+{"node1": "Earth", "node2": "History", "relation": "Hosted"}
+{"node1": "Environment", "node2": "Surroundings", "relation": "Influencing"}
+{"node1": "Human activities", "node2": "All ecosystems", "relation": "Affect"}
+{"node1": "Environmental science", "node2": "Impact", "relation": "Investigates"}
+{"node1": "Environmental engineering", "node2": "Sustainable solutions", "relation": "Uses"}
+{"node1": "Environmentalism", "node2": "Protection", "relation": "Advocates for"}
+{"node1": "natural ecosystems", "node2": "essential services", "relation": "provide"}
+{"node1": "human activities", "node2": "nature's capacity", "relation": "significantly impair"}
+{"node1": "ecosystems", "node2": "benefits to humans", "relation": "contribute"}
+{"node1": "ecosystems", "node2": "food", "relation": "source"}
+{"node1": "ecosystems", "node2": "wood", "relation": "source"}
+{"node1": "ecosystems", "node2": "fibers", "relation": "source"}
+{"node1": "ecosystems", "node2": "fuel", "relation": "source"}
+{"node1": "ecosystems", "node2": "climate regulation", "relation": "function"}
+{"node1": "ecosystems", "node2": "flood control", "relation": "function"}
+{"node1": "ecosystems", "node2": "disease prevention", "relation": "function"}
+{"node1": "environmental investigation", "node2": "environmental phenomenon", "relation": "begins with"}
+{"node1": "hypotheses", "node2": "possible explanations", "relation": "are called"}
+{"node1": "hypotheses", "node2": "testability", "relation": "require"}
+{"node1": "hypotheses", "node2": "falsifiability", "relation": "require"}
+{"node1": "predictions", "node2": "hypotheses", "relation": "can be derived from"}
+{"node1": "experimental group", "node2": "manipulations", "relation": "involve"}
+{"node1": "control group", "node2": "non-manipulations", "relation": "involve"}
+{"node1": "outcomes", "node2": "experiment", "relation": "are compared"}
+{"node1": "rejecting a hypothesis", "node2": "does not confirm others", "relation": "only eliminates possibilities"}
+{"node1": "Environmental Protection Agency", "node2": "United States government agency", "relation": "is"}
+{"node1": "pollutants", "node2": "air quality", "relation": "affect"}
+{"node1": "waste management", "node2": "resource conservation", "relation": "contribute to"}
+{"node1": "ecosystem services", "node2": "human well-being", "relation": "support"}
+{"node1": "climate change", "node2": "global sustainability", "relation": "threaten"}
+{"node1": "sustainable development", "node2": "environmental policy", "relation": "promote"}
+{"node1": "environmental pollutant", "node2": "health hazard", "relation": "causes"}
+{"node1": "greenhouse gas", "node2": "climate change", "relation": "contributes to"}
+{"node1": "renewable energy source", "node2": "sustainable development", "relation": "promotes"}
+{"node1": "ecosystem", "node2": "biogeochemical cycles", "relation": "regulates"}
+{"node1": "pollution control measure", "node2": "environmental policy", "relation": "includes"}
+{"node1": "waste management strategy", "node2": "circular economy", "relation": "integrates"}
+{"node1": "environmental impact assessment", "node2": "project approval process", "relation": "requires"}
+{"node1": "UN General Assembly", "node2": "Special Commission", "relation": "established"}
+{"node1": "global environmental awareness", "node2": "UN General Assembly", "relation": "resulted from"}
+{"node1": "IPAT equation", "node2": "theoretical framework", "relation": "is"}
+{"node1": "environmental impact", "node2": "human activities", "relation": "caused by"}
+{"node1": "population", "node2": "human population", "relation": "represents"}
+{"node1": "affluence", "node2": "economic development", "relation": "represents"}
+{"node1": "technology", "node2": "technological advancement", "relation": "refers to"}
+{"node1": "impact", "node2": "environmental burden", "relation": "is"}
+{"node1": "P", "node2": "population size", "relation": "leads to"}
+{"node1": "A", "node2": "consumption level", "relation": "leads to"}
+{"node1": "T", "node2": "efficiency level", "relation": "affects"}
+{"node1": "I", "node2": "ecological footprint", "relation": "is directly proportional to"}
+{"node1": "Environmental impact", "node2": "IPAT equation", "relation": "helps understand"}
+{"node1": "Environmental impact", "node2": "Population", "relation": "increases"}
+{"node1": "Environmental impact", "node2": "Affluence", "relation": "increases"}
+{"node1": "Environmental impact", "node2": "Technology", "relation": "reduces"}
+{"node1": "Environmental impact", "node2": "Urbanization", "relation": "crucial"}
+{"node1": "Report", "node2": "Concept of sustainability", "relation": "introduced"}
+{"node1": "Report", "node2": "Long-term environmental strategies", "relation": "proposed"}
+{"node1": "Report", "node2": "Triple bottom line", "relation": "advocated"}
+{"node1": "Report", "node2": "Usage of sustainability", "relation": "popularized"}
+{"node1": "IPAT equation", "node2": "Impact", "relation": "represents"}
+{"node1": "Precautionary Principle", "node2": "risk management", "relation": "is a philosophical approach to"}
+{"node1": "Advocates", "node2": "preventive actions", "relation": "apply"}
+{"node1": "Uncertainty", "node2": "scientific evidence", "relation": "applies to"}
+{"node1": "Proponents", "node2": "burden of proof", "relation": "bear"}
+{"node1": "Environmental Conservation Justifications", "node2": "utilitarian", "relation": "includes"}
+{"node1": "Environmental Conservation Justifications", "node2": "ecological", "relation": "includes"}
+{"node1": "Environmental Conservation Justifications", "node2": "aesthetic", "relation": "includes"}
+{"node1": "Environmental Conservation Justifications", "node2": "moral", "relation": "includes"}
+{"node1": "Exponential Growth Model", "node2": "resources", "relation": "assumes unlimited"}
+{"node1": "Exponential Growth Model", "node2": "growth rates", "relation": "are constant"}
+{"node1": "Logistic Growth Model", "node2": "resources", "relation": "accounts for finite"}
+{"node1": "Logistic Growth Model", "node2": "population stabilization", "relation": "eventually"}
+{"node1": "Carrying Capacity", "node2": "population size", "relation": "represents the maximum"}
+{"node1": "Carrying Capacity", "node2": "environment", "relation": "that it can support sustainably"}
+{"node1": "Multiple Perspectives", "node2": "climate change", "relation": "can be analyzed from"}
+{"node1": "Multiple Perspectives", "node2": "utilitarian", "relation": "a perspective"}
+{"node1": "Multiple Perspectives", "node2": "ecological", "relation": "a perspective"}
+{"node1": "Multiple Perspectives", "node2": "aesthetic", "relation": "a perspective"}
+{"node1": "Multiple Perspectives", "node2": "moral", "relation": "a perspective"}
+{"node1": "Global Environmental Challenges", "node2": "climate change", "relation": "is an example of"}
+{"node1": "Global Environmental Challenges", "node2": "air pollution", "relation": "is an example of"}
+{"node1": "Global Environmental Challenges", "node2": "biodiversity loss", "relation": "is an example of"}
+{"node1": "Collective Efforts", "node2": "challenges", "relation": "require"}
+{"node1": "Multifaceted Solutions", "node2": "challenges", "relation": "address"}
+{"node1": "precautionary principle", "node2": "risk management", "relation": "applies to"}
+{"node1": "erring on the side of caution", "node2": "approach", "relation": "emphasizes"}
+{"node1": "potentially harmful actions", "node2": "responsibility", "relation": "bear"}
+{"node1": "potentially affected", "node2": "burden", "relation": "carry no such"}
+{"node1": "utilitarian", "node2": "justifications", "relation": "focuses on"}
+{"node1": "ecological", "node2": "justifications", "relation": "considers"}
+{"node1": "aesthetic", "node2": "justifications", "relation": "values"}
+{"node1": "moral", "node2": "justifications", "relation": "asserts"}
+{"node1": "climate change", "node2": "global environmental issues", "relation": "requires action on"}
+{"node1": "mitigation strategies", "node2": "economic analysis", "relation": "involves"}
+{"node1": "plant and animal populations", "node2": "impact assessment", "relation": "involves"}
+{"node1": "scenic beauty", "node2": "cultural heritage", "relation": "preserves"}
+{"node1": "intergenerational equity", "node2": "ethical concern", "relation": "addresses"}
+{"node1": "exponential growth", "node2": "population growth models", "relation": "assumes"}
+{"node1": "logistic growth", "node2": "population growth models", "relation": "accounts for"}
+{"node1": "finite resources", "node2": "logistic growth", "relation": "limits"}
+{"node1": "eventual population stabilization", "node2": "logistic growth", "relation": "results in"}
+{"node1": "carrying capacity", "node2": "population ecology", "relation": "defines"}
+{"node1": "maximum population size", "node2": "carrying capacity", "relation": "represents"}
+{"node1": "sustainable", "node2": "carrying capacity", "relation": "supports"}
+{"node1": "carrying capacity", "node2": "maximum sustainable population", "relation": "defines"}
+{"node1": "carrying capacity", "node2": "ecosystem", "relation": "applies to"}
+{"node1": "essential resources", "node2": "availability", "relation": "determines"}
+{"node1": "population", "node2": "growth", "relation": "consumes"}
+{"node1": "population", "node2": "carrying capacity", "relation": "reaches"}
+{"node1": "population size", "node2": "stabilization", "relation": "achieves"}
+{"node1": "population size", "node2": "carrying capacity", "relation": "equals"}
+{"node1": "overpopulation", "node2": "negative impacts", "relation": "causes"}
+{"node1": "resource depletion", "node2": "negative impacts", "relation": "includes"}
+{"node1": "competition", "node2": "negative impacts", "relation": "occurs"}
+{"node1": "disease outbreaks", "node2": "negative impacts", "relation": "arises"}
+{"node1": "reduced population health", "node2": "negative impacts", "relation": "results in"}
+{"node1": "reduced population productivity", "node2": "negative impacts", "relation": "leads to"}
+{"node1": "understanding carrying capacity", "node2": "wildlife management", "relation": "is crucial for"}
+{"node1": "understanding carrying capacity", "node2": "long-term sustainability", "relation": "ensures"}
+{"node1": "population", "node2": "size", "relation": "comprises"}
+{"node1": "population", "node2": "density", "relation": "describes"}
+{"node1": "population", "node2": "growth", "relation": "encompasses"}
+{"node1": "exponential growth", "node2": "uncontrolled increase", "relation": "illustrates"}
+{"node1": "exponential growth", "node2": "doubling", "relation": "occurs"}
+{"node1": "real-world populations", "node2": "encounter", "relation": "various limitations"}
+{"node1": "carrying capacity", "node2": "sustainable limit", "relation": "denotes"}
+{"node1": "exponential population growth", "node2": "population", "relation": "is"}
+{"node1": "exponential population growth", "node2": "rate of increase", "relation": "results solely from"}
+{"node1": "exponential population growth", "node2": "per capita rate of increase", "relation": "varies among species"}
+{"node1": "exponential population growth", "node2": "resource limitations", "relation": "cannot persist indefinitely"}
+{"node1": "logistic population growth", "node2": "population", "relation": "expands"}
+{"node1": "logistic population growth", "node2": "initial phase of population expansion", "relation": "exponential growth"}
+{"node1": "logistic population growth", "node2": "later stages of population expansion", "relation": "resource availability influences population growth"}
+{"node1": "logistic population growth", "node2": "carrying capacity", "relation": "stabilizes at"}
+{"node1": "logistic population growth", "node2": "maximum sustainable population size", "relation": "referred to as"}
+{"node1": "logistic population growth", "node2": "contribution of each individual to population growth", "relation": "depends on resource availability"}
+{"node1": "logistic population growth", "node2": "reduction in reproductive output", "relation": "leads to a decline in birth rate"}
+{"node1": "logistic population growth", "node2": "characteristic S-shaped growth curve", "relation": "results in"}
+{"node1": "population growth", "node2": "carrying capacity", "relation": "is influenced by"}
+{"node1": "carrying capacity", "node2": "maximum sustainable population", "relation": "is"}
+{"node1": "carrying capacity", "node2": "environmental conditions", "relation": "depends on"}
+{"node1": "small population", "node2": "high growth rate", "relation": "is associated with"}
+{"node1": "large population", "node2": "low growth rate", "relation": "is associated with"}
+{"node1": "limiting factors", "node2": "small population", "relation": "affects"}
+{"node1": "limiting factors", "node2": "large population", "relation": "affects"}
+{"node1": "maximum population growth rate", "node2": "half of carrying capacity", "relation": "occurs at"}
+{"node1": "logistic growth model", "node2": "population growth", "relation": "describes"}
+{"node1": "natural populations", "node2": "logistic growth model", "relation": "follows"}
+{"node1": "population growth", "node2": "carrying capacity", "relation": "is regulated by"}
+{"node1": "population size", "node2": "growth rate", "relation": "decreases with"}
+{"node1": "small population", "node2": "reproduction", "relation": "is limited by"}
+{"node1": "large population", "node2": "resources", "relation": "is limited by"}
+{"node1": "maximum population growth rate", "node2": "carrying capacity", "relation": "occurs at half of"}
+{"node1": "logistic growth curve", "node2": "yeast", "relation": "follows in"}
+{"node1": "logistic growth curve", "node2": "harbor seals", "relation": "follows in"}
+{"node1": "density-dependent factors", "node2": "competition for resources", "relation": "affects"}
+{"node1": "density-dependent factors", "node2": "disease transmission", "relation": "affects"}
+{"node1": "density-independent factors", "node2": "weather events", "relation": "affects"}
+{"node1": "density-independent factors", "node2": "natural disasters", "relation": "affects"}
+{"node1": "population dynamics", "node2": "conservation biology", "relation": "applies to"}
+{"node1": "density-dependent factors", "node2": "population size", "relation": "affect"}
+{"node1": "higher population densities", "node2": "increased mortality", "relation": "lead to"}
+{"node1": "higher population densities", "node2": "decreased fertility", "relation": "lead to"}
+{"node1": "food scarcity", "node2": "starvation", "relation": "results in"}
+{"node1": "food scarcity", "node2": "reduced reproductive success", "relation": "results in"}
+{"node1": "density-dependent factors", "node2": "feedback loops", "relation": "exist between"}
+{"node1": "Ascaris lumbricoides", "node2": "lower fecundity", "relation": "density-dependent effect"}
+{"node1": "great tit bird", "node2": "smaller clutch size", "relation": "density-dependent effect"}
+{"node1": "weather extremes", "node2": "natural disasters", "relation": "density-independent factors"}
+{"node1": "forest fire", "node2": "deer mortality", "relation": "example"}
+{"node1": "Haiti earthquake", "node2": "disease outbreak", "relation": "led to"}
+{"node1": "life tables", "node2": "species", "relation": "reveal vulnerable life stages"}
+{"node1": "population dynamics", "node2": "conservation biology", "relation": "is a part of"}
+{"node1": "density-dependent factors", "node2": "biological", "relation": "are"}
+{"node1": "predation", "node2": "density-dependent factors", "relation": "includes"}
+{"node1": "intraspecific competition", "node2": "density-dependent factors", "relation": "includes"}
+{"node1": "interspecific competition", "node2": "density-dependent factors", "relation": "includes"}
+{"node1": "accumulation of waste", "node2": "density-dependent factors", "relation": "includes"}
+{"node1": "diseases", "node2": "density-dependent factors", "relation": "includes"}
+{"node1": "higher population densities", "node2": "death rates", "relation": "result in"}
+{"node1": "smaller female sizes", "node2": "density-dependent factors", "relation": "lead to"}
+{"node1": "reduced egg production", "node2": "density-dependent factors", "relation": "lead to"}
+{"node1": "denser populations", "node2": "lower fecundity", "relation": "exhibit"}
+{"node1": "great tit bird", "node2": "clutch size", "relation": "decreases as population density increases"}
+{"node1": "weather extremes", "node2": "density-independent factors", "relation": "fall under"}
+{"node1": "natural disasters", "node2": "density-independent factors", "relation": "fall under"}
+{"node1": "pollution", "node2": "density-independent factors", "relation": "fall under"}
+{"node1": "high population densities", "node2": "rapid spread of diseases", "relation": "represent"}
+{"node1": "life tables", "node2": "population ecologists", "relation": "used by"}
+{"node1": "species", "node2": "life tables", "relation": "studied by"}
+{"node1": "offspring numbers", "node2": "life tables", "relation": "provide insights into"}
+{"node1": "Survivorship Curves", "node2": "Percentage", "relation": "Illustrates"}
+{"node1": "Survivorship Curves", "node2": "Representation", "relation": "Can Be"}
+{"node1": "Survivorship Curves", "node2": "Comparison", "relation": "Facilitates"}
+{"node1": "All Survivorship Curves", "node2": "Y-Axis Intercept", "relation": "Represents"}
+{"node1": "Mortality Causes", "node2": "Curves", "relation": "Descend"}
+{"node1": "No Survivability Curve", "node2": "Ascends", "relation": "Never"}
+{"node1": "Life Table", "node2": "Data", "relation": "Provides"}
+{"node1": "Life Table", "node2": "Number", "relation": "Derives"}
+{"node1": "Survivorship Curves", "node2": "Demographic Characteristics", "relation": "Reveal"}
+{"node1": "Type I Survivorship", "node2": "Highest Probability", "relation": "Until Old Age"}
+{"node1": "Type I Survivorship", "node2": "Increased Risk", "relation": "Then"}
+{"node1": "Humans", "node2": "Type I Survivorship", "relation": "Exhibit"}
+{"node1": "Giant Tortoises", "node2": "Type I Survivorship", "relation": "Exhibit"}
+{"node1": "Elephants", "node2": "Type I Survivorship", "relation": "Exhibit"}
+{"node1": "Type III Survivorship", "node2": "High Mortality Rates", "relation": "In Young Age Groups"}
+{"node1": "Plants", "node2": "Type III Survivorship", "relation": "Have"}
+{"node1": "Insects", "node2": "Type III Survivorship", "relation": "Have"}
+{"node1": "Frogs", "node2": "Type III Survivorship", "relation": "Have"}
+{"node1": "Marine Species Like Oysters And Fish", "node2": "Type III Survivorship", "relation": "Have"}
+{"node1": "Type II Survivorship", "node2": "Steady Decline", "relation": "In The Proportion Of Individuals Alive"}
+{"node1": "Constant Likelihood", "node2": "Of Dying", "relation": "In Any Given Age Interval"}
+{"node1": "Birds", "node2": "Type II Survivorship", "relation": "Have"}
+{"node1": "Small Mammals", "node2": "Type II Survivorship", "relation": "Have"}
+{"node1": "Some Reptiles", "node2": "Type II Survivorship", "relation": "Have"}
+{"node1": "Most Species", "node2": "Strictly Follow", "relation": "Type I, II, Or III Survivorship Patterns"}
+{"node1": "Understanding Extreme Cases", "node2": "Helps Predict", "relation": "Reproductive Rates"}
+{"node1": "Understanding Extreme Cases", "node2": "Parental Investment Requirements", "relation": "Predicts"}
+{"node1": "survival probability", "node2": "survivorship curves", "relation": "represents"}
+{"node1": "graphical representation", "node2": "survivorship curves", "relation": "represents"}
+{"node1": "population", "node2": "survivorship", "relation": "represents"}
+{"node1": "life table", "node2": "data", "relation": "provides"}
+{"node1": "death rate", "node2": "life table", "relation": "derives"}
+{"node1": "Type I survivorship curve", "node2": "highest probability", "relation": "surviving"}
+{"node1": "Type I survivorship curve", "node2": "mature age", "relation": "significantly increases"}
+{"node1": "Type II survivorship curve", "node2": "proportion", "relation": "declines"}
+{"node1": "Type II survivorship curve", "node2": "likelihood", "relation": "remains constant"}
+{"node1": "Type III survivorship curve", "node2": "high mortality rates", "relation": "in youngest age groups"}
+{"node1": "Type III survivorship curve", "node2": "individuals", "relation": "live considerably longer"}
+{"node1": "human population", "node2": "global population", "relation": "expands"}
+{"node1": "pre-industrial era", "node2": "approximate 5-10 million", "relation": "population during"}
+{"node1": "Industrial Revolution", "node2": "start of", "relation": "in 1800"}
+{"node1": "demography", "node2": "scientific discipline", "relation": "studies"}
+{"node1": "age structure diagram", "node2": "population pyramid", "relation": "illustrates"}
+{"node1": "US population", "node2": "2000", "relation": "characteristics"}
+{"node1": "male excess", "node2": "younger age groups", "relation": "present"}
+{"node1": "female majority", "node2": "older age groups", "relation": "due to longer life expectancy"}
+{"node1": "demographic transition model", "node2": "historical shift", "relation": "explains"}
+{"node1": "public health", "node2": "sanitation", "relation": "contributors to"}
+{"node1": "birth rates", "node2": "decrease", "relation": "during"}
+{"node1": "death rates", "node2": "decrease", "relation": "during"}
+{"node1": "population growth rate", "node2": "slows", "relation": "during"}
+{"node1": "population size", "node2": "grows exponentially", "relation": "before"}
+{"node1": "population size", "node2": "stabilizes", "relation": "after"}
+{"node1": "aging populations", "node2": "China", "relation": "current state"}
+{"node1": "younger population structure", "node2": "many African countries", "relation": "characteristic"}
+{"node1": "dependency ratio", "node2": "higher", "relation": "in"}
+{"node1": "life expectancy", "node2": "increases", "relation": "as"}
+{"node1": "access to education", "node2": "family planning resources", "relation": "facilitators of"}
+{"node1": "population growth", "node2": "history", "relation": "has"}
+{"node1": "global population", "node2": "increase", "relation": "undergoes"}
+{"node1": "Industrial Revolution", "node2": "beginning", "relation": "coincides with"}
+{"node1": "demography", "node2": "science", "relation": "belongs to"}
+{"node1": "age structure diagram", "node2": "graphical representation", "relation": "is"}
+{"node1": "United States population", "node2": "year 2000", "relation": "applies to"}
+{"node1": "male", "node2": "slight excess", "relation": "shows"}
+{"node1": "female", "node2": "older age groups", "relation": "dominates"}
+{"node1": "demographic transition model", "node2": "historical shift", "relation": "describes"}
+{"node1": "public health", "node2": "improvements", "relation": "contributes to"}
+{"node1": "sanitation", "node2": "improvements", "relation": "contributes to"}
+{"node1": "nutrition", "node2": "improvements", "relation": "contributes to"}
+{"node1": "education", "node2": "resources", "relation": "increases"}
+{"node1": "birth rate", "node2": "initial value", "relation": "is"}
+{"node1": "access to education and family planning resources", "node2": "increases", "relation": "leads to"}
+{"node1": "death rate", "node2": "initial value", "relation": "is"}
+{"node1": "public health", "node2": "improvements", "relation": "leads to"}
+{"node1": "life expectancy", "node2": "average value", "relation": "increases"}
+{"node1": "fertility", "node2": "average value", "relation": "decreases"}
+{"node1": "China", "node2": "aging population", "relation": "exhibits"}
+{"node1": "India", "node2": "aging population", "relation": "exhibits"}
+{"node1": "African countries", "node2": "younger population structure", "relation": "have"}
+{"node1": "dependency ratio", "node2": "higher value", "relation": "corresponds to"}
+{"node1": "US population", "node2": "age structure diagrams", "relation": "represents"}
+{"node1": "elderly population", "node2": "population", "relation": "observed increase in"}
+{"node1": "female elderly population", "node2": "elderly population", "relation": "particularly"}
+{"node1": "Demographic Transition Model", "node2": "", "relation": ""}
+{"node1": "Preindustrial stage", "node2": "Demographic Transition Model", "relation": "describing"}
+{"node1": "high mortality rates", "node2": "Preindustrial stage", "relation": "due to"}
+{"node1": "diseases", "node2": "Preindustrial stage", "relation": "due to"}
+{"node1": "food scarcity", "node2": "Preindustrial stage", "relation": "due to"}
+{"node1": "lack of healthcare facilities", "node2": "Preindustrial stage", "relation": "due to"}
+{"node1": "birth rates", "node2": "Preindustrial stage", "relation": "remain high to ensure survival of families"}
+{"node1": "Industrialization", "node2": "declining mortality rates", "relation": "leads to"}
+{"node1": "time lag", "node2": "birth rates initially remain high due to", "relation": "time lag between changing conditions and family size adjustments"}
+{"node1": "population growth rate", "node2": "minimal population growth", "relation": "equals"}
+{"node1": "population growth rate", "node2": "positive population growth rate", "relation": "due to"}
+{"node1": "population growth rate", "node2": "negative birth rates", "relation": "results in"}
+{"node1": "wide base", "node2": "diagrams", "relation": "indicates"}
+{"node1": "narrow base", "node2": "diagrams", "relation": "implies"}
+{"node1": "young population", "node2": "wide base", "relation": "and high birth rate, leading to"}
+{"node1": "population growth", "node2": "narrow base", "relation": "causing"}
+{"node1": "population pyramid", "node2": "population", "relation": "depicts the age and sex structure of"}
+{"node1": "elderly population", "node2": "population pyramid", "relation": "shows an increase in"}
+{"node1": "female population", "node2": "population pyramid", "relation": "specifically highlights the rise in"}
+{"node1": "demographic transition", "node2": "country", "relation": "describes the evolution of birth and death rates during"}
+{"node1": "preindustrial stage", "node2": "demographic transition", "relation": "initial phase marked by high mortality and fertility rates due to"}
+{"node1": "disease", "node2": "preindustrial stage", "relation": "poor health infrastructure"}
+{"node1": "food scarcity", "node2": "preindustrial stage", "relation": "insufficient agricultural productivity"}
+{"node1": "lack of healthcare facilities", "node2": "preindustrial stage", "relation": "inadequate medical resources"}
+{"node1": "declining death rates", "node2": "stage 2", "relation": "commences after the onset of"}
+{"node1": "population growth rate", "node2": "stage 3", "relation": "calculated by subtracting death rate from birth rate"}
+{"node1": "negative birth rate", "node2": "stage 3", "relation": "leads to a decrease in population size"}
+{"node1": "Demographic Transition Model", "node2": "Population Dynamics", "relation": "leads to"}
+{"node1": "Cost of Raising Children", "node2": "Significantly", "relation": "no longer"}
+{"node1": "Effective Birth Control Methods", "node2": "Fewer Offspring", "relation": "become accessible"}
+{"node1": "Improvements in Medicine", "node2": "Sanitation", "relation": "decrease Death Rates"}
+{"node1": "Population Growth", "node2": "Birth-Death Gap", "relation": "remains robust"}
+{"node1": "Life Expectancy", "node2": "Childhood Mortality", "relation": "increases significantly"}
+{"node1": "Non-Renewable Energy Sources", "node2": "Finite Resources", "relation": "extracted from Natural Sources"}
+{"node1": "Fossil Fuels", "node2": "Ancient Organic Materials", "relation": "form from"}
+{"node1": "Coal", "node2": "Buried Plant Matter", "relation": "forms from"}
+{"node1": "Petroleum", "node2": "Marine Organisms", "relation": "forms from"}
+{"node1": "Natural Gas", "node2": "Organic Matter in Sedimentary Basins", "relation": "forms from"}
+{"node1": "Exploitation of Fossil Fuels", "node2": "Environmental Consequences", "relation": "has"}
+{"node1": "Nuclear Energy", "node2": "Heat Produced by Splitting or Fusing Atomic Nuclei", "relation": "Generates Electricity Using"}
+{"node1": "Benefits", "node2": "Minimal Greenhouse Gas Emissions", "relation": "Vast Energy Output"}
+{"node1": "demographic transition model", "node2": "population dynamics", "relation": "leads to"}
+{"node1": "cost of raising children", "node2": "significantly shifts", "relation": "causes"}
+{"node1": "effective birth control methods", "node2": "results in", "relation": "allows for"}
+{"node1": "death rates", "node2": "decline", "relation": "causes"}
+{"node1": "life expectancy", "node2": "escalates significantly", "relation": "correlates with"}
+{"node1": "childhood mortality", "node2": "plummets", "relation": "reduces"}
+{"node1": "non-renewable energy sources", "node2": "finite", "relation": "are"}
+{"node1": "fossil fuels", "node2": "ancient organic materials", "relation": "originate from"}
+{"node1": "coal", "node2": "buried plant matter", "relation": "forms from"}
+{"node1": "petroleum", "node2": "marine organisms", "relation": "originates from"}
+{"node1": "natural gas", "node2": "sedimentary basins", "relation": "consists of"}
+{"node1": "exploration", "node2": "disrupts ecosystems", "relation": "affects"}
+{"node1": "extraction", "node2": "releases greenhouse gases", "relation": "involves"}
+{"node1": "utilization", "node2": "contaminates water supplies", "relation": "leads to"}
+{"node1": "burning fossil fuels", "node2": "releases carbon dioxide", "relation": "emits"}
+{"node1": "oil spills", "node2": "pose threats to marine life", "relation": "create risks for"}
+{"node1": "nuclear energy", "node2": "minimal greenhouse gas emissions", "relation": "provides"}
+{"node1": "nuclear energy", "node2": "vast energy output", "relation": "offers"}
+{"node1": "nuclear energy", "node2": "long-term energy security", "relation": "promises"}
+{"node1": "radioactive waste disposal", "node2": "challenges", "relation": "presents"}
+{"node1": "nuclear energy", "node2": "potential for catastrophic accidents", "relation": "carries"}
+{"node1": "proliferation concerns", "node2": "raises", "relation": "associated with"}
+{"node1": "potential energy", "node2": "objects", "relation": "is held by"}
+{"node1": "potential energy", "node2": "spatial arrangement", "relation": "is due to"}
+{"node1": "potential energy", "node2": "forces", "relation": "acts upon them"}
+{"node1": "living organisms", "node2": "energy", "relation": "needs for survival"}
+{"node1": "sun", "node2": "primary source of", "relation": ""}
+{"node1": "human advancement", "node2": "energy usage", "relation": "is tied to"}
+{"node1": "fire", "node2": "early achievements in", "relation": ""}
+{"node1": "modern civilization", "node2": "extensive use of", "relation": "relies on"}
+{"node1": "oil", "node2": "marine organisms", "relation": "forms from in ancient seas/rivers"}
+{"node1": "natural gas", "node2": "marine organisms", "relation": "forms from in ancient seas/rivers"}
+{"node1": "coal", "node2": "terrestrial vegetation", "relation": "forms from in swamp environments"}
+{"node1": "sedimentary rocks", "node2": "oil and natural gas", "relation": "are extracted from beneath"}
+{"node1": "coal mines", "node2": "coal", "relation": "are mined from the ground"}
+{"node1": "environmental impact", "node2": "fossil fuel extraction and usage", "relation": "has significant consequences"}
+{"node1": "societal complexities", "node2": "fossil fuel usage", "relation": "contributes to"}
+{"node1": "affluence", "node2": "fossil fuel usage", "relation": "results in"}
+{"node1": "wealth gap", "node2": "fossil fuel usage", "relation": "creates"}
+{"node1": "finite resources", "node2": "fossil fuels", "relation": "are"}
+{"node1": "millions of years", "node2": "time taken for formation of fossil fuels", "relation": "it takes"}
+{"node1": "heat", "node2": "transformation of oil", "relation": "occurs through"}
+{"node1": "pressure", "node2": "transformation of oil", "relation": "occurs through"}
+{"node1": "bacteria", "node2": "transformation of oil", "relation": "occurs through"}
+{"node1": "potential energy", "node2": "energy", "relation": "has"}
+{"node1": "sun", "node2": "primary source of", "relation": "for"}
+{"node1": "living organisms", "node2": "require", "relation": "to"}
+{"node1": "fossil fuels", "node2": "non-renewable energy resources", "relation": "are"}
+{"node1": "petroleum", "node2": "natural gas", "relation": "derived from"}
+{"node1": "marine organisms", "node2": "terrestrial plants", "relation": "that existed millions of years ago"}
+{"node1": "ancient seas", "node2": "rivers", "relation": "where these organic materials lived"}
+{"node1": "sedimentary rocks", "node2": "burial depth", "relation": "under which these organic materials were buried and subjected to intense pressure and temperature conditions"}
+{"node1": "thermogenesis", "node2": "hydrocarbon formation", "relation": "results from"}
+{"node1": "oil", "node2": "natural gas", "relation": "may result from"}
+{"node1": "coal", "node2": "peat", "relation": "evolves into"}
+{"node1": "coal", "node2": "sedimentary rock", "relation": "is"}
+{"node1": "coal", "node2": "energy source", "relation": "primarily used as"}
+{"node1": "organic matter", "node2": "formed from", "relation": "buried and compressed"}
+{"node1": "low-sulfur deposits", "node2": "desirable for", "relation": "environmental reasons"}
+{"node1": "historically important", "node2": "for", "relation": "societal development and energy consumption"}
+{"node1": "coal", "node2": "can be used", "relation": "directly or transformed into"}
+{"node1": "electricity", "node2": "used for", "relation": "coal"}
+{"node1": "coal", "node2": "classified into", "relation": "four types based on"}
+{"node1": "anthracite", "node2": "least moisture", "relation": "most carbon"}
+{"node1": "bituminous", "node2": "more moisture", "relation": "less carbon"}
+{"node1": "subbituminous", "node2": "more moisture", "relation": "less carbon"}
+{"node1": "lignite", "node2": "highest moisture", "relation": "least carbon"}
+{"node1": "mining", "node2": "comes with", "relation": "resource usage and environmental implications"}
+{"node1": "processed coal", "node2": "burned to release", "relation": "energy for"}
+{"node1": "electricity", "node2": "other uses", "relation": "processed coal burned to release"}
+{"node1": "coal", "node2": "sedimentary rock", "relation": "is"}
+{"node1": "organic matter", "node2": "burial", "relation": "undergoes"}
+{"node1": "specific conditions", "node2": "compression", "relation": "under"}
+{"node1": "millions of years", "node2": "time", "relation": "requires"}
+{"node1": "low-sulfur coal deposits", "node2": "western United States", "relation": "predominantly found in"}
+{"node1": "energy consumption", "node2": "societal development", "relation": "is a significant factor in"}
+{"node1": "fossil fuels", "node2": "global energy use", "relation": "account for a substantial portion of"}
+{"node1": "anthracite coal", "node2": "least moisture", "relation": "contains"}
+{"node1": "bituminous coal", "node2": "higher moisture content", "relation": "follows"}
+{"node1": "subbituminous coal", "node2": "even more moisture", "relation": "has"}
+{"node1": "lignite coal", "node2": "highest moisture content", "relation": "has the least carbon"}
+{"node1": "strip mining", "node2": "shallow coal deposits", "relation": "is typically used for"}
+{"node1": "underground mining", "node2": "greater depths", "relation": "is employed when"}
+{"node1": "moisture content", "node2": "carbon content", "relation": "affects"}
+{"node1": "coal-fired power plants", "node2": "processed coal", "relation": "uses"}
+{"node1": "burning", "node2": "latent energy", "relation": "releases"}
+{"node1": "electricity generation", "node2": "secondary form of energy", "relation": "is harnessed for"}
+{"node1": "high-pressure refrigerant", "node2": "compressor", "relation": "leaves"}
+{"node1": "liquid refrigerant", "node2": "condenser", "relation": "enters"}
+{"node1": "liquid refrigerant", "node2": "expansion valve", "relation": "enters"}
+{"node1": "refrigerant vapor", "node2": "evaporator", "relation": "travels through"}
+{"node1": "liquid refrigerant", "node2": "compressor", "relation": "returns to"}
+{"node1": "thermal insulation", "node2": "interior of the refrigerator", "relation": "keeps"}
+{"node1": "thermal insulation", "node2": "warm air", "relation": "prevents"}
+{"node1": "coal", "node2": "energy resource", "relation": "primarily used for"}
+{"node1": "extraction", "node2": "coal", "relation": "involves"}
+{"node1": "transportation", "node2": "coal", "relation": "undergoes"}
+{"node1": "strip mining", "node2": "coal extraction", "relation": "consists of"}
+{"node1": "landscape", "node2": "strip mining", "relation": "leaves noticeable impacts on"}
+{"node1": "ecosystems", "node2": "strip mining", "relation": "are often destroyed during"}
+{"node1": "habitat loss", "node2": "strip mining", "relation": "leads to"}
+{"node1": "biodiversity", "node2": "strip mining", "relation": "threatens"}
+{"node1": "mountaintop removal", "node2": "strip mining", "relation": "is an extreme form of"}
+{"node1": "underground mining", "node2": "coal extraction", "relation": "presents its own challenges"}
+{"node1": "methane gas", "node2": "underground mining", "relation": "must be vented to ensure mine safety"}
+{"node1": "ground collapse", "node2": "underground mining", "relation": "above mine tunnels"}
+{"node1": "acidic water", "node2": "abandoned mines", "relation": "discharges into surrounding water sources"}
+{"node1": "pulverization", "node2": "coal", "relation": "is performed at power plants"}
+{"node1": "burning", "node2": "coal", "relation": "is performed at power plants"}
+{"node1": "steam", "node2": "power plants", "relation": "generates"}
+{"node1": "turbines", "node2": "steam", "relation": "generate"}
+{"node1": "electricity", "node2": "power plants", "relation": "is generated"}
+{"node1": "cooling water", "node2": "power plants", "relation": "is circulated through the system to"}
+{"node1": "environmental consequences", "node2": "coal extraction and utilization", "relation": "include"}
+{"node1": "destruction of habitats and ecosystems", "node2": "mining", "relation": "includes"}
+{"node1": "release of greenhouse gases", "node2": "combustion", "relation": "includes"}
+{"node1": "potential for acid mine drainage", "node2": "abandoned mines", "relation": "includes"}
+{"node1": "oil spills", "node2": "petroleum production", "relation": "occur during"}
+{"node1": "exploration", "node2": "petroleum production", "relation": "part of"}
+{"node1": "production", "node2": "petroleum production", "relation": "part of"}
+{"node1": "transportation", "node2": "petroleum production", "relation": "part of"}
+{"node1": "refining", "node2": "petroleum production", "relation": "part of"}
+{"node1": "distribution", "node2": "petroleum production", "relation": "part of"}
+{"node1": "human error", "node2": "oil spills", "relation": "cause of"}
+{"node1": "equipment failure", "node2": "oil spills", "relation": "cause of"}
+{"node1": "natural disasters", "node2": "oil spills", "relation": "cause of"}
+{"node1": "animals", "node2": "environmental impact", "relation": "affected by"}
+{"node1": "aquatic organisms", "node2": "environmental impact", "relation": "affected by"}
+{"node1": "ecosystems", "node2": "environmental impact", "relation": "affected by"}
+{"node1": "physical harm", "node2": "environmental impact", "relation": "type of"}
+{"node1": "contamination", "node2": "environmental impact", "relation": "type of"}
+{"node1": "reproductive issues", "node2": "environmental impact", "relation": "type of"}
+{"node1": "economic consequences", "node2": "environmental impact", "relation": "type of"}
+{"node1": "drilling technology", "node2": "preventing oil spills", "relation": "helps"}
+{"node1": "regulations", "node2": "preventing oil spills", "relation": "helps"}
+{"node1": "spill prevention equipment", "node2": "preventing oil spills", "relation": "helps"}
+{"node1": "response planning", "node2": "minimizing impact of oil spills", "relation": "helps"}
+{"node1": "alternative energy sources", "node2": "preventing oil spills", "relation": "helps"}
+{"node1": "public awareness", "node2": "preventing oil spills", "relation": "helps"}
+{"node1": "research and development", "node2": "preventing oil spills", "relation": "helps"}
+{"node1": "coal combustion", "node2": "pollutants", "relation": "releases"}
+{"node1": "SO2", "node2": "acid rain", "relation": "contributes"}
+{"node1": "NOx", "node2": "acid rain", "relation": "contributes"}
+{"node1": "CO2", "node2": "global warming", "relation": "primary greenhouse gas"}
+{"node1": "fly ash", "node2": "ash", "relation": "residual product"}
+{"node1": "scrubbers", "node2": "capture", "relation": "mandated"}
+{"node1": "landfill", "node2": "disposal", "relation": "poses risks"}
+{"node1": "coal dust", "node2": "respiratory diseases", "relation": "results from"}
+{"node1": "mercury", "node2": "neurological and developmental issues", "relation": "emitted during coal combustion"}
+{"node1": "oil", "node2": "extraction", "relation": "primarily employed for"}
+{"node1": "hydrocarbons", "node2": "energy", "relation": "provide a significant amount of"}
+{"node1": "gasoline", "node2": "products", "relation": "produced from hydrocarbons"}
+{"node1": "diesel fuel", "node2": "products", "relation": "produced from hydrocarbons"}
+{"node1": "paraffin wax", "node2": "products", "relation": "produced from hydrocarbons"}
+{"node1": "ocean", "node2": "extraction", "relation": "involves drilling"}
+{"node1": "marine environment", "node2": "oil spills", "relation": "can lead to extensive damage to"}
+{"node1": "greenhouse gases", "node2": "global warming", "relation": "trap heat"}
+{"node1": "anthropogenic CO2 emissions", "node2": "global warming", "relation": "account for approximately 40% of global CO2 emissions from fuel combustion"}
+{"node1": "shale formations", "node2": "hydraulic fracturing", "relation": "is performed in"}
+{"node1": "injection mixture", "node2": "hydraulic fracturing", "relation": "is prepared for"}
+{"node1": "high pressure", "node2": "injection mixture", "relation": "forces open"}
+{"node1": "cracks", "node2": "shale formations", "relation": "are created by"}
+{"node1": "proppants", "node2": "cracks", "relation": "prop open"}
+{"node1": "produced water", "node2": "hydraulic fracturing", "relation": "includes"}
+{"node1": "produced oil", "node2": "hydraulic fracturing", "relation": "includes"}
+{"node1": "produced gas", "node2": "hydraulic fracturing", "relation": "includes"}
+{"node1": "water disposal", "node2": "produced water", "relation": "can be"}
+{"node1": "water recycling", "node2": "produced water", "relation": "can be"}
+{"node1": "offshore oil extraction", "node2": "platform", "relation": "involves"}
+{"node1": "platform", "node2": "sea floor", "relation": "may be fixed to"}
+{"node1": "platform", "node2": "ocean", "relation": "located in"}
+{"node1": "offshore oil extraction", "node2": "regulations", "relation": "governs"}
+{"node1": "offshore oil extraction", "node2": "environmental impact", "relation": "minimizes"}
+{"node1": "platform", "node2": "hurricane-resistant design", "relation": "ensures durability"}
+{"node1": "crude oil", "node2": "refinery", "relation": "undergoes"}
+{"node1": "refinery", "node2": "separation", "relation": "employs"}
+{"node1": "separation", "node2": "hydrocarbons", "relation": "divides"}
+{"node1": "separation", "node2": "distillation", "relation": "exploits"}
+{"node1": "conversion", "node2": "cracking", "relation": "transforms"}
+{"node1": "conversion", "node2": "unification", "relation": "transforms"}
+{"node1": "conversion", "node2": "alteration", "relation": "transforms"}
+{"node1": "treatment", "node2": "impurities", "relation": "removes"}
+{"node1": "fracking", "node2": "low-permeability formations", "relation": "extracts"}
+{"node1": "fracking", "node2": "water", "relation": "is essential for"}
+{"node1": "fracking", "node2": "chemicals", "relation": "are used in"}
+{"node1": "produced fluids", "node2": "disposal", "relation": "can be"}
+{"node1": "produced fluids", "node2": "recycling", "relation": "can be"}
+{"node1": "water contamination", "node2": "water treatment plant", "relation": "affects"}
+{"node1": "petroleum extraction", "node2": "environmental degradation", "relation": "causes"}
+{"node1": "petroleum extraction", "node2": "pollutant emissions", "relation": "generates"}
+{"node1": "petroleum extraction", "node2": "human health", "relation": "harms"}
+{"node1": "petroleum extraction", "node2": "greenhouse gas release", "relation": "contributes"}
+{"node1": "CO", "node2": "environmental degradation", "relation": "exacerbates"}
+{"node1": "SO2", "node2": "environmental degradation", "relation": "exacerbates"}
+{"node1": "NOx", "node2": "environmental degradation", "relation": "exacerbates"}
+{"node1": "particulate matter", "node2": "environmental degradation", "relation": "exacerbates"}
+{"node1": "carbon dioxide", "node2": "greenhouse effect", "relation": "contributes"}
+{"node1": "oil exploration", "node2": "soil pollution", "relation": "results in"}
+{"node1": "oil exploration", "node2": "water pollution", "relation": "results in"}
+{"node1": "oil exploration", "node2": "habitat fragmentation", "relation": "results in"}
+{"node1": "oil exploration", "node2": "wildlife disturbance", "relation": "results in"}
+{"node1": "accidental oil spills", "node2": "aquatic ecosystems", "relation": "negatively affects"}
+{"node1": "soil pollution", "node2": "environmental degradation", "relation": "persists"}
+{"node1": "natural gas", "node2": "methane", "relation": "consists mainly of"}
+{"node1": "natural gas", "node2": "by-product gases", "relation": "includes"}
+{"node1": "natural gas", "node2": "dry natural gas", "relation": "is processed into"}
+{"node1": "natural gas", "node2": "transportation", "relation": "can be transported via"}
+{"node1": "natural gas", "node2": "consumption", "relation": "can be used for"}
+{"node1": "natural gas", "node2": "domestic production", "relation": "mostly consumed through"}
+{"node1": "natural gas", "node2": "imports", "relation": "somewhat consumed through"}
+{"node1": "natural gas", "node2": "LNG shipments", "relation": "limitedly consumed through"}
+{"node1": "biogas", "node2": "organic materials", "relation": "can be converted into through"}
+{"node1": "biogas", "node2": "anaerobic decomposition", "relation": "utilizes"}
+{"node1": "biogas", "node2": "renewable energy source", "relation": "provides"}
+{"node1": "petroleum and natural gas industries", "node2": "environmental impacts", "relation": "require careful management and regulation of"}
+{"node1": "unconventional gas", "node2": "low permeability rocks", "relation": "is sourced from"}
+{"node1": "hydraulic fracturing", "node2": "fluid injection", "relation": "consists of"}
+{"node1": "hydraulic fracturing", "node2": "crack creation", "relation": "enables"}
+{"node1": "fracking", "node2": "hydraulic fracturing", "relation": "refers to"}
+{"node1": "fossil fuels", "node2": "carbon dioxide emission", "relation": "upon combustion"}
+{"node1": "natural gas", "node2": "petroleum", "relation": "produces less carbon dioxide than"}
+{"node1": "fossil fuels", "node2": "anthropogenic greenhouse gas emissions", "relation": "contribute around 80% to"}
+{"node1": "electricity generation", "node2": "coal", "relation": "primarily uses"}
+{"node1": "transportation sector", "node2": "carbon dioxide", "relation": "emits more than"}
+{"node1": "nuclear energy", "node2": "nuclear fission", "relation": "generated through"}
+{"node1": "uranium", "node2": "chain reaction", "relation": "sustains"}
+{"node1": "uranium", "node2": "preferred nuclear fuel", "relation": "due to"}
+{"node1": "uranium", "node2": "finite supplies", "relation": "uranium is a nonrenewable resource with"}
+{"node1": "uranium mining", "node2": "method", "relation": "uses"}
+{"node1": "conventional mining", "node2": "ore", "relation": "produces"}
+{"node1": "ore processing", "node2": "product", "relation": "creates"}
+{"node1": "unconventional mining", "node2": "solution", "relation": "generates"}
+{"node1": "yellowcake", "node2": "processing", "relation": "undergoes"}
+{"node1": "yellowcake processing", "node2": "conversion", "relation": "entails"}
+{"node1": "UF6", "node2": "solidification", "relation": "followed by"}
+{"node1": "enriched UF6", "node2": "transportation", "relation": "for"}
+{"node1": "fuel fabrication", "node2": "production", "relation": "from"}
+{"node1": "fuel assembly production", "node2": "stacking", "relation": "and sealing"}
+{"node1": "nuclear power plant usage", "node2": "transportation", "relation": "and loading"}
+{"node1": "pressurized water reactor", "node2": "loading", "relation": "of"}
+{"node1": "water systems", "node2": "separation", "relation": "in"}
+{"node1": "containment", "node2": "radioactive water", "relation": "holds"}
+{"node1": "containment", "node2": "nonradioactive water", "relation": "contains"}
+{"node1": "reactor operation", "node2": "water", "relation": "circulates"}
+{"node1": "reactor operation", "node2": "heating", "relation": "through"}
+{"node1": "reactor operation", "node2": "steam generation", "relation": "leads to"}
+{"node1": "steam", "node2": "driving", "relation": "turbines"}
+{"node1": "uranium extraction", "node2": "conventional methods", "relation": "includes"}
+{"node1": "uranium extraction", "node2": "unconventional techniques", "relation": "includes"}
+{"node1": "ore", "node2": "uranium extraction", "relation": "yields"}
+{"node1": "crushing", "node2": "milling process", "relation": "step"}
+{"node1": "grinding", "node2": "milling process", "relation": "step"}
+{"node1": "chemical separation", "node2": "milling process", "relation": "step"}
+{"node1": "yellowcake", "node2": "uranium concentrate", "relation": "is"}
+{"node1": "milling process", "node2": "yellowcake", "relation": "produces"}
+{"node1": "heap leaching", "node2": "unconventional techniques", "relation": "is"}
+{"node1": "in-place solution mining", "node2": "unconventional techniques", "relation": "is"}
+{"node1": "uranium hexafluoride", "node2": "UF6", "relation": "derived from"}
+{"node1": "conversion", "node2": "UF6", "relation": "allows"}
+{"node1": "enrichment plant", "node2": "enriched UF6", "relation": "is"}
+{"node1": "fuel fabrication facility", "node2": "enriched UF6", "relation": "reacts to form"}
+{"node1": "uranium dioxide", "node2": "fuel fabrication facility", "relation": "forms"}
+{"node1": "fuel pellets", "node2": "uranium dioxide", "relation": "are"}
+{"node1": "fuel rods", "node2": "fuel pellets", "relation": "are"}
+{"node1": "fuel assemblies", "node2": "fuel rods", "relation": "are"}
+{"node1": "nuclear power plant", "node2": "fuel assemblies", "relation": "loads"}
+{"node1": "reactor core", "node2": "nuclear power plant", "relation": "contains"}
+{"node1": "pressurized water reactor", "node2": "nuclear power plant", "relation": "uses"}
+{"node1": "water", "node2": "pressurized water reactor", "relation": "is pumped through"}
+{"node1": "steam generator", "node2": "pressurized water reactor", "relation": "has"}
+{"node1": "nonradioactive", "node2": "steam generator", "relation": "water is"}
+{"node1": "radioactive", "node2": "reactor", "relation": "water is"}
+{"node1": "containment structure", "node2": "reactor", "relation": "contains"}
+{"node1": "biogenic carbon", "node2": "CO2 release", "relation": "equals"}
+{"node1": "living organisms", "node2": "CO2 absorption", "relation": "equals"}
+{"node1": "forests", "node2": "biomass sources", "relation": "include"}
+{"node1": "agricultural residues", "node2": "biomass sources", "relation": "include"}
+{"node1": "energy crops", "node2": "biomass sources", "relation": "include"}
+{"node1": "fossilized biomass", "node2": "CO2 release", "relation": "exceeds"}
+{"node1": "coal", "node2": "fossilized biomass", "relation": "is"}
+{"node1": "peat", "node2": "fossilized biomass", "relation": "is"}
+{"node1": "efficient agriculture", "node2": "carbon neutrality benefit", "relation": "provides"}
+{"node1": "sustainable forestry", "node2": "carbon neutrality benefit", "relation": "provides"}
+{"node1": "minimizing transportation distances", "node2": "carbon neutrality benefit", "relation": "provides"}
+{"node1": "nuclear energy", "node2": "electricity generation", "relation": "is"}
+{"node1": "atomic fission", "node2": "utilization", "relation": "instead of"}
+{"node1": "air pollutants", "node2": "release", "relation": "significant amounts"}
+{"node1": "health issues", "node2": "cost savings", "relation": "related to"}
+{"node1": "particulate matter", "node2": "emissions", "relation": "includes"}
+{"node1": "carbon monoxide", "node2": "emissions", "relation": "includes"}
+{"node1": "nitrogen oxides", "node2": "emissions", "relation": "includes"}
+{"node1": "ozone", "node2": "emissions", "relation": "includes"}
+{"node1": "low-level waste", "node2": "majority", "relation": "of the total volume"}
+{"node1": "high-level waste", "node2": "highest levels", "relation": "of radioactivity"}
+{"node1": "solar energy", "node2": "renewable energy source", "relation": "is"}
+{"node1": "sunlight", "node2": "derivation", "relation": "directly from"}
+{"node1": "greenhouse gases", "node2": "not released", "relation": "during operation"}
+{"node1": "passive solar design", "node2": "collection", "relation": "of solar energy"}
+{"node1": "photovoltaic panels", "node2": "conversion", "relation": "of sunlight into electricity"}
+{"node1": "fossil fuels", "node2": "global energy consumption", "relation": "provides"}
+{"node1": "transportation sectors", "node2": "fossil fuels", "relation": "depends on"}
+{"node1": "renewable energy", "node2": "global energy consumption", "relation": "contributes to"}
+{"node1": "biomass", "node2": "renewable energy", "relation": "includes"}
+{"node1": "China", "node2": "coal", "relation": "heavily relies on"}
+{"node1": "India", "node2": "coal", "relation": "heavily relies on"}
+{"node1": "Germany", "node2": "renewable resources", "relation": "aims to meet"}
+{"node1": "wind", "node2": "renewable energy sources", "relation": "offers"}
+{"node1": "solar", "node2": "renewable energy sources", "relation": "offers"}
+{"node1": "passive solar design", "node2": "solar energy", "relation": "utilizes"}
+{"node1": "active solar power system", "node2": "solar energy", "relation": "generates"}
+{"node1": "photovoltaic cell", "node2": "active solar power system", "relation": "converts"}
+{"node1": "fossil fuels", "node2": "energy consumption", "relation": "provides"}
+{"node1": "transportation sectors", "node2": "fossil fuels", "relation": "uses heavily"}
+{"node1": "renewable energy", "node2": "global energy consumption", "relation": "contributes to"}
+{"node1": "biomass", "node2": "renewable energy", "relation": "derived from"}
+{"node1": "solar", "node2": "renewable energy", "relation": "derived from"}
+{"node1": "wind", "node2": "renewable energy", "relation": "derived from"}
+{"node1": "water", "node2": "renewable energy", "relation": "derived from"}
+{"node1": "China", "node2": "biomass", "relation": "consumes significantly in"}
+{"node1": "India", "node2": "biomass", "relation": "consumes significantly in"}
+{"node1": "Germany", "node2": "renewable resources", "relation": "aims to meet"}
+{"node1": "electricity", "node2": "Germany", "relation": "requires"}
+{"node1": "total energy requirements", "node2": "Germany", "relation": "requires"}
+{"node1": "wind", "node2": "active solar energy systems", "relation": "can be converted into by"}
+{"node1": "photovoltaic cells", "node2": "active solar energy systems", "relation": "can be converted into by"}
+{"node1": "passive solar energy", "node2": "solar", "relation": "utilizes"}
+{"node1": "natural ventilation", "node2": "passive solar energy", "relation": "includes"}
+{"node1": "solar heat gain", "node2": "passive solar energy", "relation": "includes"}
+{"node1": "solar shading", "node2": "passive solar energy", "relation": "includes"}
+{"node1": "efficient insulation", "node2": "passive solar energy", "relation": "includes"}
+{"node1": "solar energy", "node2": "harvesting methods", "relation": "utilizes"}
+{"node1": "passive solar heating", "node2": "naturally heats", "relation": "buildings"}
+{"node1": "south-facing windows", "node2": "maximizes", "relation": "solar absorption"}
+{"node1": "thermal mass materials", "node2": "stores", "relation": "heat"}
+{"node1": "window overhangs", "node2": "prevents", "relation": "solar entry"}
+{"node1": "active solar systems", "node2": "requires", "relation": "external energy input"}
+{"node1": "solar collectors", "node2": "absorbs", "relation": "converts"}
+{"node1": "non-concentrating collectors", "node2": "has", "relation": "equal radiation interception and absorption areas"}
+{"node1": "concentrating collectors", "node2": "has", "relation": "larger radiation interception areas"}
+{"node1": "photovoltaic cells", "node2": "produces", "relation": "electricity"}
+{"node1": "semiconducting materials", "node2": "generates", "relation": "free electrons"}
+{"node1": "small PV cells", "node2": "powers", "relation": "individual devices"}
+{"node1": "large installations", "node2": "provides", "relation": "electricity for buildings or cities"}
+{"node1": "solar power", "node2": "has", "relation": "minimal environmental impact"}
+{"node1": "manufacturing process", "node2": "generates", "relation": "hazardous waste"}
+{"node1": "installations", "node2": "offsets", "relation": "minimal environmental impact"}
+{"node1": "US renewable energy generation", "node2": "contributes", "relation": "approximately 1%"}
+{"node1": "land usage", "node2": "is", "relation": "minimal due to rooftop installations"}
+{"node1": "ecosystems", "node2": "poses potential risks to", "relation": ""}
+{"node1": "proper precautions", "node2": "large-scale projects", "relation": "if not taken"}
+{"node1": "solar energy", "node2": "utilization methods", "relation": "includes"}
+{"node1": "passive solar heating", "node2": "sunlight", "relation": "uses"}
+{"node1": "passive solar heating", "node2": "buildings", "relation": "applies to"}
+{"node1": "passive solar heating", "node2": "winter", "relation": "benefits during"}
+{"node1": "passive solar heating", "node2": "thermal mass", "relation": "stores heat in"}
+{"node1": "passive solar heating", "node2": "night", "relation": "releases stored heat during"}
+{"node1": "window overhangs", "node2": "prevent", "relation": "prevents solar entry during"}
+{"node1": "non-concentrating collectors", "node2": "radiation interception", "relation": "occurs simultaneously with"}
+{"node1": "non-concentrating collectors", "node2": "absorption", "relation": "occurs simultaneously with"}
+{"node1": "concentrating collectors", "node2": "radiation interception", "relation": "enhances"}
+{"node1": "photovoltaic cells", "node2": "sunlight", "relation": "directly converts"}
+{"node1": "small PV cells", "node2": "individual devices", "relation": "powers"}
+{"node1": "larger installations", "node2": "buildings", "relation": "provides electricity for"}
+{"node1": "larger installations", "node2": "cities", "relation": "provides electricity for"}
+{"node1": "manufacturing process", "node2": "hazardous waste", "relation": "produces"}
+{"node1": "large-scale solar projects", "node2": "desert regions", "relation": "are often located in"}
+{"node1": "large-scale solar projects", "node2": "ecosystems", "relation": "may pose potential risks to"}
+{"node1": "proper precautions", "node2": "large-scale solar projects", "relation": "should be taken when implementing"}
+{"node1": "biomass energy", "node2": "renewable energy", "relation": "is a type of"}
+{"node1": "biomass energy", "node2": "organic matter", "relation": "converts into"}
+{"node1": "biomass energy", "node2": "greenhouse gas emissions", "relation": "reduces"}
+{"node1": "biomass energy", "node2": "deforestation", "relation": "may contribute to"}
+{"node1": "biomass energy", "node2": "pollution", "relation": "can produce"}
+{"node1": "solid biomass", "node2": "wood", "relation": "includes"}
+{"node1": "solid biomass", "node2": "animal dung", "relation": "includes"}
+{"node1": "solid biomass", "node2": "peat", "relation": "includes"}
+{"node1": "liquid biofuels", "node2": "ethanol", "relation": "is a type of"}
+{"node1": "gaseous forms", "node2": "methane", "relation": "is a type of"}
+{"node1": "CSP plants", "node2": "arid regions", "relation": "are commonly found in"}
+{"node1": "CSP plants", "node2": "local ecosystems", "relation": "can impact"}
+{"node1": "CSP plants", "node2": "underground wells", "relation": "may draw water from"}
+{"node1": "solar thermal systems", "node2": "hazardous materials", "relation": "use"}
+{"node1": "solar thermal systems", "node2": "water", "relation": "require regular cleaning with"}
+{"node1": "regulations", "node2": "biomass energy facilities' impacts", "relation": "manage"}
+{"node1": "air pollution", "node2": "biomass energy generation", "relation": "is associated with"}
+{"node1": "ash generation", "node2": "biomass energy generation", "relation": "results in"}
+{"node1": "biomass energy", "node2": "energy production", "relation": "is a form of"}
+{"node1": "biomass energy", "node2": "primary energy source", "relation": "was historically"}
+{"node1": "fossil fuels", "node2": "focus", "relation": "shifted towards"}
+{"node1": "solid biomass", "node2": "source", "relation": "for combustion"}
+{"node1": "liquid biofuels", "node2": "source", "relation": "through conversion"}
+{"node1": "gaseous forms", "node2": "source", "relation": "through conversion"}
+{"node1": "concentrated solar power plants", "node2": "cleaning", "relation": "require"}
+{"node1": "water", "node2": "sourcing", "relation": "if needed in arid regions"}
+{"node1": "greenhouse gas emissions", "node2": "reduction", "relation": "when replacing fossil fuels"}
+{"node1": "sustainable forestry practices", "node2": "context", "relation": "in which biomass energy is produced"}
+{"node1": "deforestation", "node2": "leads to", "relation": "when producing biomass energy unsustainably"}
+{"node1": "harmful pollutants", "node2": "contain", "relation": "in wood smoke"}
+{"node1": "modern wood stoves", "node2": "minimize", "relation": "emissions"}
+{"node1": "power plants", "node2": "process", "relation": "waste products from industries and agriculture"}
+{"node1": "air pollution", "node2": "faces", "relation": "similar challenges to coal plants"}
+{"node1": "ash generation", "node2": "includes", "relation": "similar challenges to coal plants"}
+{"node1": "strict regulations", "node2": "ensure", "relation": "proper management of air pollution and ash generation"}
+{"node1": "waste disposal", "node2": "offers", "relation": "potential solutions"}
+{"node1": "non-renewable resources", "node2": "reduces reliance on", "relation": "through biomass energy production"}
+{"node1": "implementation", "node2": "requires", "relation": "careful consideration of sustainability, efficiency, and environmental impact"}
+{"node1": "renewable energy", "node2": "greenhouse gases", "relation": "reduces"}
+{"node1": "biomass", "node2": "renewable energy", "relation": "comes from"}
+{"node1": "anaerobic digestion", "node2": "methane production", "relation": "occurs through"}
+{"node1": "high temperature", "node2": "anaerobic digestion", "relation": "occurs through"}
+{"node1": "municipal waste", "node2": "primary sources", "relation": "includes"}
+{"node1": "food waste", "node2": "primary sources", "relation": "includes"}
+{"node1": "livestock manure", "node2": "primary sources", "relation": "includes"}
+{"node1": "landfill", "node2": "significant contributors", "relation": "contribute"}
+{"node1": "methane emissions", "node2": "global warming", "relation": "contribute to"}
+{"node1": "methane production", "node2": "manure", "relation": "generates"}
+{"node1": "heat", "node2": "methane production", "relation": "generates"}
+{"node1": "beneficial bacteria", "node2": "methane production", "relation": "enriches with"}
+{"node1": "nutrients", "node2": "methane production", "relation": "enriches with"}
+{"node1": "ethanol", "node2": "biofuels", "relation": "derived from"}
+{"node1": "corn", "node2": "ethanol", "relation": "used for"}
+{"node1": "sugar cane", "node2": "ethanol", "relation": "used for"}
+{"node1": "gasoline", "node2": "volatility", "relation": "leads to"}
+{"node1": "ground-level ozone", "node2": "volatility", "relation": "contributes to"}
+{"node1": "smog", "node2": "volatility", "relation": "contributes to"}
+{"node1": "biodiesel", "node2": "conventional diesel engines", "relation": "used in"}
+{"node1": "nitrogen oxide", "node2": "biodiesel", "relation": "emits more"}
+{"node1": "evaluation", "node2": "biofuels", "relation": "requires"}
+{"node1": "net energy", "node2": "evaluation", "relation": "considers"}
+{"node1": "co2generation/reduction", "node2": "evaluation", "relation": "considers"}
+{"node1": "cellulosic biomass", "node2": "sustainable practices", "relation": "uses"}
+{"node1": "avoiding deforestation", "node2": "unsustainable land use practices", "relation": "must be avoided"}
+{"node1": "wind turbine", "node2": "electrical energy", "relation": "converts"}
+{"node1": "wind", "node2": "rotor blade", "relation": "strikes"}
+{"node1": "rotor blade", "node2": "rotation", "relation": "causes"}
+{"node1": "rotation", "node2": "main shaft", "relation": "is transferred to"}
+{"node1": "high-speed shaft", "node2": "generator", "relation": "spins"}
+{"node1": "electricity", "node2": "power grid", "relation": "is sent to"}
+{"node1": "wind speed", "node2": "efficiency", "relation": "operates within"}
+{"node1": "modern wind turbine", "node2": "height", "relation": "can reach"}
+{"node1": "capacity", "node2": "modern wind turbine", "relation": "varies"}
+{"node1": "biomass energy sources", "node2": "fossil fuels", "relation": "have lower energy densities compared to"}
+{"node1": "larger quantities", "node2": "produce the same energy output", "relation": "must be burned to"}
+{"node1": "substantial energy inputs", "node2": "production of some biomass energy sources", "relation": "involves"}
+{"node1": "traditional monoculture crops", "node2": "considerable fossil fuel usage", "relation": "necessitate"}
+{"node1": "fertilizers", "node2": "manufacturing", "relation": "for"}
+{"node1": "operating farming machinery", "node2": "transporting the crops to markets", "relation": "and"}
+{"node1": "biofuels", "node2": "conventional gasoline and diesel fuels", "relation": "may not yield substantial net energy savings over"}
+{"node1": "carbon neutrality", "node2": "biofuels", "relation": "can be compromised during their production process,"}
+{"node1": "land", "node2": "food production", "relation": "could potentially be allocated towards"}
+{"node1": "food prices", "node2": "societies", "relation": "negatively affect"}
+{"node1": "global food supply", "node2": "exacerbating malnutrition and starvation", "relation": "decreasing the"}
+{"node1": "forests", "node2": "grasslands", "relation": "play a crucial role in absorbing CO2through photosynthesis"}
+{"node1": "deforestation", "node2": "grassland degradation", "relation": "due to excessive biomass harvesting can lead to reduced ecosystem services and increased atmospheric CO2concentrations,"}
+{"node1": "wind power", "node2": "renewable energy sources", "relation": "present a promising alternative"}
+{"node1": "wind turbines", "node2": "wind power", "relation": "offer a sustainable revenue stream for farmers and ranchers,"}
+{"node1": "low-speed shaft", "node2": "rotor rotation", "relation": "drives the"}
+{"node1": "high-speed shaft", "node2": "generator", "relation": "generates electricity"}
+{"node1": "electricity", "node2": "grid", "relation": "is sent to the"}
+{"node1": "offshore wind energy", "node2": "environmental concerns", "relation": "may have fewer"}
+{"node1": "land-based wind turbines", "node2": "aesthetic concerns", "relation": "cause"}
+{"node1": "land-based wind turbines", "node2": "occasional fires", "relation": "cause"}
+{"node1": "land-based wind turbines", "node2": "lubricant leaks", "relation": "cause"}
+{"node1": "land-based wind turbines", "node2": "noise generation", "relation": "cause"}
+{"node1": "geothermal energy", "node2": "internal heat", "relation": "utilizes"}
+{"node1": "geothermal systems", "node2": "heat", "relation": "need"}
+{"node1": "geothermal systems", "node2": "permeability", "relation": "need"}
+{"node1": "geothermal systems", "node2": "water", "relation": "need"}
+{"node1": "electricity generation", "node2": "geothermal resources", "relation": "involves"}
+{"node1": "power plants", "node2": "geothermal reservoirs", "relation": "drill"}
+{"node1": "power plants", "node2": "heat energy", "relation": "convert"}
+{"node1": "geothermal power plants", "node2": "minimal emissions", "relation": "produce"}
+{"node1": "direct use", "node2": "geothermal energy", "relation": "have"}
+{"node1": "heating applications", "node2": "geothermal energy", "relation": "have"}
+{"node1": "geothermal power plants", "node2": "dissolved gases", "relation": "release"}
+{"node1": "modern plants", "node2": "H2S", "relation": "employ"}
+{"node1": "geothermal power plants", "node2": "sulfur compounds", "relation": "emit"}
+{"node1": "not all", "node2": "geothermal power plants", "relation": "can operate"}
+{"node1": "extracted geothermal water", "node2": "plant operations", "relation": "must be replenished"}
+{"node1": "some plants", "node2": "municipal wastewater", "relation": "inject"}
+{"node1": "offshore wind energy", "node2": "environmental concerns", "relation": "may pose"}
+{"node1": "wind turbines", "node2": "landscapes", "relation": "visual impact"}
+{"node1": "wind turbines", "node2": "fire", "relation": "experience"}
+{"node1": "wind turbines", "node2": "lubricating fluids", "relation": "leak"}
+{"node1": "wind turbines", "node2": "noise", "relation": "generate"}
+{"node1": "birds", "node2": "collisions", "relation": "susceptible"}
+{"node1": "bats", "node2": "collisions", "relation": "susceptible"}
+{"node1": "wind turbines", "node2": "impact", "relation": "offset"}
+{"node1": "geothermal energy", "node2": "heat", "relation": "requires"}
+{"node1": "geothermal energy", "node2": "permeability", "relation": "requires"}
+{"node1": "geothermal energy", "node2": "water", "relation": "requires"}
+{"node1": "geothermal reservoirs", "node2": "heat energy", "relation": "converts"}
+{"node1": "geothermal power plants", "node2": "emissions", "relation": "minimal"}
+{"node1": "geothermal power plants", "node2": "hydrogen sulfide", "relation": "eliminates"}
+{"node1": "geothermal power plants", "node2": "sulfur compounds", "relation": "emit"}
+{"node1": "geothermal power plants", "node2": "acid rain", "relation": "responsible for"}
+{"node1": "geothermal power plants", "node2": "groundwater recharge rates", "relation": "affects"}
+{"node1": "geothermal power plants", "node2": "replenishment", "relation": "depends on"}
+{"node1": "hot springs", "node2": "salts", "relation": "contains"}
+{"node1": "hot springs", "node2": "minerals", "relation": "contains"}
+{"node1": "hot springs", "node2": "corrosion", "relation": "causes"}
+{"node1": "hot springs", "node2": "plant lifetimes", "relation": "reduces"}
+{"node1": "hot springs", "node2": "maintenance costs", "relation": "increases"}
+{"node1": "hydropower", "node2": "renewable_energy_source", "relation": "is"}
+{"node1": "hydropower", "node2": "second_largest", "relation": "globally"}
+{"node1": "hydropower", "node2": "biomass_energy", "relation": "after"}
+{"node1": "most_hydropower_facilities", "node2": "naturally_heated_groundwater_sources", "relation": "located_near"}
+{"node1": "geothermal_methods", "node2": "expand_hydropower_reach", "relation": "by"}
+{"node1": "geothermal_methods", "node2": "drilling_into_dry_rocks", "relation": ""}
+{"node1": "geothermal_methods", "node2": "heating_water", "relation": ""}
+{"node1": "geothermal_methods", "node2": "extracting_it", "relation": ""}
+{"node1": "minor_seismic_activities", "node2": "geothermal_methods", "relation": "can_cause"}
+{"node1": "impoundment", "node2": "hydropower_generation", "relation": "is"}
+{"node1": "run_of_river", "node2": "hydropower_generation", "relation": "is"}
+{"node1": "pumped_storage", "node2": "hydropower_generation", "relation": "is"}
+{"node1": "impoundment_dams", "node2": "total_energy_production", "relation": "accounts_for"}
+{"node1": "impoundment_dams", "node2": "renewable_energy_consumption", "relation": "accounts_for"}
+{"node1": "fish_migration", "node2": "environmental_concerns", "relation": "includes"}
+{"node1": "changes_in_water_temperature", "node2": "environmental_concerns", "relation": "includes"}
+{"node1": "chemistry", "node2": "environmental_concerns", "relation": "includes"}
+{"node1": "flow_characteristics", "node2": "environmental_concerns", "relation": "includes"}
+{"node1": "silt_loads", "node2": "environmental_concerns", "relation": "includes"}
+{"node1": "displacement_of_communities", "node2": "environmental_concerns", "relation": "includes"}
+{"node1": "carbon_dioxide", "node2": "reservoirs", "relation": "emissions_from"}
+{"node1": "methane", "node2": "reservoirs", "relation": "emissions_from"}
+{"node1": "tidal_power", "node2": "renewable_energy_source", "relation": "is"}
+{"node1": "strong_tidal_currents", "node2": "tidal_power_systems", "relation": "involves_installation_of_turbines_in"}
+{"node1": "experimental", "node2": "tidal_power_systems", "relation": "are_still"}
+{"node1": "hydropower", "node2": "renewable energy source", "relation": "is"}
+{"node1": "hydropower", "node2": "second largest", "relation": "following"}
+{"node1": "biomass energy", "node2": "largest renewable energy source globally", "relation": "is"}
+{"node1": "geothermal methods", "node2": "employ", "relation": ""}
+{"node1": "dry rocks", "node2": "are situated near", "relation": ""}
+{"node1": "minor seismic activities", "node2": "can induce", "relation": ""}
+{"node1": "impoundment", "node2": "dam", "relation": "is"}
+{"node1": "reservoirs", "node2": "can impede", "relation": "fish migration"}
+{"node1": "fish ladders", "node2": "can mitigate", "relation": "this issue"}
+{"node1": "changes in water temperature", "node2": "chemistry", "relation": "can significantly impact aquatic ecosystems"}
+{"node1": "construction of reservoirs", "node2": "may displace", "relation": "communities"}
+{"node1": "carbon dioxide", "node2": "and methane emissions", "relation": "from stagnant reservoirs"}
+{"node1": "tidal power", "node2": "involves", "relation": "installing turbines"}
+{"node1": "strong tidal currents", "node2": "utilizing", "relation": "the power of flowing water"}
+{"node1": "tidal power systems", "node2": "remain", "relation": "largely experimental"}
+{"node1": "greenhouse gases", "node2": "natural gas", "relation": "result in"}
+{"node1": "carbon capture and storage", "node2": "reduces carbon footprint", "relation": "helps"}
+{"node1": "water", "node2": "steam generation", "relation": "requires"}
+{"node1": "steam methane reforming", "node2": "large quantities of water", "relation": "requires"}
+{"node1": "nitrogen oxides", "node2": "air pollution", "relation": "may be released during hydrogen production"}
+{"node1": "sulfur oxides", "node2": "air pollution", "relation": "may be released during hydrogen production"}
+{"node1": "volatile organic compounds", "node2": "air pollution", "relation": "may be released during hydrogen production"}
+{"node1": "hydrogen production process", "node2": "waste heat", "relation": "generates"}
+{"node1": "land use change", "node2": "raw material extraction", "relation": "has environmental consequences"}
+{"node1": "water consumption", "node2": "raw material extraction", "relation": "has environmental consequences"}
+{"node1": "community and wildlife impacts", "node2": "raw material extraction", "relation": "has environmental consequences"}
+{"node1": "hydrogen", "node2": "leakage risks", "relation": "when leaked into the atmosphere"}
+{"node1": "spent catalysts", "node2": "end-of-life disposal", "relation": "is necessary to minimize environmental harm"}
+{"node1": "hydrogen", "node2": "clean energy source", "relation": "is"}
+{"node1": "renewable energy sources", "node2": "source materials", "relation": "for"}
+{"node1": "zero greenhouse gas emissions", "node2": "advantage", "relation": "of"}
+{"node1": "conventional internal combustion engines", "node2": "emit", "relation": "harmful pollutants"}
+{"node1": "water", "node2": "byproduct", "relation": "of"}
+{"node1": "hydrogen fuel cells", "node2": "emits", "relation": "only"}
+{"node1": "highly energy-dense", "node2": "characteristic", "relation": "of"}
+{"node1": "longer driving ranges", "node2": "result", "relation": "from"}
+{"node1": "intermittent renewable energy sources", "node2": "can be used", "relation": "with"}
+{"node1": "greenhouse gas emissions", "node2": "primary concern", "relation": "of"}
+{"node1": "steam methane reforming", "node2": "process", "relation": "for"}
+{"node1": "carbon dioxide", "node2": "byproduct", "relation": "of"}
+{"node1": "natural gas", "node2": "used", "relation": "for"}
+{"node1": "carbon capture and storage", "node2": "infrastructure", "relation": "required"}
+{"node1": "nitrogen oxides", "node2": "pollutants", "relation": "emitted"}
+{"node1": "sulfur oxides", "node2": "pollutants", "relation": "emitted"}
+{"node1": "volatile organic compounds", "node2": "pollutants", "relation": "emitted"}
+{"node1": "smog formation", "node2": "contributed", "relation": "to"}
+{"node1": "acid rain", "node2": "contributed", "relation": "to"}
+{"node1": "waste heat", "node2": "generated", "relation": "during"}
+{"node1": "stratospheric ozone layer", "node2": "Earth's stratosphere", "relation": "is a part of"}
+{"node1": "ozone", "node2": "high concentration", "relation": "has"}
+{"node1": "ozone", "node2": "UV radiation protection", "relation": "provides"}
+{"node1": "human activities", "node2": "release of ozone-depleting substances", "relation": "causes"}
+{"node1": "chlorine atoms", "node2": "derivation from CFCs", "relation": "react with"}
+{"node1": "chlorine atoms", "node2": "conversion of ozone", "relation": "lead to"}
+{"node1": "Montreal Protocol", "node2": "establishment", "relation": "resulted in"}
+{"node1": "Montreal Protocol", "node2": "phasing out of ODSs", "relation": "was established to"}
+{"node1": "ODSs", "node2": "reduction in production and consumption", "relation": "slows down the depletion rate of"}
+{"node1": "atmosphere", "node2": "Earth", "relation": "surrounds"}
+{"node1": "nitrogen", "node2": "atmosphere", "relation": "constituent"}
+{"node1": "oxygen", "node2": "atmosphere", "relation": "constituent"}
+{"node1": "argon", "node2": "atmosphere", "relation": "constituent"}
+{"node1": "carbon dioxide", "node2": "atmosphere", "relation": "constituent"}
+{"node1": "energy conservation", "node2": "principle", "relation": "refers to"}
+{"node1": "air pollution", "node2": "environmental issue", "relation": "arises from"}
+{"node1": "human activities", "node2": "source", "relation": "contributes significantly to"}
+{"node1": "Clean Air Act", "node2": "legislation", "relation": "aims to mitigate"}
+{"node1": "ozone layer", "node2": "stratosphere", "relation": "is a part of"}
+{"node1": "ozone", "node2": "shield", "relation": "provides"}
+{"node1": "ultraviolet radiation", "node2": "harmful effects", "relation": "causes"}
+{"node1": "chlorofluorocarbons", "node2": "ozone-depleting substance", "relation": "is"}
+{"node1": "chlorine atom", "node2": "ozone molecule", "relation": "converts into"}
+{"node1": "Montreal Protocol", "node2": "international treaty", "relation": "is"}
+{"node1": "production", "node2": "consumption", "relation": "phase out of"}
+{"node1": "ozone layer depletion", "node2": "human activities", "relation": "results from"}
+{"node1": "recovery", "node2": "ozone layer", "relation": "expected"}
+{"node1": "mid-21st century", "node2": "ozone layer recovery", "relation": "by"}
+{"node1": "atmospheric nitrogen", "node2": "atmosphere", "relation": "constitutes"}
+{"node1": "oxygen", "node2": "atmosphere", "relation": "constitutes"}
+{"node1": "other atmospheric gases", "node2": "atmosphere", "relation": "constitutes"}
+{"node1": "water vapor", "node2": "atmosphere", "relation": "constitutes"}
+{"node1": "surface", "node2": "troposphere", "relation": "extending from"}
+{"node1": "stratopause", "node2": "stratosphere", "relation": "extends from"}
+{"node1": "mesopause", "node2": "mesosphere", "relation": "extends from"}
+{"node1": "thermopause", "node2": "thermosphere", "relation": "extends from"}
+{"node1": "thermosphere", "node2": "600 kilometers", "relation": "extends to"}
+{"node1": "stratospheric ozone", "node2": "stratosphere", "relation": "presence of large quantities of"}
+{"node1": "stratospheric ozone", "node2": "atmosphere", "relation": "is a part of"}
+{"node1": "ozone", "node2": "protective shield", "relation": "forms"}
+{"node1": "ozone", "node2": "essential component", "relation": "of stratospheric ozone"}
+{"node1": "ozone", "node2": "oxygen", "relation": "reacts with to form"}
+{"node1": "ozone", "node2": "ozone-oxygen cycle", "relation": "is involved in"}
+{"node1": "ozone", "node2": "ozone depletion", "relation": "contributes to"}
+{"node1": "ultraviolet radiation", "node2": "ozone", "relation": "absorbs"}
+{"node1": "ultraviolet radiation", "node2": "biological damage", "relation": "causes"}
+{"node1": "ultraviolet B radiation", "node2": "sunburn", "relation": "results in"}
+{"node1": "ultraviolet C radiation", "node2": "ozone production", "relation": "initiates"}
+{"node1": "ultraviolet C radiation", "node2": "energy release", "relation": "generates"}
+{"node1": "ultraviolet C radiation", "node2": "heat", "relation": "produces"}
+{"node1": "natural conditions", "node2": "balance", "relation": "maintains"}
+{"node1": "antarctic spring", "node2": "thinning", "relation": "occurs annually as"}
+{"node1": "antarctic spring", "node2": "ozone hole", "relation": "is known as"}
+{"node1": "smallest concentration", "node2": "ozone layer", "relation": "was recorded"}
+{"node1": "largest geographic extent", "node2": "ozone layer", "relation": "reached"}
+{"node1": "global ozone concentration", "node2": "decreasing trend", "relation": "ended"}
+{"node1": "stratospheric layer", "node2": "Earth's atmosphere", "relation": "is a part of"}
+{"node1": "high temperatures", "node2": "variability", "relation": "indicates"}
+{"node1": "molecules", "node2": "sparse population", "relation": "exist in"}
+{"node1": "atmosphere", "node2": "lack of distinct boundary", "relation": "gradually decreases with altitude"}
+{"node1": "ozone", "node2": "stratospheric component", "relation": "is"}
+{"node1": "oxygen molecule", "node2": "splitting", "relation": "by UV radiation"}
+{"node1": "individual oxygen atoms", "node2": "reacting", "relation": "with another oxygen molecule"}
+{"node1": "ozone molecule", "node2": "forming", "relation": "from splitting of oxygen molecules"}
+{"node1": "ozone-oxygen cycle", "node2": "plays a crucial role", "relation": "in absorbing UV radiation"}
+{"node1": "UVA radiation", "node2": "less harmful", "relation": "but still causes cellular damage"}
+{"node1": "UVB radiation", "node2": "more harmful", "relation": "and responsible for sunburns"}
+{"node1": "UV-C radiation", "node2": "initiates", "relation": "the ozone production process"}
+{"node1": "ozone", "node2": "absorbs", "relation": "most harmful UV radiation"}
+{"node1": "ozone layer", "node2": "location", "relation": "approximately 17-30 km above the Earth's surface"}
+{"node1": "ozone layer", "node2": "function", "relation": "protects life on Earth by absorbing UV radiation"}
+{"node1": "UV radiation", "node2": "classification", "relation": "divided into three categories"}
+{"node1": "UVB radiation", "node2": "reaches", "relation": "the Earth's surface after being absorbed by ozone in the stratosphere"}
+{"node1": "natural conditions in the stratosphere", "node2": "maintain", "relation": "a balance between ozone creation and destruction"}
+{"node1": "disruptions to this equilibrium", "node2": "lead to", "relation": "ozone depletion"}
+{"node1": "ozone depletion", "node2": "increased", "relation": "harmful UV-B radiation"}
+{"node1": "Antarctic spring", "node2": "annual occurrence", "relation": ""}
+{"node1": "ozone hole", "node2": "reduced thickness", "relation": "in areas"}
+{"node1": "ozone", "node2": "destruction", "relation": "exceeds"}
+{"node1": "chlorine atoms", "node2": "ozone", "relation": "reacts"}
+{"node1": "ozone", "node2": "UV-B radiation penetration", "relation": "causes"}
+{"node1": "human-engineered chlorine-containing compounds", "node2": "ozone loss", "relation": "lead to"}
+{"node1": "chlorofluorocarbons", "node2": "ozone depletion", "relation": "perpetuate"}
+{"node1": "stratospheric ozone depletion", "node2": "detrimental UV-B radiation", "relation": "results in"}
+{"node1": "Antarctic winter", "node2": "unique environmental conditions", "relation": "promote"}
+{"node1": "polar vortex", "node2": "isolation", "relation": "allows"}
+{"node1": "ice crystals", "node2": "free chlorine atoms", "relation": "release"}
+{"node1": "ozone", "node2": "splits", "relation": "upon interaction"}
+{"node1": "Montreal Protocol", "node2": "international treaty", "relation": "establishes"}
+{"node1": "Montreal Protocol", "node2": "ozone depletion", "relation": "addresses"}
+{"node1": "Montreal Protocol", "node2": "chlorofluorocarbons", "relation": "phases out"}
+{"node1": "Montreal Protocol", "node2": "halons", "relation": "phases out"}
+{"node1": "Montreal Protocol", "node2": "methyl chloroform", "relation": "phases out"}
+{"node1": "Montreal Protocol", "node2": "carbon tetrachloride", "relation": "phases out"}
+{"node1": "Montreal Protocol", "node2": "hydrochlorofluorocarbons", "relation": "phases out"}
+{"node1": "Clean Air Act", "node2": "amendments", "relation": "includes"}
+{"node1": "Clean Air Act", "node2": "regulation", "relation": "establishes"}
+{"node1": "Clean Air Act", "node2": "ODS management", "relation": "outlines"}
+{"node1": "Clean Air Act", "node2": "production", "relation": "prohibits"}
+{"node1": "Clean Air Act", "node2": "recycling", "relation": "requires"}
+{"node1": "Clean Air Act", "node2": "safe alternatives", "relation": "promotes"}
+{"node1": "Clean Air Act", "node2": "release prevention", "relation": "mandates"}
+{"node1": "Clean Air Act", "node2": "labeling", "relation": "requires"}
+{"node1": "air pollution", "node2": "sources", "relation": "originates from"}
+{"node1": "air pollution", "node2": "human activities", "relation": "results from"}
+{"node1": "primary pollutants", "node2": "direct emissions", "relation": "consist of"}
+{"node1": "secondary pollutants", "node2": "formation", "relation": "result from"}
+{"node1": "six common air pollutants", "node2": "criteria pollutants", "relation": "include"}
+{"node1": "particulate matter", "node2": "health impacts", "relation": "pose"}
+{"node1": "ground-level ozone", "node2": "health impacts", "relation": "pose"}
+{"node1": "Montreal Protocol", "node2": "ozone-depleting substances", "relation": "reduces production and emission of"}
+{"node1": "Clean Air Act", "node2": "production and handling of ozone-depleting substances", "relation": "regulates"}
+{"node1": "greenhouse gases", "node2": "phase-out of ozone-depleting substances", "relation": "contributes to mitigating"}
+{"node1": "air pollution", "node2": "human activities", "relation": "originates from"}
+{"node1": "primary pollutants", "node2": "atmosphere", "relation": "are directly emitted into"}
+{"node1": "secondary pollutants", "node2": "chemical reactions", "relation": "are formed through"}
+{"node1": "Environmental Protection Agency", "node2": "six common air pollutants", "relation": "sets air quality standards for"}
+{"node1": "particulate matter", "node2": "ground-level ozone", "relation": "pose the greatest health risks among criteria pollutants"}
+{"node1": "Carbon Monoxide (CO)", "node2": "gas", "relation": "is"}
+{"node1": "Carbon Monoxide (CO)", "node2": "harm", "relation": "impedes"}
+{"node1": "Carbon Monoxide (CO)", "node2": "death", "relation": "causes"}
+{"node1": "Nitrogen Oxides (NOx)", "node2": "Ground-level Ozone (O3)", "relation": "forms"}
+{"node1": "Volatile Organic Compounds (VOCs)", "node2": "Ground-level Ozone (O3)", "relation": "forms"}
+{"node1": "Nitrogen Dioxide (NO2)", "node2": "Combustion Engines", "relation": "primarily comes from"}
+{"node1": "Nitrogen Dioxide (NO2)", "node2": "Electricity Generation", "relation": "primarily comes from"}
+{"node1": "Nitrogen Dioxide (NO2)", "node2": "Industrial Processes", "relation": "primarily comes from"}
+{"node1": "Sulfur Dioxide (SO2)", "node2": "Power Plants", "relation": "significant emissions come from"}
+{"node1": "Sulfur Dioxide (SO2)", "node2": "Industrial Facilities", "relation": "significant emissions come from"}
+{"node1": "Lead (Pb)", "node2": "Motor Vehicle Fuels", "relation": "major sources were"}
+{"node1": "Lead (Pb)", "node2": "Industrial Processes", "relation": "major sources were"}
+{"node1": "Lead (Pb)", "node2": "Piston-Engine Aircraft Using Leaded Aviation Gasoline", "relation": "major sources are"}
+{"node1": "Particulate Matter (PM)", "node2": "Solid Particles", "relation": "composed of"}
+{"node1": "Particulate Matter (PM)", "node2": "Liquid Droplets", "relation": "composed of"}
+{"node1": "Fine Particulate Matter (PM2.5)", "node2": "Deep Penetration", "relation": "can penetrate"}
+{"node1": "Fine Particulate Matter (PM2.5)", "node2": "Bloodstream", "relation": "enters"}
+{"node1": "Coarse Particulate Matter (PM10)", "node2": "Road Dust", "relation": "originates mainly from"}
+{"node1": "Volatile Organic Compounds (VOCs)", "node2": "Plants", "relation": "natural emitters"}
+{"node1": "Volatile Organic Compounds (VOCs)", "node2": "Bacteria", "relation": "natural emitters"}
+{"node1": "Volatile Organic Compounds (VOCs)", "node2": "Human Activities", "relation": "contribute through"}
+{"node1": "greenhouse effect", "node2": "natural process", "relation": "is"}
+{"node1": "atmosphere", "node2": "traps heat", "relation": "keeps"}
+{"node1": "short-wave solar radiation", "node2": "absorbs", "relation": "by"}
+{"node1": "earth's surface", "node2": "absorbs", "relation": "short-wave solar radiation"}
+{"node1": "earth's surface", "node2": "emits", "relation": "long-wave infrared radiation"}
+{"node1": "greenhouse gases", "node2": "absorb", "relation": "some"}
+{"node1": "greenhouse gases", "node2": "re-emit", "relation": "the absorbed radiation"}
+{"node1": "greenhouse gases", "node2": "keep", "relation": "earth warmer"}
+{"node1": "human activities", "node2": "increase", "relation": "greenhouse gas concentrations"}
+{"node1": "enhanced greenhouse effect", "node2": "leads", "relation": "to"}
+{"node1": "accelerated warming trend", "node2": "associated", "relation": "with environmental and societal challenges"}
+{"node1": "reducing greenhouse gas emissions", "node2": "crucial steps", "relation": "to"}
+{"node1": "transitioning to renewable energy sources", "node2": "crucial steps", "relation": "to"}
+{"node1": "fossil fuel combustion", "node2": "human activities", "relation": "such as"}
+{"node1": "deforestation", "node2": "human activities", "relation": "such as"}
+{"node1": "poor indoor air quality", "node2": "indoor air pollution", "relation": "causes"}
+{"node1": "volatile organic compounds", "node2": "indoor air pollution", "relation": "contributes to"}
+{"node1": "outdoor air pollution", "node2": "poor indoor air quality", "relation": "can contribute to"}
+{"node1": "low air exchange rates", "node2": "accumulation of pollutants", "relation": "allows"}
+{"node1": "greenhouse gases", "node2": "greenhouse effect", "relation": "cause"}
+{"node1": "carbon dioxide", "node2": "greenhouse gases", "relation": "includes"}
+{"node1": "methane", "node2": "greenhouse gases", "relation": "includes"}
+{"node1": "nitrous oxide", "node2": "greenhouse gases", "relation": "includes"}
+{"node1": "fluorinated gases", "node2": "greenhouse gases", "relation": "includes"}
+{"node1": "human activities", "node2": "enhanced greenhouse effect", "relation": "has contributed to"}
+{"node1": "combustible materials", "node2": "chemical reactions", "relation": "undergo"}
+{"node1": "combustible materials", "node2": "heat", "relation": "produce"}
+{"node1": "combustible materials", "node2": "light", "relation": "produce"}
+{"node1": "carbon dioxide", "node2": "normal concentrations", "relation": "generally harmless"}
+{"node1": "water vapor", "node2": "normal concentrations", "relation": "generally harmless"}
+{"node1": "nitrogen oxides", "node2": "formation", "relation": "contribute"}
+{"node1": "sulfur dioxide", "node2": "formation", "relation": "contribute"}
+{"node1": "ground-level ozone", "node2": "formation", "relation": "contribute"}
+{"node1": "particulate matter", "node2": "release", "relation": "including"}
+{"node1": "fine particulate matter", "node2": "release", "relation": "including"}
+{"node1": "volatile organic compounds", "node2": "emission", "relation": "which can react"}
+{"node1": "inefficient appliances", "node2": "combustion", "relation": "can increase"}
+{"node1": "poorly maintained appliances", "node2": "combustion", "relation": "can increase"}
+{"node1": "indoor air quality", "node2": "degradation", "relation": "improper combustion"}
+{"node1": "ventilation", "node2": "management", "relation": "can help minimize"}
+{"node1": "maintenance", "node2": "regimen", "relation": "can help minimize"}
+{"node1": "Indoor Air Pollution", "node2": "Combustion", "relation": "originates from"}
+{"node1": "Fuels", "node2": "Combustion", "relation": "undergoes"}
+{"node1": "Carbon Dioxide", "node2": "Combustion", "relation": "released"}
+{"node1": "Water Vapor", "node2": "Combustion", "relation": "released"}
+{"node1": "Nitrogen Oxides", "node2": "Combustion", "relation": "released"}
+{"node1": "Sulfur Dioxide", "node2": "Combustion", "relation": "released"}
+{"node1": "Particulate Matter", "node2": "Combustion", "relation": "released"}
+{"node1": "Volatile Organic Compounds", "node2": "Combustion", "relation": "released"}
+{"node1": "Ground-Level Ozone", "node2": "Nitrogen Oxides", "relation": "forms"}
+{"node1": "Formaldehyde", "node2": "Volatile Organic Compounds", "relation": "forms"}
+{"node1": "Acrolein", "node2": "Volatile Organic Compounds", "relation": "forms"}
+{"node1": "air pollution", "node2": "cardiovascular health", "relation": "negatively impacts"}
+{"node1": "air pollution", "node2": "renal health", "relation": "negatively impacts"}
+{"node1": "NOx", "node2": "lung diseases", "relation": "worsens"}
+{"node1": "NOx", "node2": "respiratory symptoms", "relation": "increases"}
+{"node1": "NOx", "node2": "susceptibility to infections", "relation": "increases"}
+{"node1": "CO", "node2": "oxygen supply", "relation": "reduces"}
+{"node1": "CO", "node2": "heart disease", "relation": "potentially exacerbates"}
+{"node1": "SO2", "node2": "asthma", "relation": "aggravates"}
+{"node1": "SO2", "node2": "respiratory symptoms", "relation": "contributes to"}
+{"node1": "SO2", "node2": "particle formation", "relation": "contributes to"}
+{"node1": "age", "node2": "susceptibility", "relation": "increases"}
+{"node1": "pre-existing medical conditions", "node2": "susceptibility", "relation": "increases"}
+{"node1": "acid rain", "node2": "environment", "relation": "harms"}
+{"node1": "acid rain", "node2": "lakes", "relation": "affects"}
+{"node1": "acid rain", "node2": "streams", "relation": "affects"}
+{"node1": "acid rain", "node2": "forests", "relation": "affects"}
+{"node1": "acid rain", "node2": "structures", "relation": "affects"}
+{"node1": "acid rain", "node2": "visibility impairment", "relation": "contributes to"}
+{"node1": "susceptible populations", "node2": "heart diseases", "relation": "includes"}
+{"node1": "susceptible populations", "node2": "lung diseases", "relation": "includes"}
+{"node1": "susceptible populations", "node2": "diabetes", "relation": "includes"}
+{"node1": "susceptible populations", "node2": "older adults", "relation": "includes"}
+{"node1": "susceptible populations", "node2": "children", "relation": "includes"}
+{"node1": "air pollution", "node2": "major concern", "relation": "became"}
+{"node1": "Belgian sulfur crisis", "node2": "incident", "relation": "resulted in"}
+{"node1": "Donora, Pennsylvania, incident", "node2": "incident", "relation": "caused"}
+{"node1": "London smog episode", "node2": "episode", "relation": "resulted in"}
+{"node1": "Clean Air Act", "node2": "legislation", "relation": "was first introduced"}
+{"node1": "Clean Air Act", "node2": "law", "relation": "established"}
+{"node1": "Environmental Protection Agency", "node2": "agency", "relation": "was established to implement"}
+{"node1": "Clean Air Act", "node2": "goal", "relation": "ensures"}
+{"node1": "Clean Air Act", "node2": "focuses on", "relation": "reducing"}
+{"node1": "Clean Air Act", "node2": "emissions from", "relation": "regulates"}
+{"node1": "state and local governments", "node2": "role", "relation": "plays"}
+{"node1": "Clean Air Act", "node2": "successfully reduced", "relation": ""}
+{"node1": "Clean Air Act", "node2": "achievements", "relation": "include"}
+{"node1": "particulates", "node2": "reduction", "relation": ""}
+{"node1": "ozone", "node2": "reduction", "relation": ""}
+{"node1": "lead", "node2": "reduction", "relation": ""}
+{"node1": "carbon monoxide", "node2": "reduction", "relation": ""}
+{"node1": "nitrogen dioxide", "node2": "reduction", "relation": ""}
+{"node1": "sulfur dioxide", "node2": "reduction", "relation": ""}
+{"node1": "toxic air pollutants", "node2": "reduction", "relation": ""}
+{"node1": "air pollution", "node2": "environmental concern", "relation": "gained prominence through"}
+{"node1": "Belgian sulfur crisis", "node2": "atmospheric sulfur levels", "relation": "led to"}
+{"node1": "Donora, Pennsylvania", "node2": "persistent air pollution cloud", "relation": "killed"}
+{"node1": "London", "node2": "high levels of acid aerosols", "relation": "resulted in"}
+{"node1": "Clean Air Act", "node2": "mitigate air pollution", "relation": "funded"}
+{"node1": "Clean Air Act", "node2": "protect public health", "relation": "ensured"}
+{"node1": "Environmental Protection Agency", "node2": "implemented the law", "relation": "created"}
+{"node1": "EPA", "node2": "reduced outdoor concentrations", "relation": "sets national limits"}
+{"node1": "EPA", "node2": "regulates emissions", "relation": "has the authority"}
+{"node1": "state or tribe", "node2": "stricter air pollution laws", "relation": "cannot have weaker limits"}
+{"node1": "state", "node2": "develops a State Implementation Plan", "relation": "details how it will control"}
+{"node1": "state", "node2": "carries out the Clean Air Act", "relation": "plays a crucial role"}
+{"node1": "Clean Air Act", "node2": "effectively reduced pollution levels", "relation": "despite increases"}
+{"node1": "Clean Air Act", "node2": "achievements", "relation": "include"}
+{"node1": "six common pollutants", "node2": "emissions", "relation": "decreased"}
+{"node1": "population", "node2": "growth", "relation": "despite"}
+{"node1": "energy consumption", "node2": "growth", "relation": "despite"}
+{"node1": "vehicle miles traveled", "node2": "growth", "relation": "despite"}
+{"node1": "gross domestic product", "node2": "growth", "relation": "despite"}
+{"node1": "governments", "node2": "progress", "relation": "played"}
+{"node1": "EPA", "node2": "progress", "relation": "played"}
+{"node1": "private sector companies", "node2": "progress", "relation": "played"}
+{"node1": "environmental groups", "node2": "progress", "relation": "played"}
+{"node1": "air quality", "node2": "improvements", "relation": "allowed"}
+{"node1": "carbon", "node2": "element", "relation": "is"}
+{"node1": "oceans", "node2": "largest carbon reservoir", "relation": "are"}
+{"node1": "lithosphere", "node2": "largest carbon reservoir", "relation": "are"}
+{"node1": "reservoirs", "node2": "hold", "relation": "more"}
+{"node1": "fossil fuels", "node2": "release", "relation": "large amounts"}
+{"node1": "carbon dioxide", "node2": "released", "relation": "from"}
+{"node1": "atmosphere", "node2": "receives", "relation": "large amounts"}
+{"node1": "biomass", "node2": "smaller carbon reservoir", "relation": "stores"}
+{"node1": "photosynthesis", "node2": "derived", "relation": "carbon"}
+{"node1": "vegetation", "node2": "absorbs", "relation": "carbon dioxide"}
+{"node1": "oxygen", "node2": "releases", "relation": "during"}
+{"node1": "human activities", "node2": "disrupt", "relation": "the natural carbon cycle"}
+{"node1": "greenhouse gas concentrations", "node2": "increased", "relation": "contribute"}
+{"node1": "air pollution", "node2": "reduction", "relation": "significant"}
+{"node1": "governments", "node2": "local", "relation": "contributing to emissions reductions"}
+{"node1": "Environmental Protection Agency", "node2": "private sector companies", "relation": "contributing to emissions reductions"}
+{"node1": "population", "node2": "energy consumption", "relation": "increases while emissions decreased"}
+{"node1": "air quality", "node2": "improvement", "relation": "resulting from emissions reductions"}
+{"node1": "carbon cycle", "node2": "concept", "relation": null}
+{"node1": "oceans", "node2": "lithosphere", "relation": "largest carbon reservoirs"}
+{"node1": "reservoirs", "node2": "fluxes", "relation": "components of the carbon cycle"}
+{"node1": "atmosphere", "node2": "respiration", "relation": "releases carbon"}
+{"node1": "fossil fuels", "node2": "long residence time", "relation": "contrast"}
+{"node1": "photosynthesis", "node2": "carbon dioxide", "relation": "converts"}
+{"node1": "photosynthesis", "node2": "water", "relation": "uses"}
+{"node1": "photosynthesis", "node2": "glucose", "relation": "produces"}
+{"node1": "photosynthesis", "node2": "oxygen", "relation": "produces"}
+{"node1": "chloroplast", "node2": "photosynthesis", "relation": "involved in"}
+{"node1": "chlorophyll", "node2": "light absorption", "relation": "enables"}
+{"node1": "123", "node2": "gigatonnes", "relation": "removed annually through"}
+{"node1": "123", "node2": "carbon", "relation": "removal"}
+{"node1": "heterotrophs", "node2": "organic matter", "relation": "consumes"}
+{"node1": "cellular respiration", "node2": "carbon dioxide", "relation": "releases during"}
+{"node1": "decomposition", "node2": "organic matter", "relation": "releases"}
+{"node1": "combustion", "node2": "energy", "relation": "converts into"}
+{"node1": "combustion", "node2": "carbon dioxide", "relation": "releases into"}
+{"node1": "phytoplankton", "node2": "ocean", "relation": "enters via"}
+{"node1": "ocean", "node2": "anthropogenic carbon dioxide", "relation": "absorbs approximately"}
+{"node1": "ocean", "node2": "carbon sink", "relation": "acts as a significant"}
+{"node1": "photosynthesis", "node2": "biological process", "relation": "is"}
+{"node1": "higher plants", "node2": "organisms", "relation": "perform"}
+{"node1": "algae", "node2": "organisms", "relation": "perform"}
+{"node1": "cyanobacteria", "node2": "organisms", "relation": "perform"}
+{"node1": "chloroplasts", "node2": "organelles", "relation": "contain"}
+{"node1": "chlorophyll", "node2": "pigment", "relation": "required for"}
+{"node1": "carbon dioxide", "node2": "source", "relation": "utilized by"}
+{"node1": "water", "node2": "source", "relation": "utilized by"}
+{"node1": "glucose", "node2": "product", "relation": "generated by"}
+{"node1": "oxygen", "node2": "byproduct", "relation": "produced by"}
+{"node1": "heterotrophs", "node2": "consumers", "relation": "consume"}
+{"node1": "cellular respiration", "node2": "metabolic pathway", "relation": "involves"}
+{"node1": "energy", "node2": "output", "relation": "produced by"}
+{"node1": "carbon dioxide", "node2": "output", "relation": "released during"}
+{"node1": "combustion", "node2": "thermochemical process", "relation": "transforms"}
+{"node1": "potential energy", "node2": "stored energy", "relation": "converts into"}
+{"node1": "heat energy", "node2": "output", "relation": "produced by"}
+{"node1": "phytoplankton", "node2": "autotrophic organisms", "relation": "perform"}
+{"node1": "ocean-atmosphere exchange", "node2": "flux", "relation": "supplies"}
+{"node1": "dissolved carbon dioxide", "node2": "component", "relation": "of"}
+{"node1": "equilibrium", "node2": "balance", "relation": "exists between"}
+{"node1": "anthropogenic carbon dioxide emissions", "node2": "major carbon flux", "relation": "absorbed by"}
+{"node1": "ocean", "node2": "carbon sink", "relation": "serves as"}
+{"node1": "carbon cycle", "node2": "Earth's reservoirs", "relation": "exchange"}
+{"node1": "CO2", "node2": "ocean", "relation": "absorption"}
+{"node1": "CO2", "node2": "atmosphere", "relation": "emission"}
+{"node1": "anthropogenic activities", "node2": "carbon cycle equilibrium", "relation": "disrupted"}
+{"node1": "fossil fuels", "node2": "primary energy sources", "relation": "became"}
+{"node1": "combustion of fossil fuels", "node2": "large amounts of CO2", "relation": "releases"}
+{"node1": "land use change", "node2": "carbon cycle", "relation": "impacts"}
+{"node1": "deforestation", "node2": "tree population", "relation": "reduces"}
+{"node1": "agriculture", "node2": "vegetative biomass", "relation": "clears"}
+{"node1": "anthropogenic activities", "node2": "atmospheric CO2 concentrations", "relation": "significantly increased"}
+{"node1": "carbon cycle", "node2": "atmosphere", "relation": "includes"}
+{"node1": "carbon cycle", "node2": "oceans", "relation": "includes"}
+{"node1": "carbon cycle", "node2": "biosphere", "relation": "includes"}
+{"node1": "CO2", "node2": "atmosphere", "relation": "exchanges with"}
+{"node1": "CO2", "node2": "oceans", "relation": "exchanges with"}
+{"node1": "human activities", "node2": "carbon cycle", "relation": "disrupts"}
+{"node1": "fossil fuels", "node2": "coal-fueled steam power", "relation": "includes"}
+{"node1": "fossil fuels", "node2": "oil discoveries", "relation": "includes"}
+{"node1": "fossil fuels", "node2": "burning", "relation": "leads to increased levels of"}
+{"node1": "deforestation", "node2": "trees", "relation": "results in reduced amounts of"}
+{"node1": "land-use changes", "node2": "deforestation", "relation": "includes"}
+{"node1": "land-use changes", "node2": "agriculture", "relation": "includes"}
+{"node1": "photosynthetic activity", "node2": "vegetative biomass", "relation": "controls"}
+{"node1": "air", "node2": "open fields", "relation": "deeply penetrates and releases stored amounts of"}
+{"node1": "biomass burning", "node2": "global carbon cycle", "relation": "significantly impacts"}
+{"node1": "slash-and-burn agriculture", "node2": "aerobic respiration", "relation": "increases"}
+{"node1": "soil microbes", "node2": "reduces", "relation": "soil carbon"}
+{"node1": "biomass burning", "node2": "CO2", "relation": "releases"}
+{"node1": "fossil fuels", "node2": "coal", "relation": "are"}
+{"node1": "fossil fuels", "node2": "natural gas", "relation": "are"}
+{"node1": "fossil fuels", "node2": "crude oil", "relation": "are"}
+{"node1": "combustion", "node2": "carbon", "relation": "releases"}
+{"node1": "use and distribution", "node2": "fossil fuels", "relation": "have undergone"}
+{"node1": "population growth", "node2": "regions contributing most", "relation": "influences"}
+{"node1": "industrialization", "node2": "traditional agricultural practices", "relation": "leads to a decline"}
+{"node1": "industrialized agriculture", "node2": "motorized machinery", "relation": "is characterized by"}
+{"node1": "industrialized agriculture", "node2": "chemicals", "relation": "is characterized by"}
+{"node1": "industrialized agriculture", "node2": "intensive production methods", "relation": "is characterized by"}
+{"node1": "industrialized agriculture", "node2": "methane", "relation": "produces"}
+{"node1": "enteric fermentation", "node2": "ruminant animals", "relation": "occurs in"}
+{"node1": "anaerobic bacteria", "node2": "gut", "relation": "of ruminant animals"}
+{"node1": "anaerobic metabolism", "node2": "methane", "relation": "is"}
+{"node1": "human activities", "node2": "primary contributors to carbon emissions", "relation": "are"}
+{"node1": "biomass burning", "node2": "carbon cycle", "relation": "plays a significant role in"}
+{"node1": "slash-and-burn agriculture", "node2": "biomass burning", "relation": "primarily drives"}
+{"node1": "soil microbes", "node2": "aerobic respiration", "relation": "facilitates"}
+{"node1": "soil carbon", "node2": "reduced", "relation": "results in"}
+{"node1": "potential erosion", "node2": "soil degradation", "relation": "leads to"}
+{"node1": "CO2", "node2": "atmosphere", "relation": "released into"}
+{"node1": "fossil fuels", "node2": "combustion", "relation": "releases carbon"}
+{"node1": "coal", "node2": "fossil fuels", "relation": "includes"}
+{"node1": "natural gas", "node2": "fossil fuels", "relation": "includes"}
+{"node1": "crude oil", "node2": "fossil fuels", "relation": "includes"}
+{"node1": "population growth", "node2": "changes", "relation": "major factor influencing"}
+{"node1": "traditional agricultural practices", "node2": "slash-and-burn agriculture", "relation": "alternative to"}
+{"node1": "motorized machinery", "node2": "industrialized agriculture", "relation": "employs"}
+{"node1": "chemicals", "node2": "industrialized agriculture", "relation": "employs"}
+{"node1": "efficient monoculture production", "node2": "industrialized agriculture", "relation": "characterized by"}
+{"node1": "ruminant animals", "node2": "enteric fermentation", "relation": "undergoes"}
+{"node1": "cellulose", "node2": "complex plant materials", "relation": "like"}
+{"node1": "methane", "node2": "greenhouse gas", "relation": "produced during"}
+{"node1": "anaerobic bacteria", "node2": "methane", "relation": "reside in"}
+{"node1": "gut tracts", "node2": "ruminant animals", "relation": "located in"}
+{"node1": "Methanogenic bacteria", "node2": "Methane", "relation": "Produce"}
+{"node1": "Livestock waste", "node2": "Methane release", "relation": "During"}
+{"node1": "Manure handling", "node2": "Methane release", "relation": "During"}
+{"node1": "US livestock inventory", "node2": "Substantial methane emissions", "relation": "Contribute"}
+{"node1": "Cattle", "node2": "Negligible methane emissions", "relation": "Emit"}
+{"node1": "Sheep", "node2": "Negligible methane emissions", "relation": "Emit"}
+{"node1": "Beef consumption", "node2": "Significant methane emissions", "relation": "Lead"}
+{"node1": "Enteric fermentation", "node2": "Methane emissions", "relation": "From"}
+{"node1": "Manure management", "node2": "Methane emissions", "relation": "From"}
+{"node1": "Plant biomass", "node2": "Carbon release", "relation": "Once stored"}
+{"node1": "Fossil fuels", "node2": "Greenhouse gas emissions", "relation": "Significantly contribute"}
+{"node1": "Transportation", "node2": "Fossil fuel usage", "relation": "In agriculture"}
+{"node1": "Equipment usage", "node2": "Fossil fuel usage", "relation": "In agriculture"}
+{"node1": "Product distribution", "node2": "Fossil fuel usage", "relation": "In agriculture"}
+{"node1": "Greenhouse gases", "node2": "Global climate change", "relation": "Contribute"}
+{"node1": "Methane", "node2": "Greenhouse gases", "relation": "Include"}
+{"node1": "Carbon dioxide", "node2": "Greenhouse gases", "relation": "Include"}
+{"node1": "Nitrous oxide", "node2": "Greenhouse gases", "relation": "Include"}
+{"node1": "Water vapor", "node2": "Greenhouse gases", "relation": "Include"}
+{"node1": "Natural greenhouse effect", "node2": "Greenhouse gases", "relation": "Maintain"}
+{"node1": "Human activities", "node2": "Increased greenhouse gas concentrations", "relation": "Lead"}
+{"node1": "Agriculture", "node2": "Increased greenhouse gas concentrations", "relation": "Due to"}
+{"node1": "Fossil fuel burning", "node2": "Increased greenhouse gas concentrations", "relation": "Due to"}
+{"node1": "More industrialized countries", "node2": "Methane emissions from animal agriculture", "relation": "Make significant contributions"}
+{"node1": "methane", "node2": "greenhouse gas", "relation": "is"}
+{"node1": "livestock waste", "node2": "source of methane", "relation": "produces"}
+{"node1": "bacteria", "node2": "producer of methane", "relation": "are"}
+{"node1": "enteric fermentation", "node2": "source of methane", "relation": "is"}
+{"node1": "manure management", "node2": "source of methane", "relation": "is"}
+{"node1": "fossil fuels", "node2": "contributor to greenhouse gas emissions", "relation": "are"}
+{"node1": "transportation", "node2": "use of fossil fuels", "relation": "involves"}
+{"node1": "farming equipment", "node2": "use of fossil fuels", "relation": "requires"}
+{"node1": "distribution", "node2": "use of fossil fuels", "relation": "involves"}
+{"node1": "inputs", "node2": "requirement for fossil fuel use", "relation": "include"}
+{"node1": "Milankovitch cycles", "node2": "components", "relation": "consist of"}
+{"node1": "eccentricity", "node2": "orbital shape", "relation": "refers to"}
+{"node1": "obliquity", "node2": "axial tilt", "relation": "describes"}
+{"node1": "precession", "node2": "axis wobble", "relation": "represents"}
+{"node1": "cycle interaction", "node2": "cycles", "relation": "influences"}
+{"node1": "ice ages", "node2": "onset and duration", "relation": "contribute to"}
+{"node1": "climate patterns", "node2": "impact", "relation": "affecting"}
+{"node1": "temperature distributions", "node2": "alterations", "relation": "leading to"}
+{"node1": "precipitation patterns", "node2": "alterations", "relation": "leading to"}
+{"node1": "climate change", "node2": "occurrence", "relation": "is"}
+{"node1": "Milankovitch cycles", "node2": "exclusion", "relation": "from"}
+{"node1": "human activities", "node2": "primary causation", "relation": "of"}
+{"node1": "greenhouse gases", "node2": "critical role", "relation": "in"}
+{"node1": "carbon dioxide", "node2": "most abundant", "relation": "greenhouse gas"}
+{"node1": "combustion processes", "node2": "primary source", "relation": "for"}
+{"node1": "cellular respiration", "node2": "primary source", "relation": "for"}
+{"node1": "human activities", "node2": "significant increase", "relation": "in"}
+{"node1": "methane", "node2": "additional significant greenhouse gas", "relation": "is"}
+{"node1": "anaerobic processes", "node2": "predominant source", "relation": "for"}
+{"node1": "agriculture", "node2": "major contributor", "relation": "to"}
+{"node1": "natural gas extraction", "node2": "major contributor", "relation": "to"}
+{"node1": "nitrous oxide", "node2": "additional significant greenhouse gas", "relation": "is"}
+{"node1": "agricultural practices", "node2": "major source", "relation": "for"}
+{"node1": "industrial processes", "node2": "major source", "relation": "for"}
+{"node1": "synthetic fluorinated gases", "node2": "entirely human-made", "relation": "are"}
+{"node1": "HFCs", "node2": "synthetic fluorinated gases", "relation": "include"}
+{"node1": "PFCs", "node2": "synthetic fluorinated gases", "relation": "include"}
+{"node1": "SF6", "node2": "synthetic fluorinated gases", "relation": "include"}
+{"node1": "long atmospheric lifetimes", "node2": "these gases have", "relation": "HFCs, PFCs, and SF6"}
+{"node1": "significantly contributed", "node2": "to climate change since the industrial revolution", "relation": "HFCs, PFCs, and SF6"}
+{"node1": "historical records", "node2": "show a dramatic increase in greenhouse gas levels", "relation": "since"}
+{"node1": "further temperature rises", "node2": "this trend is expected to lead to", "relation": "greenhouse gas levels"}
+{"node1": "anthropogenic climate change", "node2": "climate change", "relation": "is caused by"}
+{"node1": "human activities", "node2": "primary driver", "relation": "are"}
+{"node1": "carbon dioxide", "node2": "greenhouse gas", "relation": "is"}
+{"node1": "combustion processes", "node2": "carbon dioxide", "relation": "produce"}
+{"node1": "cellular respiration", "node2": "carbon dioxide", "relation": "produce"}
+{"node1": "human activities", "node2": "significantly increase carbon dioxide emissions", "relation": "have"}
+{"node1": "methane", "node2": "greenhouse gas", "relation": "is"}
+{"node1": "anaerobic processes", "node2": "methane", "relation": "produce"}
+{"node1": "agriculture", "node2": "methane", "relation": "produce"}
+{"node1": "natural gas extraction", "node2": "methane", "relation": "produce"}
+{"node1": "nitrous oxide", "node2": "greenhouse gas", "relation": "is"}
+{"node1": "agricultural practices", "node2": "nitrous oxide", "relation": "generate"}
+{"node1": "industrial processes", "node2": "nitrous oxide", "relation": "generate"}
+{"node1": "synthetic fluorinated gases", "node2": "greenhouse gas", "relation": "include"}
+{"node1": "hydrofluorocarbons", "node2": "synthetic fluorinated gases", "relation": "are"}
+{"node1": "perfluorocarbons", "node2": "synthetic fluorinated gases", "relation": "are"}
+{"node1": "sulfur hexafluoride", "node2": "synthetic fluorinated gases", "relation": "are"}
+{"node1": "historical records", "node2": "greenhouse gas concentrations", "relation": "compare"}
+{"node1": "current atmospheric concentrations", "node2": "greenhouse gas concentrations", "relation": "compare"}
+{"node1": "dramatically", "node2": "greenhouse gas concentrations", "relation": "have risen"}
+{"node1": "global temperatures", "node2": "greenhouse gas concentrations", "relation": "are expected to lead to"}
+{"node1": "greenhouse gases", "node2": "carbon dioxide", "relation": "includes"}
+{"node1": "greenhouse gases", "node2": "methane", "relation": "includes"}
+{"node1": "greenhouse gases", "node2": "nitrous oxide", "relation": "includes"}
+{"node1": "greenhouse gases", "node2": "hydrofluorocarbons", "relation": "includes"}
+{"node1": "greenhouse gases", "node2": "perfluorocarbons", "relation": "includes"}
+{"node1": "greenhouse gases", "node2": "sulfur hexafluoride", "relation": "includes"}
+{"node1": "global warming potential", "node2": "carbon dioxide", "relation": "applies to"}
+{"node1": "synthetic fluorinated gases", "node2": "global warming potential", "relation": "has"}
+{"node1": "human activities", "node2": "release of greenhouse gases", "relation": "contributes to"}
+{"node1": "near-surface ozone", "node2": "decrease in albedo", "relation": "leads to"}
+{"node1": "aerosols", "node2": "decrease in albedo", "relation": "leads to"}
+{"node1": "light-colored surfaces", "node2": "albedo", "relation": "reflects"}
+{"node1": "darker-colored materials", "node2": "albedo", "relation": "absorbs"}
+{"node1": "human activities", "node2": "decrease in albedo", "relation": "causes"}
+{"node1": "greenhouse gases", "node2": "environmental consequences", "relation": "contribute"}
+{"node1": "hydrofluorocarbons", "node2": "greenhouse gases", "relation": "are"}
+{"node1": "global warming potential", "node2": "quantify", "relation": "environmental impact of"}
+{"node1": "carbon dioxide", "node2": "greenhouse gases", "relation": "are"}
+{"node1": "methane", "node2": "greenhouse gases", "relation": "are"}
+{"node1": "nitrous oxide", "node2": "greenhouse gases", "relation": "are"}
+{"node1": "lifetime", "node2": "atmosphere", "relation": "has"}
+{"node1": "hydrofluorocarbons", "node2": "lifetime", "relation": "has"}
+{"node1": "perfluorocarbons", "node2": "lifetime", "relation": "has"}
+{"node1": "sulfur hexafluoride", "node2": "lifetime", "relation": "has"}
+{"node1": "ozone", "node2": "increases", "relation": "from"}
+{"node1": "aerosols", "node2": "decrease", "relation": "albedo of"}
+{"node1": "light-colored surfaces", "node2": "decrease", "relation": "albedo of"}
+{"node1": "darker-colored materials", "node2": "have", "relation": "lower albedos"}
+{"node1": "carbon black", "node2": "darker-colored materials", "relation": "are"}
+{"node1": "soot", "node2": "darker-colored materials", "relation": "are"}
+{"node1": "dust", "node2": "darker-colored materials", "relation": "are"}
+{"node1": "particulate matter", "node2": "darker-colored materials", "relation": "are"}
+{"node1": "Figure", "node2": "depicts", "relation": ""}
+{"node1": "Colorado Rockies snowpack", "node2": "extreme dust deposition from desert areas", "relation": ""}
+{"node1": "2009", "node2": "extreme dust deposition from desert areas", "relation": ""}
+{"node1": "scientists", "node2": "models", "relation": "create"}
+{"node1": "models", "node2": "climate conditions", "relation": "replicate"}
+{"node1": "models", "node2": "observational data", "relation": "compare"}
+{"node1": "calibration process", "node2": "accurate reproduction", "relation": "increases confidence"}
+{"node1": "global temperature change", "node2": "greenhouse gas emissions", "relation": "influenced by"}
+{"node1": "climate change impacts", "node2": "global warming", "relation": "includes"}
+{"node1": "warming temperatures", "node2": "evaporation", "relation": "leads to increased"}
+{"node1": "sea level rise", "node2": "climate change", "relation": "consequence"}
+{"node1": "ocean acidification", "node2": "climate change", "relation": "consequence"}
+{"node1": "altered ice and snow cover", "node2": "climate change", "relation": "consequence"}
+{"node1": "ecosystem shifts", "node2": "climate change", "relation": "consequence"}
+{"node1": "habitat modifications", "node2": "climate change", "relation": "consequence"}
+{"node1": "human societies", "node2": "far-reaching implications", "relation": "may be affected by"}
+{"node1": "natural environments", "node2": "far-reaching implications", "relation": "may be affected by"}
+{"node1": "scientists", "node2": "modeling", "relation": "engage in"}
+{"node1": "models", "node2": "simulations", "relation": "generate"}
+{"node1": "simulations", "node2": "historical conditions", "relation": "replicate"}
+{"node1": "simulations", "node2": "future conditions", "relation": "forecast"}
+{"node1": "simulations", "node2": "observational data", "relation": "match"}
+{"node1": "calibration", "node2": "validation", "relation": "ensure"}
+{"node1": "greenhouse gases", "node2": "1900", "relation": "emit from"}
+{"node1": "greenhouse gases", "node2": "2000", "relation": "emit to"}
+{"node1": "global temperature change", "node2": "natural factors", "relation": "contribute to"}
+{"node1": "global temperature change", "node2": "anthropogenic factors", "relation": "contribute to"}
+{"node1": "precipitation patterns", "node2": "warming", "relation": "influence"}
+{"node1": "sea level", "node2": "climate change", "relation": "rise due to"}
+{"node1": "ocean acidification", "node2": "climate change", "relation": "result from"}
+{"node1": "ice and snow cover", "node2": "climate change", "relation": "alter"}
+{"node1": "ecosystems", "node2": "climate change", "relation": "shift"}
+{"node1": "habitat", "node2": "species", "relation": "accommodate"}
+{"node1": "consequences", "node2": "climate change", "relation": "encompass"}
+{"node1": "EPA website", "node2": "additional information", "relation": "provide"}
+{"node1": "summer humidity", "node2": "influenced by", "relation": "influenced by"}
+{"node1": "warmer air", "node2": "has", "relation": "has"}
+{"node1": "water vapor", "node2": "is", "relation": "is"}
+{"node1": "cooler air", "node2": "has", "relation": "has"}
+{"node1": "air", "node2": "affects", "relation": "affects"}
+{"node1": "earth's average atmospheric temperature", "node2": "rises", "relation": "rises"}
+{"node1": "precipitation patterns", "node2": "are influenced by", "relation": "are influenced by"}
+{"node1": "atmospheric water vapor content", "node2": "determines", "relation": "determines"}
+{"node1": "wind patterns", "node2": "influence", "relation": "influence"}
+{"node1": "urban areas", "node2": "experience", "relation": "experience"}
+{"node1": "cities", "node2": "face", "relation": "face"}
+{"node1": "soil moisture levels", "node2": "are affected by", "relation": "are affected by"}
+{"node1": "river flows", "node2": "are affected by", "relation": "are affected by"}
+{"node1": "overall water accessibility", "node2": "is affected by", "relation": "is affected by"}
+{"node1": "extreme weather events", "node2": "become more frequent", "relation": "become more frequent"}
+{"node1": "extreme weather events", "node2": "become more intense", "relation": "become more intense"}
+{"node1": "water resource management", "node2": "becomes", "relation": "becomes"}
+{"node1": "relative humidity", "node2": "air", "relation": "is primarily determined by"}
+{"node1": "water vapor", "node2": "moisture", "relation": "can hold"}
+{"node1": "air", "node2": "hygroscopicity", "relation": "decreases with cooling"}
+{"node1": "evaporation", "node2": "temperature", "relation": "speeds up"}
+{"node1": "water vapor concentration", "node2": "atmosphere", "relation": "increases with warming"}
+{"node1": "earth's average surface temperature", "node2": "has risen", "relation": "by about 0.6\u00b0C since the late 19th century"}
+{"node1": "precipitation patterns", "node2": "are influenced by", "relation": ""}
+{"node1": "new york city", "node2": "is projected to receive more", "relation": ""}
+{"node1": "delhi", "node2": "may experience severe droughts", "relation": ""}
+{"node1": "soil moisture", "node2": "river flow", "relation": "may decrease due to"}
+{"node1": "extreme weather events", "node2": "frequency", "relation": "is expected to increase"}
+{"node1": "sea_level_rise", "node2": "global_climate_change", "relation": "is a consequence of"}
+{"node1": "thermal_expansion", "node2": "sea_level_rise", "relation": "results from"}
+{"node1": "melting_land_ice", "node2": "sea_level_rise", "relation": "results from"}
+{"node1": "glaciers", "node2": "melting_land_ice", "relation": "are a primary contributor to"}
+{"node1": "arctic_sea_ice", "node2": "melting_land_ice", "relation": "does not significantly contribute to upon melting"}
+{"node1": "ocean_acidification", "node2": "carbon_dioxide", "relation": "forms from"}
+{"node1": "calcium_carbonate", "node2": "many_marine_organisms", "relation": "rely on to build structures"}
+{"node1": "increased_acidity", "node2": "ocean_acidification", "relation": "inhibits the formation of necessary calcium carbonate ions"}
+{"node1": "ecological_consequences", "node2": "sea_level_rise", "relation": "has ecological consequences"}
+{"node1": "mitigation_efforts", "node2": "some_areas", "relation": "are investing in"}
+{"node1": "greater_risks", "node2": "other_areas", "relation": "face"}
+{"node1": "sea level rise", "node2": "global climate change", "relation": "significant consequence"}
+{"node1": "water", "node2": "distribution", "relation": "shifting"}
+{"node1": "ocean", "node2": "expansion", "relation": "due to"}
+{"node1": "land ice", "node2": "melting", "relation": "contributes to"}
+{"node1": "glaciers", "node2": "land ice", "relation": ""}
+{"node1": "Arctic sea ice", "node2": "sea ice", "relation": "does not contribute significantly to sea level rise when it melts"}
+{"node1": "sea level", "node2": "rise", "relation": "is evident in"}
+{"node1": "world's oceans", "node2": "sea level", "relation": "since 1880"}
+{"node1": "United States", "node2": "ecological consequences of sea level rise", "relation": ""}
+{"node1": "less developed infrastructure", "node2": "ecological consequences of sea level rise", "relation": ""}
+{"node1": "carbon dioxide", "node2": "atmosphere", "relation": "dissolves in"}
+{"node1": "seawater", "node2": "carbon dioxide", "relation": "forming carbonic acid"}
+{"node1": "pH level", "node2": "seawater", "relation": "reduces"}
+{"node1": "shell-building animals", "node2": "marine organisms", "relation": ""}
+{"node1": "hard coating", "node2": "marine organisms", "relation": ""}
+{"node1": "calcium carbonate", "node2": "shell-building animals", "relation": "and those that form a hard coating rely on"}
+{"node1": "dissolved CO2", "node2": "calcium carbonate", "relation": "through a chemical reaction"}
+{"node1": "bicarbonate", "node2": "CO2", "relation": "forms"}
+{"node1": "hydrogen ions", "node2": "bicarbonate", "relation": "reacts to form"}
+{"node1": "carbonate ions", "node2": "hydrogen ions", "relation": "and"}
+{"node1": "CO2", "node2": "inhibits the formation of", "relation": ""}
+{"node1": "ions", "node2": "CO2", "relation": "impairs the ability of these organisms to grow and thrive"}
+{"node1": "atmospheric CO2", "node2": "increase", "relation": "leads to"}
+{"node1": "CO2", "node2": "seawater", "relation": "causes a rise in"}
+{"node1": "H+", "node2": "increase", "relation": "results in"}
+{"node1": "H+", "node2": "decreased pH", "relation": "making the water more"}
+{"node1": "calcium", "node2": "carbonate ions", "relation": "requirement"}
+{"node1": "ocean acidification", "node2": "aragonite deficiency", "relation": "leads to"}
+{"node1": "calcifying organisms", "node2": "habitat shifts and losses", "relation": "poses significant threats to"}
+{"node1": "marine ecosystems", "node2": "entire ecosystems", "relation": "affecting"}
+{"node1": "corals", "node2": "vibrant coral reef ecosystems", "relation": "form the basis of"}
+{"node1": "ocean acidification", "node2": "destruction of coral reef ecosystems", "relation": "increases the risk of"}
+{"node1": "water management policies", "node2": "adaptation strategies", "relation": "include"}
+{"node1": "desalination technologies", "node2": "adaptation strategies", "relation": "include"}
+{"node1": "seawalls", "node2": "adaptation strategies", "relation": "include"}
+{"node1": "wetlands", "node2": "adaptation strategies", "relation": "include"}
+{"node1": "populations", "node2": "adaptation strategies", "relation": "include"}
+{"node1": "greenhouse gas emissions", "node2": "climate change mitigation", "relation": "involves"}
+{"node1": "prevention of additional emissions", "node2": "climate change mitigation", "relation": "involves"}
+{"node1": "institutionalized regulations", "node2": "climate change mitigation", "relation": "involves"}
+{"node1": "technological innovations", "node2": "climate change mitigation", "relation": "involves"}
+{"node1": "carbon capture and sequestration", "node2": "technological innovations", "relation": "such as"}
+{"node1": "atmospheric CO2", "node2": "higher levels", "relation": "leads"}
+{"node1": "chemical reactions", "node2": "illustrate", "relation": "leading to"}
+{"node1": "pH", "node2": "decrease", "relation": "due to"}
+{"node1": "seawater", "node2": "acidification", "relation": "resulting in"}
+{"node1": "acidic conditions", "node2": "inhibit", "relation": "the absorption of"}
+{"node1": "calcium and carbonate ions", "node2": "requirement for shell-building organisms", "relation": "like corals"}
+{"node1": "aragonite deficiency", "node2": "observed in many oceans", "relation": "as shown in"}
+{"node1": "ocean acidification", "node2": "poses significant threats", "relation": "to marine ecosystems"}
+{"node1": "marine life", "node2": "impact", "relation": "further"}
+{"node1": "water", "node2": "life", "relation": "is_essential_for"}
+{"node1": "water", "node2": "essentiality", "relation": "has"}
+{"node1": "water", "node2": "percentage_in_human_body", "relation": "makes_up"}
+{"node1": "water", "node2": "metaphorical_significance", "relation": "is_referred_to"}
+{"node1": "water", "node2": "blue_gold", "relation": "as"}
+{"node1": "water", "node2": "more_precious_than_oil", "relation": "as"}
+{"node1": "water", "node2": "heat_capacity", "relation": "has_unique_property"}
+{"node1": "water", "node2": "heat_of_vaporization", "relation": "has_unique_property"}
+{"node1": "water", "node2": "polar_molecule_solubility", "relation": "has_unique_property"}
+{"node1": "water", "node2": "cohesion", "relation": "has_unique_property"}
+{"node1": "water", "node2": "adhesion", "relation": "has_unique_property"}
+{"node1": "water", "node2": "pH_generation", "relation": "leads_to"}
+{"node1": "water_molecule", "node2": "oxygen", "relation": "consists_of"}
+{"node1": "water_molecule", "node2": "hydrogen", "relation": "consists_of"}
+{"node1": "water_molecule", "node2": "polarity", "relation": "results_from"}
+{"node1": "water_molecule", "node2": "hydrogen_bonding", "relation": "contributes_to"}
+{"node1": "water_molecule", "node2": "surface_tension", "relation": "results_from"}
+{"node1": "water_molecule", "node2": "specific_heat_capacity", "relation": "results_from"}
+{"node1": "water_molecule", "node2": "thermal_conductivity", "relation": "results_from"}
+{"node1": "water", "node2": "life", "relation": "indispensable role"}
+{"node1": "water", "node2": "precious resource", "relation": "referred to as"}
+{"node1": "water", "node2": "vital resource", "relation": "constitutes"}
+{"node1": "water", "node2": "polar molecules", "relation": "dissolves"}
+{"node1": "water", "node2": "cohesive properties", "relation": "has"}
+{"node1": "water", "node2": "adhesive properties", "relation": "has"}
+{"node1": "water", "node2": "ionic dissociation", "relation": "leads to"}
+{"node1": "water", "node2": "ph generation", "relation": "results in"}
+{"node1": "water", "node2": "hydrogen bonds", "relation": "forms via"}
+{"node1": "water", "node2": "surface tension", "relation": "contributes to"}
+{"node1": "water", "node2": "specific heat capacity", "relation": "has"}
+{"node1": "water", "node2": "thermal conductivity", "relation": "has"}
+{"node1": "water molecule", "node2": "oxygen atom", "relation": "consists of"}
+{"node1": "water molecule", "node2": "hydrogen atoms", "relation": "consists of"}
+{"node1": "water molecule", "node2": "polar covalent bonds", "relation": "involves"}
+{"node1": "water molecule", "node2": "slight positive charge", "relation": "results in"}
+{"node1": "water molecule", "node2": "slight negative charge", "relation": "results in"}
+{"node1": "water molecule", "node2": "hydrogen bonding", "relation": "plays a crucial role in"}
+{"node1": "water", "node2": "hydrogen bonding", "relation": "exhibits unique behaviors due to"}
+{"node1": "hydrogen bonding", "node2": "liquid water", "relation": "results in"}
+{"node1": "hydrogen bonding", "node2": "solid (ice)", "relation": "results in"}
+{"node1": "hydrogen bonding", "node2": "gas (water vapor)", "relation": "results in"}
+{"node1": "heating", "node2": "hydrogen bonds", "relation": "weakens"}
+{"node1": "cooling", "node2": "hydrogen bonds", "relation": "strengthens"}
+{"node1": "ice", "node2": "less dense structure", "relation": "results in floating on liquid water"}
+{"node1": "water", "node2": "high heat capacity", "relation": "allows"}
+{"node1": "water", "node2": "thermal regulation", "relation": "acts as"}
+{"node1": "water", "node2": "heat sink", "relation": "retains heat and maintains stable temperatures"}
+{"node1": "unique properties of water", "node2": "life on Earth", "relation": "are essential for"}
+{"node1": "water", "node2": "substance", "relation": "is"}
+{"node1": "hydrogen bonds", "node2": "unique properties", "relation": "derive from"}
+{"node1": "liquid water", "node2": "constant formation and breaking of hydrogen bonds", "relation": "characterized by"}
+{"node1": "ice", "node2": "crystalline structure", "relation": "known as"}
+{"node1": "ice", "node2": "less dense structure", "relation": "results from"}
+{"node1": "water", "node2": "high heat capacity", "relation": "enables"}
+{"node1": "water", "node2": "large amount of energy", "relation": "required to alter the temperature"}
+{"node1": "water", "node2": "significant amounts of heat", "relation": "makes it an effective thermal regulator"}
+{"node1": "water", "node2": "high heat of vaporization", "relation": "requires substantial energy to transform liquid water into steam"}
+{"node1": "water", "node2": "ability to act as a heat sink", "relation": "retains heat and maintains stable temperatures"}
+{"node1": "water", "node2": "solvent", "relation": "is"}
+{"node1": "water", "node2": "life", "relation": "essential_for"}
+{"node1": "boiling point", "node2": "water", "relation": "denotes_transition"}
+{"node1": "heat energy", "node2": "hydrogen_bonds", "relation": "disrupts"}
+{"node1": "water_molecules", "node2": "escape", "relation": "allow"}
+{"node1": "evaporation", "node2": "begin", "relation": "prior_to"}
+{"node1": "polar_nature", "node2": "water", "relation": "facilitates"}
+{"node1": "ions", "node2": "dissolution", "relation": "permits"}
+{"node1": "polar_molecules", "node2": "dissolution", "relation": "permits"}
+{"node1": "hydration_shells", "node2": "dissolved_substances", "relation": "form"}
+{"node1": "cohesion", "node2": "water", "relation": "gives_rise_to"}
+{"node1": "surface_tension", "node2": "cohesion", "relation": "manifests_as"}
+{"node1": "spherical_shapes", "node2": "cohesion", "relation": "results_in"}
+{"node1": "adhesion", "node2": "water", "relation": "promotes"}
+{"node1": "capillary_action", "node2": "adhesion", "relation": "induces"}
+{"node1": "earth's_water", "node2": "oceans", "relation": "constitutes_majority_of"}
+{"node1": "limited_freshwater_resources", "node2": "earth's_water", "relation": "leaves"}
+{"node1": "freshwater_distribution", "node2": "conservation", "relation": "demands"}
+{"node1": "freshwater_distribution", "node2": "management", "relation": "requires"}
+{"node1": "water", "node2": "solvent", "relation": "is"}
+{"node1": "water", "node2": "unique properties", "relation": "has"}
+{"node1": "water", "node2": "boiling point", "relation": "has"}
+{"node1": "heat energy", "node2": "breaks", "relation": "causes"}
+{"node1": "hydrogen bonds", "node2": "allows", "relation": "enables"}
+{"node1": "water", "node2": "dissolves", "relation": "can"}
+{"node1": "ions", "node2": "dissolves", "relation": "can"}
+{"node1": "polar molecules", "node2": "dissolves", "relation": "can"}
+{"node1": "particles", "node2": "hydration shell", "relation": "creates"}
+{"node1": "cohesion", "node2": "maintains", "relation": "keeps"}
+{"node1": "surface tension", "node2": "results from", "relation": "stems from"}
+{"node1": "adhesion", "node2": "describes", "relation": "refers to"}
+{"node1": "capillary action", "node2": "manifestation of", "relation": "represents"}
+{"node1": "Earth's total water supply", "node2": "location", "relation": "is located in"}
+{"node1": "oceans", "node2": "unsuitability", "relation": "is not suitable for"}
+{"node1": "remaining freshwater resources", "node2": "management", "relation": "requires"}
+{"node1": "global water resources", "node2": "oceans", "relation": "constitutes"}
+{"node1": "fresh water", "node2": "global water resources", "relation": "subcategory"}
+{"node1": "groundwater", "node2": "fresh water", "relation": "subcategory"}
+{"node1": "surface water", "node2": "fresh water", "relation": "subcategory"}
+{"node1": "United States", "node2": "largest consumer of water", "relation": "identity"}
+{"node1": "thermoelectric power generation", "node2": "water usage", "relation": "utilizes"}
+{"node1": "irrigation", "node2": "water usage", "relation": "requires"}
+{"node1": "water cycle", "node2": "evaporation", "relation": "includes"}
+{"node1": "atmospheric water vapor", "node2": "evaporation", "relation": "derives from"}
+{"node1": "most atmospheric moisture", "node2": "evaporation", "relation": "originates from"}
+{"node1": "precipitation", "node2": "water cycle", "relation": "constitutes"}
+{"node1": "condensation", "node2": "precipitation", "relation": "produces"}
+{"node1": "cooler areas", "node2": "precipitation", "relation": "hosts"}
+{"node1": "transpiration", "node2": "water cycle", "relation": "participates in"}
+{"node1": "plant growth", "node2": "irrigation", "relation": "depends on"}
+{"node1": "moisture", "node2": "atmosphere", "relation": "contributes"}
+{"node1": "lakes", "node2": "surface water", "relation": "type of"}
+{"node1": "precipitation", "node2": "lakes", "relation": "supplies"}
+{"node1": "surface runoff", "node2": "lakes", "relation": "enters"}
+{"node1": "infiltration", "node2": "lake water", "relation": "transforms into"}
+{"node1": "aquifers", "node2": "groundwater", "relation": "refills"}
+{"node1": "Earth's surface water", "node2": "water", "relation": "contains"}
+{"node1": "Groundwater", "node2": "water", "relation": "contains"}
+{"node1": "Rivers", "node2": "water", "relation": "contains"}
+{"node1": "Lakes", "node2": "water", "relation": "contains"}
+{"node1": "Evaporation", "node2": "water", "relation": "converts"}
+{"node1": "Atmospheric water vapor", "node2": "water", "relation": "forms"}
+{"node1": "Clouds", "node2": "water", "relation": "holds"}
+{"node1": "Precipitation", "node2": "water", "relation": "releases"}
+{"node1": "Thermoelectric power generation", "node2": "water", "relation": "uses"}
+{"node1": "Irrigation", "node2": "water", "relation": "uses"}
+{"node1": "Oceans", "node2": "Earth's surface water", "relation": "contains"}
+{"node1": "artificial bodies of water", "node2": "migration", "relation": "hinders"}
+{"node1": "artificial bodies of water", "node2": "range", "relation": "limits"}
+{"node1": "artificial bodies of water", "node2": "adaptation abilities", "relation": "potentially limits"}
+{"node1": "lakes", "node2": "freshwater fishing industry", "relation": "support"}
+{"node1": "lakes", "node2": "tourism", "relation": "support"}
+{"node1": "lakes", "node2": "recreational activities", "relation": "support"}
+{"node1": "wetlands", "node2": "biological diversity", "relation": "have"}
+{"node1": "wetlands", "node2": "carbon sequestration", "relation": "have"}
+{"node1": "wetlands", "node2": "water filtration", "relation": "have"}
+{"node1": "oceans", "node2": "earth's water", "relation": "store"}
+{"node1": "oceans", "node2": "hydrologic cycle", "relation": "play a crucial role in"}
+{"node1": "oceans", "node2": "ecosystems", "relation": "host diverse"}
+{"node1": "human activities", "node2": "ocean health", "relation": "threaten"}
+{"node1": "groundwater", "node2": "accessible fresh water", "relation": "make up nearly all"}
+{"node1": "groundwater", "node2": "aquifers", "relation": "stored in"}
+{"node1": "precipitation", "node2": "groundwater", "relation": "infiltrates into the ground to replenish"}
+{"node1": "impoundments", "node2": "artificial bodies of water", "relation": "create"}
+{"node1": "dams", "node2": "impoundments", "relation": "are"}
+{"node1": "lakes", "node2": "reservoirs", "relation": "are"}
+{"node1": "low-lying areas", "node2": "lakes", "relation": "surrounded by"}
+{"node1": "higher land", "node2": "lakes", "relation": "are"}
+{"node1": "certain aquatic species", "node2": "impoundments", "relation": "hindrance of migration"}
+{"node1": "local communities", "node2": "dam construction", "relation": "result in displacement of"}
+{"node1": "cultural heritage", "node2": "dam construction", "relation": "loss of"}
+{"node1": "Canada", "node2": "approximately 300 million water bodies", "relation": "most occur in"}
+{"node1": "United States", "node2": "over 70%", "relation": "provides for various uses"}
+{"node1": "wetlands", "node2": "significant areas of biological diversity and productivity", "relation": "characterized by"}
+{"node1": "prolonged water exposure", "node2": "vegetation", "relation": "adapted to"}
+{"node1": "stormwater runoff", "node2": "wetlands", "relation": "function as filters for"}
+{"node1": "carbon sinks", "node2": "wetlands", "relation": "impact global climate change"}
+{"node1": "oceans", "node2": "store around 95%", "relation": "play a crucial role in the hydrologic cycle"}
+{"node1": "major rivers", "node2": "oceans", "relation": "empty into"}
+{"node1": "groundwater", "node2": "store", "relation": "rock or sediment formations capable of storing and yielding large quantities of water"}
+{"node1": "porosity", "node2": "groundwater availability", "relation": "depends on"}
+{"node1": "permeability", "node2": "groundwater availability", "relation": "depends on"}
+{"node1": "surface water", "node2": "elevation", "relation": "follows"}
+{"node1": "groundwater", "node2": "hydraulic head", "relation": "moves"}
+{"node1": "unconfined aquifer", "node2": "Figure 8.15", "relation": "depicts"}
+{"node1": "groundwater", "node2": "spring", "relation": "discharges"}
+{"node1": "groundwater", "node2": "surface water body", "relation": "discharges"}
+{"node1": "human", "node2": "well", "relation": "extracts"}
+{"node1": "water scarcity", "node2": "population growth", "relation": "leads"}
+{"node1": "water scarcity", "node2": "water withdrawal", "relation": "affects"}
+{"node1": "water scarcity", "node2": "average water supply", "relation": "decreases"}
+{"node1": "water scarcity", "node2": "physical water scarcity", "relation": "refers to"}
+{"node1": "water scarcity", "node2": "economic water scarcity", "relation": "refers to"}
+{"node1": "economic water scarcity", "node2": "reliable and safe drinking water", "relation": "denotes lack of access to"}
+{"node1": "economic water scarcity", "node2": "country", "relation": "experiences"}
+{"node1": "infrastructure development", "node2": "addresses", "relation": "water scarcity issues"}
+{"node1": "water pollution", "node2": "natural sources", "relation": "originates from"}
+{"node1": "water pollution", "node2": "human sources", "relation": "results from"}
+{"node1": "water pollution", "node2": "point source pollution", "relation": "emanates from"}
+{"node1": "water pollution", "node2": "non-point source pollution", "relation": "arises from"}
+{"node1": "pollutant", "node2": "rainwater", "relation": "transports"}
+{"node1": "pollutant", "node2": "snowmelt", "relation": "transports"}
+{"node1": "pollutant", "node2": "irrigation", "relation": "transports"}
+{"node1": "surface water", "node2": "groundwater", "relation": "exhibits distinct behaviors"}
+{"node1": "elevation", "node2": "lower", "relation": "naturally flows"}
+{"node1": "hydraulic head", "node2": "pressure", "relation": "or"}
+{"node1": "spring", "node2": "discharges", "relation": "into"}
+{"node1": "wells", "node2": "humans", "relation": "extract"}
+{"node1": "population growth", "node2": "water withdrawals", "relation": "in response to"}
+{"node1": "average water supply per person", "node2": "decrease", "relation": "by approximately one-third"}
+{"node1": "physical water scarcity", "node2": "over 1.2 billion people globally", "relation": ""}
+{"node1": "economic water shortages", "node2": "around 1.6 billion people currently grapple with", "relation": ""}
+{"node1": "infrastructure development", "node2": "mitigates water scarcity in many parts of the world", "relation": ""}
+{"node1": "groundwater", "node2": "contamination", "relation": "can become"}
+{"node1": "metals", "node2": "dissolution", "relation": "occur"}
+{"node1": "sediments", "node2": "flowing", "relation": "through"}
+{"node1": "human activities", "node2": "contribution", "relation": "to"}
+{"node1": "fuel tanks", "node2": "leaks", "relation": "seep"}
+{"node1": "toxic chemical spills", "node2": "seepage", "relation": "into"}
+{"node1": "agricultural practices", "node2": "accumulation", "relation": "and migration"}
+{"node1": "septic systems", "node2": "introduction", "relation": "of"}
+{"node1": "waste disposal sites", "node2": "introduction", "relation": "of"}
+{"node1": "bacteria", "node2": "presence", "relation": "increases"}
+{"node1": "non-point source pollution", "node2": "stemming", "relation": "from"}
+{"node1": "agriculture", "node2": "sediment control", "relation": "helps minimize"}
+{"node1": "fertilizer", "node2": "runoff", "relation": "reducing is essential"}
+{"node1": "pesticide", "node2": "runoff", "relation": "reducing is essential"}
+{"node1": "herbicide", "node2": "runoff", "relation": "reducing is essential"}
+{"node1": "mines", "node2": "release", "relation": "of"}
+{"node1": "ore processing plants", "node2": "discharge", "relation": "of"}
+{"node1": "tailings", "node2": "near streams", "relation": "avoiding"}
+{"node1": "stormwater runoff", "node2": "minimization", "relation": "by"}
+{"node1": "native plant", "node2": "techniques", "relation": "promoting"}
+{"node1": "xeriscape", "node2": "techniques", "relation": "promoting"}
+{"node1": "street sweeping", "node2": "regular", "relation": "is essential"}
+{"node1": "voluntary programs", "node2": "success", "relation": "shows"}
+{"node1": "regulatory programs", "node2": "establishment", "relation": "since"}
+{"node1": "point source pollution", "node2": "control", "relation": "has been successful"}
+{"node1": "watershed management", "node2": "focus", "relation": "on"}
+{"node1": "conservation", "node2": "maximizing", "relation": "is essential"}
+{"node1": "pollution", "node2": "minimizing", "relation": "is essential"}
+{"node1": "complex water contamination issues", "node2": "addressing", "relation": "across entire watersheds"}
+{"node1": "Clean Water Act", "node2": "Water Regulation", "relation": "Is"}
+{"node1": "Point Source", "node2": "Pollution Control", "relation": "Targets"}
+{"node1": "Interstate Groundwater", "node2": "Contamination Management", "relation": "Aims At"}
+{"node1": "Surface Waters", "node2": "Contamination Management", "relation": "Aims At"}
+{"node1": "Public Health", "node2": "Safe Drinking Water Act", "relation": "Objective Is To Protect"}
+{"node1": "Maximum Contaminant Levels", "node2": "Safe Drinking Water Act", "relation": "Sets"}
+{"node1": "Water Bodies", "node2": "Clean Water Act", "relation": "Reduces Pollution In"}
+{"node1": "Public Drinking Water Supplies", "node2": "Safe Drinking Water Act", "relation": "Applies To"}
+{"node1": "Environmental Protection Agency", "node2": "Authority", "relation": "Grants"}
+{"node1": "Water Quality Goals", "node2": "Clean Water Act", "relation": "Establishes"}
+{"node1": "Regulations", "node2": "Clean Water Act", "relation": "Establishes"}
+{"node1": "Clean Water Act", "node2": "U.S. Water Regulation", "relation": "established"}
+{"node1": "Clean Water Act", "node2": "Point Sources", "relation": "regulated"}
+{"node1": "Federal Water Pollution Act", "node2": "Groundwater", "relation": "managed"}
+{"node1": "Federal Water Pollution Act", "node2": "Surface Waters", "relation": "managed"}
+{"node1": "Safe Drinking Water Act", "node2": "Public Drinking Water Supplies", "relation": "protected"}
+{"node1": "Safe Drinking Water Act", "node2": "Maximum Contaminant Levels", "relation": "set"}
+{"node1": "Environmental Protection Agency", "node2": "Water Quality Goals", "relation": "granted authority to set"}
+{"node1": "Environmental Protection Agency", "node2": "Regulations Related to Water Quality", "relation": "enforced"}
+{"node1": "Clean Water Act", "node2": "Pollution", "relation": "reduced"}
+{"node1": "Safe Drinking Water Act", "node2": "Chemicals", "relation": "addressed"}

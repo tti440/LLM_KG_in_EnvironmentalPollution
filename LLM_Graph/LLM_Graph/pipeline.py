@@ -1,11 +1,11 @@
-from extraction_process import text_collection
-from summarisation_mistral import process_mistral
-from triple_extraction import process_zephyr
+from .extraction_process import text_collection
+#from .summarisation_mistral import process_mistral
+#from .triple_extraction import process_zephyr
+from .construction_utils import merge_edge, merge_nodes, check_duplicates, is_empty_or_punct, \
+	data_preprocess, get_term_mapping, map_data, get_final_embeddings
 import os
 import json
 import networkx as nx
-from construction_utils import merge_edge, merge_nodes, check_duplicates, is_empty_or_punct, \
-	data_preprocess, get_term_mapping, map_data, get_final_embeddings
 from collections import Counter
 import pandas as pd
 
@@ -32,7 +32,8 @@ def triples_generation():
 	# Results are saved in corpus_text_json/pmc_corpus.jsonl
 	# If the file already exists, it will not be overwritten.
 	if not os.path.exists("corpus_text_json/pmc_corpus.jsonl"):
-		text_collection(queries)
+		#text_collection(queries)
+		pass
 	corpus_files = os.listdir("corpus_text_json/")
 	for file in corpus_files:
 		if file.endswith(".jsonl"):
@@ -140,7 +141,7 @@ def graph_mapping(verbose):
 	nx.write_graphml(graph, "final_mapped_cleaned_graph.graphml")
 	get_final_embeddings(graph)
 
-def pipeline(node_threshold, node_embedding_file, edge_threshold, edge_embedding_file, verbose):
+def construction_pipeline(node_threshold, node_embedding_file, edge_threshold, edge_embedding_file, verbose):
 	print("Starting triples generation...")
 	triples_generation()
 	print("Triples generation complete.")
@@ -152,18 +153,3 @@ def pipeline(node_threshold, node_embedding_file, edge_threshold, edge_embedding
 	print("Starting graph mapping...")
 	graph_mapping(verbose)
 	print("Graph mapping complete.")
-
-import argparse
-if __name__ == "__main__":
-	argparse = argparse.ArgumentParser(description="Run the LLM pipeline for environmental pollution data.")
-	argparse.add_argument("--node_threshold", type=float, default=0.9, help="Threshold for merging nodes.")
-	argparse.add_argument("--node_embedding_file", type=str, default=None, help=".pkl file for node embeddings.")
-	argparse.add_argument("--edge_threshold", type=float, default=0.9, help="Threshold for merging edges.")
-	argparse.add_argument("--edge_embedding_file", type=str, default=None, help=".pkl file for edge embeddings.")
-	argparse.add_argument("--verbose", type = str, default="False", help="Enable verbose output.")
-	args = argparse.parse_args()
-	if args.verbose == "True":
-		args.verbose = True
-	elif args.verbose == "False":
-		args.verbose = False
-	pipeline(args.node_threshold, args.node_embedding_file, args.edge_threshold, args.edge_embedding_file, args.verbose)

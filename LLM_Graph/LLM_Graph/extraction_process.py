@@ -83,7 +83,7 @@ def fetch_pubmed_literature(query, max_results=100, engine_type="pubmed"):
 	A list of dictionaries containing PubMed IDs and either abstracts or full texts.
 	'''
 	if engine_type == "pubmed":
-		search_handle = Entrez.esearch(db="pubmed", term=query, retmax=max_results)
+		search_handle = Entrez.esearch(db="pmc", term=query, retmax=max_results)
 		search_results = Entrez.read(search_handle)
 		id_list = search_results["IdList"]
 		abstracts = []
@@ -101,7 +101,11 @@ def fetch_pubmed_literature(query, max_results=100, engine_type="pubmed"):
 		id_list = search_results["IdList"]
 		full_texts = []
 		for pubmed_id in id_list:
-			handle = Entrez.efetch(db="pmc", id=pubmed_id, rettype="full", retmode="xml")
+			try:
+				handle = Entrez.efetch(db="pmc", id=pubmed_id, rettype="full", retmode="xml")
+			except:
+				print(f"Error fetching full text for ID {pubmed_id}")
+				continue
 			corpus = handle.read()
 			xml_str = corpus.decode("utf-8")
 			full_texts.append({

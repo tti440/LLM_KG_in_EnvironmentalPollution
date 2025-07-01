@@ -25,7 +25,7 @@ set_seed(42)
 tokenizer_model = "BAAI/bge-large-en-v1.5"
 embedding_tokenizer = AutoTokenizer.from_pretrained(tokenizer_model)
 embedding_model = AutoModel.from_pretrained(tokenizer_model)
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="YOUR_OPENAI_API_KEY")
 
 if not os.path.exists("output"):
     os.makedirs("output")
@@ -82,9 +82,9 @@ def subgraph_extraction(G, target, method, similar_to=True, graphml=True):
 		G_sub = G.subgraph(nodes).copy()
 	else:
 		raise ValueError("Method must be either '1hop' or '2hops'")
-	visualize_subgraph_pyvis(G_sub, f"{target}_{method}_subgraph.html")
+	visualize_subgraph_pyvis(G_sub, f"output/{target}_{method}_subgraph.html")
 	if graphml:
-		graphml_file = f"{target}_{method}_subgraph.graphml"
+		graphml_file = f"output/{target}_{method}_subgraph.graphml"
 		nx.write_graphml(G_sub, graphml_file)
 		print(f"Subgraph saved to: output/{graphml_file}")
  

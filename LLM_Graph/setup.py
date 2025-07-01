@@ -119,14 +119,18 @@ setup(
         'spacy==3.8.7',
         'sqlalchemy==2.0.41',
         'torch==2.7.1+cu126',
-        'torchaudio==2.7.1+cu126',
-        'torchvision==0.22.1+cu126',
         'transformers==4.53.0',
         'tqdm==4.67.1',
         'uuid==1.30',
         'yachalk==0.1.7',
         'pyvis==0.3.2',
-        'wkhtmltopdf==0.2'
+        'wkhtmltopdf==0.2',
+        'lxml',
+        'sentence_transformers',
+        'nltk',
+        'openpyxl',
+        'openai',
+        'nx-cugraph-cu12==25.6.0'
     ],
     dependency_links=[
         'https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl'

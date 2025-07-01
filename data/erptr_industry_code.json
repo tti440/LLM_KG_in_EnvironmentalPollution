@@ -1,0 +1,182 @@
+{
+    "1(a)": {
+        "sector": "Energy sector",
+        "main_activity": "Mineral oil and gas refineries"
+    },
+    "1(b)": {
+        "sector": "Energy sector",
+        "main_activity": "Installations for gasification and liquefaction"
+    },
+    "1(c)": {
+        "sector": "Energy sector",
+        "main_activity": "Thermal power stations and other combustion installations"
+    },
+    "1(d)": {
+        "sector": "Energy sector",
+        "main_activity": "Coke ovens"
+    },
+    "1(e)": {
+        "sector": "Energy sector",
+        "main_activity": "Coal rolling mills"
+    },
+    "1(f)": {
+        "sector": "Energy sector",
+        "main_activity": "Installations for the manufacture of coal products and solid smokeless fuel"
+    },
+    "2(a)": {
+        "sector": "Production and processing of metals",
+        "main_activity": "Metal ore roasting or sintering installations"
+    },
+    "2(b)": {
+        "sector": "Production and processing of metals",
+        "main_activity": "Production of pig iron or steel (primary or secondary melting) including continuous casting"
+    },
+    "2(c)": {
+        "sector": "Production and processing of metals",
+        "main_activity": "Processing of ferrous metals"
+    },
+    "2(d)": {
+        "sector": "Production and processing of metals",
+        "main_activity": "Ferrous metal foundries"
+    },
+    "2(e)": {
+        "sector": "Production and processing of metals",
+        "main_activity": "Production or smelting of non-ferrous metals"
+    },
+    "2(f)": {
+        "sector": "Production and processing of metals",
+        "main_activity": "Surface treatment of metals or plastics by electrolytic or chemical process"
+    },
+    "3(a)": {
+        "sector": "Mineral industry",
+        "main_activity": "Underground mining and related operations"
+    },
+    "3(b)": {
+        "sector": "Mineral industry",
+        "main_activity": "Opencast mining and quarrying"
+    },
+    "3(c)": {
+        "sector": "Mineral industry",
+        "main_activity": "Production of cement clinker or lime"
+    },
+    "3(d)": {
+        "sector": "Mineral industry",
+        "main_activity": "Production of asbestos or asbestos-based products"
+    },
+    "3(e)": {
+        "sector": "Mineral industry",
+        "main_activity": "Manufacture of glass, including glass fibre"
+    },
+    "3(f)": {
+        "sector": "Mineral industry",
+        "main_activity": "Melting of mineral substances, including production of mineral fibres"
+    },
+    "3(g)": {
+        "sector": "Mineral industry",
+        "main_activity": "Manufacture of ceramic products by firing"
+    },
+    "4(a)": {
+        "sector": "Chemical industry",
+        "main_activity": "Industrial-scale production of basic organic chemicals"
+    },
+    "4(b)": {
+        "sector": "Chemical industry",
+        "main_activity": "Industrial-scale production of basic inorganic chemicals"
+    },
+    "4(c)": {
+        "sector": "Chemical industry",
+        "main_activity": "Industrial-scale production of fertilisers (phosphorus-, nitrogen- or potassium-based)"
+    },
+    "4(d)": {
+        "sector": "Chemical industry",
+        "main_activity": "Industrial-scale production of plant-health products and biocides"
+    },
+    "4(e)": {
+        "sector": "Chemical industry",
+        "main_activity": "Industrial-scale production of basic pharmaceutical products"
+    },
+    "4(f)": {
+        "sector": "Chemical industry",
+        "main_activity": "Industrial-scale production of explosives and pyrotechnic products"
+    },
+    "5(a)": {
+        "sector": "Waste and wastewater management",
+        "main_activity": "Recovery or disposal of hazardous waste"
+    },
+    "5(b)": {
+        "sector": "Waste and wastewater management",
+        "main_activity": "Incineration of non-hazardous waste"
+    },
+    "5(c)": {
+        "sector": "Waste and wastewater management",
+        "main_activity": "Disposal of non-hazardous waste"
+    },
+    "5(d)": {
+        "sector": "Waste and wastewater management",
+        "main_activity": "Landfills (other than inert or definitively closed sites)"
+    },
+    "5(e)": {
+        "sector": "Waste and wastewater management",
+        "main_activity": "Disposal or recycling of animal carcasses and animal waste"
+    },
+    "5(f)": {
+        "sector": "Waste and wastewater management",
+        "main_activity": "Urban waste-water treatment plants"
+    },
+    "5(g)": {
+        "sector": "Waste and wastewater management",
+        "main_activity": "Industrial waste-water treatment plants serving one or more Annex I activities"
+    },
+    "6(a)": {
+        "sector": "Paper and wood production and processing",
+        "main_activity": "Production of pulp from timber or similar fibrous materials"
+    },
+    "6(b)": {
+        "sector": "Paper and wood production and processing",
+        "main_activity": "Production of paper, board and other primary wood products"
+    },
+    "6(c)": {
+        "sector": "Paper and wood production and processing",
+        "main_activity": "Preservation of wood and wood products with chemicals"
+    },
+    "7(a)": {
+        "sector": "Intensive livestock production and aquaculture",
+        "main_activity": "Intensive rearing of poultry or pigs"
+    },
+    "7(b)": {
+        "sector": "Intensive livestock production and aquaculture",
+        "main_activity": "Intensive aquaculture"
+    },
+    "8(a)": {
+        "sector": "Animal and vegetable products (food & beverage)",
+        "main_activity": "Slaughterhouses"
+    },
+    "8(b)": {
+        "sector": "Animal and vegetable products (food & beverage)",
+        "main_activity": "Processing of animal or vegetable raw materials for food and beverages"
+    },
+    "8(c)": {
+        "sector": "Animal and vegetable products (food & beverage)",
+        "main_activity": "Treatment and processing of milk"
+    },
+    "9(a)": {
+        "sector": "Other activities",
+        "main_activity": "Pre-treatment or dyeing of fibres or textiles"
+    },
+    "9(b)": {
+        "sector": "Other activities",
+        "main_activity": "Tanning of hides and skins"
+    },
+    "9(c)": {
+        "sector": "Other activities",
+        "main_activity": "Surface treatment using organic solvents"
+    },
+    "9(d)": {
+        "sector": "Other activities",
+        "main_activity": "Production of carbon or electro-graphite"
+    },
+    "9(e)": {
+        "sector": "Other activities",
+        "main_activity": "Building, painting or paint removal from ships"
+    }
+}
