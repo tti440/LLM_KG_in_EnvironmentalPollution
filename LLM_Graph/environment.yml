@@ -1,0 +1,23 @@
+name: llm_graph_env
+channels:
+  - conda-forge
+  - nvidia
+  - pytorch
+  - rapidsai
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+  - cudf-cu12=25.6.0
+  - cugraph-cu12=25.6.0
+  - dask-cuda=25.6.0
+  - pytorch
+  - torchvision
+  - torchaudio
+  - rapids-logger
+  - numpy
+  - pandas
+  - pip:
+      - -e .  
+

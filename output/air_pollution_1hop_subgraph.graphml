@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="width" attr.type="long"/>
+<key id="d2" for="edge" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="size" attr.type="long"/>
+<graph edgedefault="directed"><node id="heavy metals">
+  <data key="d0">10</data>
+</node>
+<node id="pm10">
+  <data key="d0">10</data>
+</node>
+<node id="hazardous_component">
+  <data key="d0">10</data>
+</node>
+<node id="health_risks">
+  <data key="d0">10</data>
+</node>
+<node id="accelerate">
+  <data key="d0">10</data>
+</node>
+<node id="contributes_to">
+  <data key="d0">10</data>
+</node>
+<node id="pm25">
+  <data key="d0">10</data>
+</node>
+<node id="respiratory health outcomes">
+  <data key="d0">10</data>
+</node>
+<node id="pm">
+  <data key="d0">10</data>
+</node>
+<node id="health effects">
+  <data key="d0">10</data>
+</node>
+<node id="lung_cancer">
+  <data key="d0">10</data>
+</node>
+<node id="no2">
+  <data key="d0">10</data>
+</node>
+<node id="residents">
+  <data key="d0">10</data>
+</node>
+<node id="chronic respiratory diseases">
+  <data key="d0">10</data>
+</node>
+<node id="nafd">
+  <data key="d0">10</data>
+</node>
+<node id="genetic_variants">
+  <data key="d0">10</data>
+</node>
+<node id="zero pollution action plan">
+  <data key="d0">10</data>
+</node>
+<node id="human health">
+  <data key="d0">10</data>
+</node>
+<node id="air_pollution">
+  <data key="d0">10</data>
+</node>
+<node id="significant risks">
+  <data key="d0">10</data>
+</node>
+<node id="lung_flexibility">
+  <data key="d0">10</data>
+</node>
+<node id="grid cell">
+  <data key="d0">10</data>
+</node>
+<node id="instrumental variables">
+  <data key="d0">10</data>
+</node>
+<node id="atmosphere">
+  <data key="d0">10</data>
+</node>
+<node id="cement production">
+  <data key="d1">activity</data>
+  <data key="d0">10</data>
+</node>
+<node id="willingness to pay">
+  <data key="d0">10</data>
+</node>
+<edge source="heavy metals" target="human health">
+  <data key="d2">adversely affect</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="heavy metals" target="air_pollution">
+  <data key="d2">includes</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="heavy metals" target="lung_cancer">
+  <data key="d2">contributes to</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="pm10" target="pm">
+  <data key="d2">size fraction</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="pm10" target="health effects">
+  <data key="d2">influences</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="pm10" target="nafd">
+  <data key="d2">causes</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="pm10" target="air_pollution">
+  <data key="d2">is</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="pm25" target="air_pollution">
+  <data key="d2">is</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="pm" target="health effects">
+  <data key="d2">depends on</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="pm" target="atmosphere">
+  <data key="d2">is suspended in</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="pm" target="air_pollution">
+  <data key="d2">consists of</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="health effects" target="heavy metals">
+  <data key="d2">exceed previous reports for</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="health effects" target="pm">
+  <data key="d2">primarily attributed to</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="no2" target="air_pollution">
+  <data key="d2">is</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="no2" target="human health">
+  <data key="d2">causes respiratory issues</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="no2" target="health effects">
+  <data key="d2">contribute indirectly via</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="no2" target="nafd">
+  <data key="d2">causes</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="residents" target="air_pollution">
+  <data key="d2">do not consider a serious issue</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="residents" target="health effects">
+  <data key="d2">experience</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="chronic respiratory diseases" target="air_pollution">
+  <data key="d2">contribute</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="genetic_variants" target="nafd">
+  <data key="d2">associated with</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="genetic_variants" target="air_pollution">
+  <data key="d2">associated with</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="zero pollution action plan" target="air_pollution">
+  <data key="d2">aims to reduce</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="human health" target="heavy metals">
+  <data key="d2">poses long-term risks to</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="respiratory health outcomes">
+  <data key="d2">plays a role in</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="accelerate">
+  <data key="d2">weathering effect</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="atmosphere">
+  <data key="d2">presence</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="human health">
+  <data key="d2">identified as presence of unwanted substances affecting</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="nafd">
+  <data key="d2">causes</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="hazardous_component">
+  <data key="d2">results from</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="contributes_to">
+  <data key="d2">ecosystem degradation</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="health_risks">
+  <data key="d2">is not fully understood by many pakistanis</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="health effects">
+  <data key="d2">examines</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="lung_cancer">
+  <data key="d2">increases risk</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="significant risks">
+  <data key="d2">poses</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="grid cell">
+  <data key="d2">overlaps</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="air_pollution" target="lung_flexibility">
+  <data key="d2">adversely affect</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="instrumental variables" target="air_pollution">
+  <data key="d2">used in mr analysis</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="instrumental variables" target="nafd">
+  <data key="d2">used in mr analysis</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="cement production" target="lung_cancer">
+  <data key="d2">associated with</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="cement production" target="air_pollution">
+  <data key="d2">contributes to</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="willingness to pay" target="air_pollution">
+  <data key="d2">is not directly linked to severity but perception and preference</data>
+  <data key="d3">1</data>
+</edge>
+</graph></graphml>
