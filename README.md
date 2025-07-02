@@ -114,3 +114,6 @@ This work builds upon:
 
 ---
 
+## Contact
+
+Takehiro Tsurumi: t.tsurumi@student.vu.nl
