@@ -50,12 +50,12 @@ After cloning the repository, follow these steps to set up the environment:
 ## Setup
 
 - **Text Corpus**  
-  The default corpus is under the `corpus_text_json/` directory. You can add additional `.txt` files **as long as they are chunked** properly.
+  The default corpus is under the `corpus_text_json/` directory. You can add additional text corpus **as long as they are chunked** properly.
 
 - **Processing Raw Text**  
   To convert plain `.txt` files into chunked `.jsonl`, run:
   ```bash
-  python rawtext_process.py --files example.txt,example2.txt --output_file example.jsonl
+  python rawtext_process.py --files example.txt,example2.txt,example3.txt --output_file example.jsonl
   ```
 
 - **API Key Configuration**  
