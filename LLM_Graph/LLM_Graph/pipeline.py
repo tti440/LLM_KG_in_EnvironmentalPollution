@@ -50,10 +50,9 @@ def triples_generation():
 			with open(file_path, "r", encoding="utf-8") as f:
 				triples.extend([json.loads(line) for line in f])
 	
-	if not os.path.exists("all_triples.jsonl"):
-		with open("all_triples.jsonl", "w", encoding="utf-8") as f:
-			for triple in triples:
-				f.write(json.dumps(triple) + "\n")
+	with open("all_triples.jsonl", "w", encoding="utf-8") as f:
+		for triple in triples:
+			f.write(json.dumps(triple) + "\n")
 	
 def graph_construction(node_threshold=0.9, node_embedding_file=None, edge_threshold=0.9, edge_embedding_file=None, verbose=False):
 	triples= []

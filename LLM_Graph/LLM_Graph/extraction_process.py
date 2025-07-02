@@ -6,8 +6,14 @@ from nltk.tokenize import sent_tokenize
 import spacy
 import re
 import os
+from dotenv import load_dotenv
+import os
 
-Entrez.email = "abc@example.com"  # Always include this
+load_dotenv()  # load from .env
+
+email = os.getenv("your@email.com")
+
+Entrez.email = email  # Always include this
 def normalize_whitespace(text: str) -> str:
 	# Replace multiple spaces, tabs, and newlines with a single space
 	return re.sub(r'\s+', ' ', text).strip()
@@ -137,4 +143,49 @@ def text_collection(queries):
 					continue
 				f.write(json.dumps({"pubmed_id": k, "text": chunks}) + "\n")
 		f.close()
- 
+  
+from typing import List
+def fulltext_2_chunks(filename:List, output_file:str=None, chunk_size:int=750):
+	'''
+	Convert full text corpus to chunks.
+	Args:
+		filename (list): The path to the corpus files.
+		output_file (str): The path to the output jsonl file.
+		chunk_size (int): The maximum size of each chunk in words.
+
+	'''
+	if output_file is None:
+		name = filename[0].split(".")[0]
+		output_file = f"{name}.jsonl"
+	full_text = []
+	for f in filename:
+		assert os.path.exists(f), f"File {f} does not exist."
+		assert f.endswith(".txt"), f"File {f} is not a txt file."
+		with open(f, "r") as file:
+			for line in file:
+				line = line.strip()
+				if line:
+					full_text.append(line)
+	
+	chunks = []
+	id = 0
+	tokenizer = spacy.load("en_core_web_sm")
+	with open(f"corpus_text_json/{output_file}", "w", encoding="utf-8") as out:
+		full_text = ' '.join(full_text)
+		doc = tokenizer(full_text)
+		sentences = [sent.text for sent in doc.sents]
+		chunks, current, count = [], [], 0
+		chunk_size = 750
+		for s in sentences:
+			w = len(s.split())
+			if count + w > chunk_size:
+				chunks.append(" ".join(current))
+				current, count = [], 0
+			current.append(s)
+			count += w
+		if current:
+			chunks.append(" ".join(current))
+		out.write(json.dumps({"id": f"{id}", "text":chunks}) + "\n")
+		id += 1
+		out.close()
+	print(f"Chunks saved to corpus_text_json/{output_file}")

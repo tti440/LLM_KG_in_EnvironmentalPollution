@@ -19,13 +19,18 @@ from tqdm import tqdm
 import numpy as np
 import cugraph
 import powerlaw
+from dotenv import load_dotenv
+import os
 
+load_dotenv()  # load from .env
+
+openai_key = os.getenv("OPENAI_API_KEY")
 os.environ["NX_CUGRAPH_AUTOCONFIG"] = "1"
 set_seed(42) 
 tokenizer_model = "BAAI/bge-large-en-v1.5"
 embedding_tokenizer = AutoTokenizer.from_pretrained(tokenizer_model)
 embedding_model = AutoModel.from_pretrained(tokenizer_model)
-client = OpenAI(api_key="YOUR_OPENAI_API_KEY")
+client = OpenAI(api_key=openai_key)
 
 if not os.path.exists("output"):
     os.makedirs("output")
