@@ -79,7 +79,6 @@ The following outputs will be created:
 - `final_mapped_cleaned_graph.graphml`: the main knowledge graph file
 - `node_mapping.json`: mapping of node labels
 - `label_mapping.json`: merged label dictionary
-
 Processed triples from each corpus chunk files will be stored in `triples/` directory, and the final triples will be combined and saved in `all_triples.jsonl`.
 However, this process does not include text collections from other sources such as textbook. Therefore, you need to upload these and use rawtext_process.py to conver them into chunks manually.
 ---
