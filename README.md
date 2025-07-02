@@ -5,9 +5,9 @@ This repository provides an **LLM-based pipeline** for knowledge graph construct
 It is inspired by the excellent work in [GraphReasoning](https://github.com/lamm-mit/GraphReasoning), and adapted to incorporate **graph-based mappings**, **centrality analysis**, **community detection**, and **competency-question answering** using both scientific text corpora and structured triples.
 
 The pipeline addresses three major challenges in knowledge graph research:
-- 🌍 **Conceptual divergence at literal level** across domains 
-- 📄 **Extraction of structured knowledge** from unstructured environmental reports
-- 📈 **Scalability** when integrating heterogeneous data such as industrial emissions, pollutants, and policies
+- **Conceptual divergence at literal level** across domains 
+- **Extraction of structured knowledge** from unstructured environmental reports
+- **Scalability** when integrating heterogeneous data such as industrial emissions, pollutants, and policies
 
 Leveraging **Large Language Models** (Mistral and Zephyr), the pipeline extracts semantic triples, aligns similar entities via embedding-based similarity, and constructs a unified, queryable graph.  
 Subsequent analysis demonstrates how this graph structure can model real-world environmental dynamics and support LLM-driven reasoning on interdisciplinary queries.
@@ -114,3 +114,6 @@ This work builds upon:
 
 ---
 
+## Contact
+
+Takehiro Tsurumi: t.tsurumi@student.vu.nl
