@@ -90,20 +90,18 @@ However, this process does not include text collections from other sources such 
 Analysis is demonstrated in the notebook: `GraphAnalysis.ipynb`.  
 It includes:
 
-### Subgraph Generation  
-📎 Image:  
+### Subgraph Generation 
+this generated subgraph is processed in Gephi 
 ![Subgraph](image/air_pollution_subgraph.png)
 
 ---
 
 ### Centrality Analysis  
-📎 Image:  
 ![Centrality](image/combined_node_centrality_metrics.png)
 
 ---
 
 ### Community Analysis  
-📎 Images:
 - ![Community Overview](image/community_statistics_overview.png)
 - ![Top Nodes](image/top_nodes_by_degree_combined.png)
 
