@@ -22,6 +22,7 @@ Subsequent analysis demonstrates how this graph structure can model real-world e
 ---
 
 ## Installation
+After cloning the repository, follow these steps to set up the environment:
 
 1. **Create Conda Environment**
    ```bash
@@ -31,7 +32,7 @@ Subsequent analysis demonstrates how this graph structure can model real-world e
 2. **Manually Install PyTorch with CUDA (recommended CUDA ≥ 12.4)**  
    Example:
    ```bash
-   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+   pip install torch --index-url https://download.pytorch.org/whl/cu124
    ```
 
 3. **Install the project in editable mode**
